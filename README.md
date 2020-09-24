@@ -4,7 +4,7 @@
 
 This guide is intended for anyone having zero or a small background in programming, maths and machine learning. There is no specific order to follow, but a classic path would be from top to bottom. If you don't like reading books, skip it, if you don't want to follow an online course, you can skip it as well. There is not a single way to become a machine learning expert and with motivation, you can absolutely achieve it.
 
-All ressources listed here are free, except some online courses which are certainly recommended for a better understanding, but it can certainly be done without it with a little more reading and practice.
+All resources listed here are free, except some online courses which are certainly recommended for a better understanding, but it can certainly be done without it with a little more reading and practice.
 
 Don't be afraid to repeat videos or learn from multiple sources. Repetition is the key of success to learning!
 
@@ -101,7 +101,7 @@ You can also create teams for kaggle competition and learn with people! I sugges
 * Follow reddit communities - Ask questions, share your projects, follow news, and more.
     * [artificial](https://www.reddit.com/r/artificial/) - Artificial Intelligence
     * [MachineLearning](https://www.reddit.com/r/MachineLearning/) - Machine Learning (Biggest subreddit of the field)
-    * [Deep Learning Papers](https://www.reddit.com/r/DeepLearningPapers/) - Deep Learning Papers
+    * [DeepLearningPapers](https://www.reddit.com/r/DeepLearningPapers/) - Deep Learning Papers
     * [ComputerVision](https://www.reddit.com/r/computervision/) - Extracting useful information from images and videos
     * [learnmachinelearning](https://www.reddit.com/r/learnmachinelearning/) - Learn Machine Learning
     * [ArtificialInteligence](https://www.reddit.com/r/ArtificialInteligence/) - AI
