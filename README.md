@@ -18,6 +18,7 @@ Maintainer - [louisfb01](https://github.com/louisfb01)
 - [No coding background, no problem](#Coding)
 - [Follow online courses](#Online_Courses)
 - [Practice!](#Practice!)
+- [More_Resources](#More_Resources)
 
 ## YouTube_Videos
 ### Start with short YouTube videos introductions
@@ -45,16 +46,37 @@ Here is a list of awesome courses available on YouTube that you should definitel
 Here is a list of awesome articles available online that you should definitely read and are 100% free.
 
 
+
 ## Read_Books
 ### Read some books
+Here are some great books to read for the people preferring the reading path.
+
+* [Deep learning book](https://www.deeplearningbook.org/) - Free Online
+* [Artificial Intelligence: A Modern Approach](https://amzn.to/302jB8M) - Optional (Paying)
+* [Pattern Recognition and Machine Learning](https://amzn.to/32W21VM) - Optional (Paying)
+* [The Elements of Statistical Learning](https://amzn.to/3mQXT0Y) - Optional (Paying)
+* [Deep Learning with Python](https://amzn.to/33ZWc8S) - Optional (Paying)
 
 ## Coding
 ### No coding background, no problem
+Here is a list of some great courses to learn the programming side of machine learning.
+
+* [Learn Python](https://www.learnpython.org/) - Free interactive tutorial to learn python
+* [Learn Python Basics for Data Analysis](https://openclassrooms.com/en/courses/2304731-learn-python-basics-for-data-analysis/6009031-get-started-with-python-and-anaconda) - Free course on OpenClassrooms
+* [Machine Learning with Python | Coursera - IBM](https://click.linksynergy.com/deeplink?id=8jtkHPNI0iU&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fmachine-learning-with-python) - Optional (Paying)
+
 
 ## Online_Courses
 ### (Optional) Get a better understanding and more guided practice by following some online courses
+If you prefer to be more guided and have clear steps to follow, these courses are the best ones to do.
 
-
+* [Get started in AI / AI For everyone - Andrew Ng](https://click.linksynergy.com/deeplink?id=8jtkHPNI0iU&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fai-for-everyone)
+* [Machine learning - Andrew Ng - Stanford](https://click.linksynergy.com/deeplink?id=8jtkHPNI0iU&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fmachine-learning)
+* [Deep learning specialization - Andrew Ng](https://click.linksynergy.com/deeplink?id=8jtkHPNI0iU&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fneural-networks-deep-learning%3Fspecialization%3Ddeep-learning)
+* [TensorFlow (Professional certificates)](https://click.linksynergy.com/deeplink?id=8jtkHPNI0iU&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Fprofessional-certificates%2Ftensorflow-in-practice)
+* [AI Engineering - IBM (Professional certificates)](https://click.linksynergy.com/deeplink?id=8jtkHPNI0iU&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Fprofessional-certificates%2Fai-engineer)
+* [Complete data science bootcamp 2020](https://click.linksynergy.com/deeplink?id=8jtkHPNI0iU&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-data-science-course-complete-data-science-bootcamp%2F)
+* [Machine learning - No coding](https://click.linksynergy.com/link?id=8jtkHPNI0iU&offerid=507388.1292838&type=2&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fhands-on-machine-learning-without-writing-code%2F)
 
 ## Practice!
 ### Practice is key
@@ -66,7 +88,7 @@ Fortunately, [Kaggle](https://www.kaggle.com/) exists. This website is full of f
 You can also create teams for kaggle competition and learn with people! I suggest you join a community to find a team and learn with others, it is always better than alone. Check out the next section for that.
 
 ## More_Resources
-### Join a community!
+### Join communities!
 
 * [A Discord server with many AI enthusiasts](https://discord.gg/SVse4Sr) - Learn together, ask questions, find kaggle teammates, share your projects, and more.
 
@@ -79,6 +101,20 @@ You can also create teams for kaggle competition and learn with people! I sugges
     * [ArtificialInteligence](https://www.reddit.com/r/ArtificialInteligence/) - AI
     * [LatsestInML](https://www.reddit.com/r/LatestInML/) - Game-changing developments in machine learning you shouldn't miss
 
-* Follow YouTube accounts that share new papers - Stay up to date with the news in the field!
+### Follow the news in the field!
+
+* Subscribe to YouTube accounts that share new papers - Stay up to date with the news in the field!
     * [What's AI](https://www.youtube.com/channel/UCUzGQrN-lyyc0BWTYoJM_Sg) - Weekly videos covering new papers
     * [Two Minutes Papers](https://www.youtube.com/user/keeroyz) - Bi-weekly videos covering new papers
+    
+* LinkedIn Groups
+    * [Artificial Intelligence, Machine Learning and Deep Learning News](https://www.linkedin.com/groups/8942343/) - News of the field shared by everyone in the group
+    * [Artificial Intelligence | Deep Learning  | Machine Learning](https://www.linkedin.com/groups/45655/)
+    * [Applied Artificial Intelligence](https://www.linkedin.com/groups/127447/)
+    
+* Follow Medium accounts and publications
+    * [Towards Data Science](https://towardsdatascience.com/) - "Sharing concepts, ideas, and codes"
+    * [Towards AI](https://medium.com/towards-artificial-intelligence) - "The Best of Tech, Science, and Engineering."
+    * [OneZero](https://onezero.medium.com/) - "The undercurrents of the future. A Medium publication about tech and science."
+    * [What's AI](https://medium.com/@whats_ai) - "I Vulgarize Artificial Intelligence terms and news for non-experts. My goal is to demystify the AI “Black box” for everyone and sensitize people about the risks."
+    
