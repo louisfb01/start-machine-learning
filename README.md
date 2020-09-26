@@ -2,7 +2,7 @@
 
 ## A complete guide on how to start learning machine learning (ML), artificial intelligence (AI) in 2020 without ANY background in the field.
 
-This guide is intended for anyone having zero or a small background in programming, maths and machine learning. There is no specific order to follow, but a classic path would be from top to bottom. If you don't like reading books, skip it, if you don't want to follow an online course, you can skip it as well. There is not a single way to become a machine learning expert and with motivation, you can absolutely achieve it.
+This guide is intended for anyone having zero or a small background in programming, maths, and machine learning. There is no specific order to follow, but a classic path would be from top to bottom. If you don't like reading books, skip it, if you don't want to follow an online course, you can skip it as well. There is not a single way to become a machine learning expert and with motivation, you can absolutely achieve it.
 
 All resources listed here are free, except some online courses which are certainly recommended for a better understanding, but it can certainly be done without it with a little more reading and practice.
 
