@@ -45,7 +45,7 @@ Here is a list of awesome courses available on YouTube that you should definitel
 ### Read many articles
 Here is a list of awesome articles available online that you should definitely read and are 100% free.
 
-* [Start Machine Learning in 2020 - Become an expert for free!]() *COMING SOON - Louis Bouchard
+* [Start Machine Learning in 2020 - Become an expert for free!](https://medium.com/towards-artificial-intelligence/start-machine-learning-in-2020-become-an-expert-from-nothing-for-free-f31587630cf7) - Louis Bouchard
 * [5 Beginner Friendly Steps to Learn Machine Learning and Data Science with Python](https://towardsdatascience.com/5-beginner-friendly-steps-to-learn-machine-learning-and-data-science-with-python-bf69e211ade5) - Daniel Bourke
 * [What is Machine Learning?](https://medium.com/towards-artificial-intelligence/what-is-machine-learning-ml-b58162f97ec7) - Roberto Iriondo
 * [Machine Learning for Beginners: An Introduction to Neural Networks](https://towardsdatascience.com/machine-learning-for-beginners-an-introduction-to-neural-networks-d49f22d238f9) - Victor Zhou
