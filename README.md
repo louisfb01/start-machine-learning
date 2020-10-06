@@ -9,6 +9,7 @@ All resources listed here are free, except some online courses which are certain
 Don't be afraid to repeat videos or learn from multiple sources. Repetition is the key of success to learning!
 
 Maintainer - [louisfb01](https://github.com/louisfb01)
+Feel free to message me any great resources to add to this repertory on bouchard.lf@gmail.com
 
 ## Table of Contents
 - [Start with short YouTube video introductions](#YouTubeVideos)
