@@ -11,16 +11,16 @@ Don't be afraid to repeat videos or learn from multiple sources. Repetition is t
 Maintainer - [louisfb01](https://github.com/louisfb01)
 
 ## Table of Contents
-- [Start with short YouTube video introductions](#YouTube_Videos)
-- [Follow free online courses on YouTube](#YouTube_Courses)
-- [Read articles](#Read_Articles)
-- [Read books](#Read_Books)
+- [Start with short YouTube video introductions](#YouTubeVideos)
+- [Follow free online courses on YouTube](#YouTubeCourses)
+- [Read articles](#ReadArticles)
+- [Read books](#ReadBooks)
 - [No coding background, no problem](#Coding)
-- [Follow online courses](#Online_Courses)
-- [Practice!](#Practice!)
-- [More_Resources](#More_Resources)
+- [Follow online courses](#OnlineCourses)
+- [Practice, practice, and practice!](#Practice)
+- [More Resources](#MoreResources)
 
-## YouTube_Videos
+## Start with short YouTube video introductions<a name="YouTubeVideos"></a>
 ### Start with short YouTube videos introductions
 This is the best way to start from nothing in my opinion. Here, I list a few of the best videos I found that will give you a great first introduction of the terms you need to know to get started in the field.
 
@@ -31,7 +31,7 @@ This is the best way to start from nothing in my opinion. Here, I list a few of 
     * [Neural Networks Demystified - Welch Labs](https://www.youtube.com/playlist?list=PLiaHhY2iBX9hdHaRr6b7XevZtgZRa1PoU) - YouTube Playlist
     * [Learn Neural Networks - 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) - YouTube Playlist
 
-## YouTube_Courses
+## Follow free online courses on YouTube<a name="YouTubeCourses"></a>
 ### Follow free online courses on YouTube
 Here is a list of awesome courses available on YouTube that you should definitely follow and are 100% free.
 
@@ -41,7 +41,7 @@ Here is a list of awesome courses available on YouTube that you should definitel
     
 * [Deep learning specialization](https://www.youtube.com/channel/UCcIXc5mJsHVYTZR1maL5l9w/playlists) - YouTube Playlist (Deeplearning.ai)
 
-## Read_Articles
+## Read articles<a name="ReadArticles"></a>
 ### Read many articles
 Here is a list of awesome articles available online that you should definitely read and are 100% free.
 
@@ -52,17 +52,18 @@ Here is a list of awesome articles available online that you should definitely r
 * [A Beginners Guide to Neural Networks](https://towardsdatascience.com/a-beginners-guide-to-neural-networks-d5cf7e369a13#:~:text=Neural%20networks%20are%20powered%20by,then%20recognize%2C%20interpret%20and%20classify.) - Thomas Davis
 * [Understanding Neural Networks](https://towardsdatascience.com/understanding-neural-networks-22b29755abd9) - Prince Canuma
 
-## Read_Books
+## Read Books<a name="ReadBooks"></a>
 ### Read some books
 Here are some great books to read for the people preferring the reading path.
 
 * [Deep learning book](https://www.deeplearningbook.org/) - Free Online
+* [Dive into Deep Learning](http://d2l.ai/) - Free Online
 * [Artificial Intelligence: A Modern Approach](https://amzn.to/302jB8M) - Optional (Paying)
 * [Pattern Recognition and Machine Learning](https://amzn.to/32W21VM) - Optional (Paying)
 * [The Elements of Statistical Learning](https://amzn.to/3mQXT0Y) - Optional (Paying)
 * [Deep Learning with Python](https://amzn.to/33ZWc8S) - Optional (Paying)
 
-## Coding
+## No coding background, no problem<a name="Coding"></a>
 ### No coding background, no problem
 Here is a list of some great courses to learn the programming side of machine learning.
 
@@ -71,7 +72,7 @@ Here is a list of some great courses to learn the programming side of machine le
 * [Machine Learning with Python | Coursera - IBM](https://click.linksynergy.com/deeplink?id=8jtkHPNI0iU&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fmachine-learning-with-python) - Optional (Paying)
 
 
-## Online_Courses
+## Follow online courses<a name="OnlineCourses"></a>
 ### (Optional) Get a better understanding and more guided practice by following some online courses
 If you prefer to be more guided and have clear steps to follow, these courses are the best ones to do.
 
@@ -84,7 +85,7 @@ If you prefer to be more guided and have clear steps to follow, these courses ar
 * [Complete data science bootcamp 2020](https://click.linksynergy.com/deeplink?id=8jtkHPNI0iU&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-data-science-course-complete-data-science-bootcamp%2F)
 * [Machine learning - No coding](https://click.linksynergy.com/link?id=8jtkHPNI0iU&offerid=507388.1292838&type=2&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fhands-on-machine-learning-without-writing-code%2F)
 
-## Practice!
+## Practice, practice, and practice!<a name="Practice"></a>
 ### Practice is key
 
 The most important thing in programming is practice. And this applies to machine learning too. It can be hard to find a personal project to practice.
@@ -93,7 +94,7 @@ Fortunately, [Kaggle](https://www.kaggle.com/) exists. This website is full of f
 
 You can also create teams for kaggle competition and learn with people! I suggest you join a community to find a team and learn with others, it is always better than alone. Check out the next section for that.
 
-## More_Resources
+## More Resources<a name="MoreResources"></a>
 ### Join communities!
 
 * [A Discord server with many AI enthusiasts](https://discord.gg/SVse4Sr) - Learn together, ask questions, find kaggle teammates, share your projects, and more.
