@@ -42,6 +42,8 @@ Here is a list of awesome courses available on YouTube that you should definitel
     
 * [Deep learning specialization](https://www.youtube.com/channel/UCcIXc5mJsHVYTZR1maL5l9w/playlists) - YouTube Playlist (Deeplearning.ai)
 
+* [Deep Learning (with PyTorch)](https://www.youtube.com/playlist?list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq) - YouTube Playlist (Yann LeCun)
+
 ## Read articles<a name="ReadArticles"></a>
 ### Read many articles
 Here is a list of awesome articles available online that you should definitely read and are 100% free.
