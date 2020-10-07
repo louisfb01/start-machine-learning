@@ -77,6 +77,7 @@ Here is a list of some great courses to learn the programming side of machine le
 ### (Optional) Get a better understanding and more guided practice by following some online courses
 If you prefer to be more guided and have clear steps to follow, these courses are the best ones to do.
 
+* [DEEP LEARNING - Yann LeCun](https://atcold.github.io/pytorch-Deep-Learning/?fbclid=IwAR0HQC0NZannqXaaHEj3sJCgLjRxkyDXC-gAoCTN4077wFA33R_udrJfHw4) - This course concerns the latest techniques in deep learning and representation learning.
 * [Intro to Machine Learning - Kaggle](https://www.kaggle.com/learn/intro-to-machine-learning) - Learn the core ideas in machine learning, and build your first models.
 * [Get started in AI / AI For everyone - Andrew Ng](https://click.linksynergy.com/deeplink?id=8jtkHPNI0iU&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fai-for-everyone)
 * [Machine learning - Andrew Ng - Stanford](https://click.linksynergy.com/deeplink?id=8jtkHPNI0iU&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fmachine-learning)
