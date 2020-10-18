@@ -61,6 +61,7 @@ Here are some great books to read for the people preferring the reading path.
 
 * [Deep learning book](https://www.deeplearningbook.org/) - Free Online
 * [Dive into Deep Learning](http://d2l.ai/) - Free Online
+* [Mathematics for Machine Learning](https://mml-book.com/) - Free Online
 * [Artificial Intelligence: A Modern Approach](https://amzn.to/302jB8M) - Optional (Paying)
 * [Pattern Recognition and Machine Learning](https://amzn.to/32W21VM) - Optional (Paying)
 * [The Elements of Statistical Learning](https://amzn.to/3mQXT0Y) - Optional (Paying)
