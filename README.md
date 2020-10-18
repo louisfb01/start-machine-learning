@@ -80,8 +80,8 @@ Here is a list of some great courses to learn the programming side of machine le
 ### (Optional) Get a better understanding and more guided practice by following some online courses
 If you prefer to be more guided and have clear steps to follow, these courses are the best ones to do.
 
-* [DEEP LEARNING - Yann LeCun](https://atcold.github.io/pytorch-Deep-Learning/?fbclid=IwAR0HQC0NZannqXaaHEj3sJCgLjRxkyDXC-gAoCTN4077wFA33R_udrJfHw4) - This course concerns the latest techniques in deep learning and representation learning.
-* [Intro to Machine Learning - Kaggle](https://www.kaggle.com/learn/intro-to-machine-learning) - Learn the core ideas in machine learning, and build your first models.
+* [DEEP LEARNING - Yann LeCun](https://atcold.github.io/pytorch-Deep-Learning/?fbclid=IwAR0HQC0NZannqXaaHEj3sJCgLjRxkyDXC-gAoCTN4077wFA33R_udrJfHw4) - This course concerns the latest techniques in deep learning and representation learning. - Free
+* [Intro to Machine Learning - Kaggle](https://www.kaggle.com/learn/intro-to-machine-learning) - Learn the core ideas in machine learning, and build your first models. - Free
 * [Get started in AI / AI For everyone - Andrew Ng](https://click.linksynergy.com/deeplink?id=8jtkHPNI0iU&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fai-for-everyone)
 * [Machine learning - Andrew Ng - Stanford](https://click.linksynergy.com/deeplink?id=8jtkHPNI0iU&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fmachine-learning)
 * [Deep learning specialization - Andrew Ng](https://click.linksynergy.com/deeplink?id=8jtkHPNI0iU&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fneural-networks-deep-learning%3Fspecialization%3Ddeep-learning)
@@ -89,6 +89,7 @@ If you prefer to be more guided and have clear steps to follow, these courses ar
 * [AI Engineering - IBM (Professional certificates)](https://click.linksynergy.com/deeplink?id=8jtkHPNI0iU&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Fprofessional-certificates%2Fai-engineer)
 * [Complete data science bootcamp 2020](https://click.linksynergy.com/deeplink?id=8jtkHPNI0iU&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-data-science-course-complete-data-science-bootcamp%2F)
 * [Machine learning - No coding](https://click.linksynergy.com/link?id=8jtkHPNI0iU&offerid=507388.1292838&type=2&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fhands-on-machine-learning-without-writing-code%2F)
+* [fast.ai's Deep Learning Courses](https://www.fast.ai/) - Free
 
 ## Practice, practice, and practice!<a name="Practice"></a>
 ### Practice is key
