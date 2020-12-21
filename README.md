@@ -21,6 +21,7 @@ Feel free to message me any great resources to add to this repertory on bouchard
 - [Practice, practice, and practice!](#Practice)
 - [More Resources](#MoreResources)
 
+
 ## Start with short YouTube video introductions<a name="YouTubeVideos"></a>
 ### Start with short YouTube videos introductions
 This is the best way to start from nothing in my opinion. Here, I list a few of the best videos I found that will give you a great first introduction of the terms you need to know to get started in the field.
@@ -31,6 +32,7 @@ This is the best way to start from nothing in my opinion. Here, I list a few of 
 * Understand the neural networks
     * [Neural Networks Demystified - Welch Labs](https://www.youtube.com/playlist?list=PLiaHhY2iBX9hdHaRr6b7XevZtgZRa1PoU) - YouTube Playlist
     * [Learn Neural Networks - 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) - YouTube Playlist
+
 
 ## Follow free online courses on YouTube<a name="YouTubeCourses"></a>
 ### Follow free online courses on YouTube
@@ -44,6 +46,7 @@ Here is a list of awesome courses available on YouTube that you should definitel
 
 * [Deep Learning (with PyTorch)](https://www.youtube.com/playlist?list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq) - YouTube Playlist (Yann LeCun)
 
+
 ## Read articles<a name="ReadArticles"></a>
 ### Read many articles
 Here is a list of awesome articles available online that you should definitely read and are 100% free.
@@ -54,6 +57,9 @@ Here is a list of awesome articles available online that you should definitely r
 * [Machine Learning for Beginners: An Introduction to Neural Networks](https://towardsdatascience.com/machine-learning-for-beginners-an-introduction-to-neural-networks-d49f22d238f9) - Victor Zhou
 * [A Beginners Guide to Neural Networks](https://towardsdatascience.com/a-beginners-guide-to-neural-networks-d5cf7e369a13#:~:text=Neural%20networks%20are%20powered%20by,then%20recognize%2C%20interpret%20and%20classify.) - Thomas Davis
 * [Understanding Neural Networks](https://towardsdatascience.com/understanding-neural-networks-22b29755abd9) - Prince Canuma
+* [Reading lists for new MILA students](https://docs.google.com/document/d/1IXF3h0RU5zz4ukmTrVKVotPQypChscNGf5k6E25HGvA/edit#) - Anonymous
+* [The 80/20 AI Reading List](https://medium.com/machine-learning-for-humans/ai-reading-list-c4753afd97a) - Vishal Maini
+
 
 ## Read Books<a name="ReadBooks"></a>
 ### Read some books
@@ -66,6 +72,7 @@ Here are some great books to read for the people preferring the reading path.
 * [Pattern Recognition and Machine Learning](https://amzn.to/32W21VM) - Optional (Paying)
 * [The Elements of Statistical Learning](https://amzn.to/3mQXT0Y) - Optional (Paying)
 * [Deep Learning with Python](https://amzn.to/33ZWc8S) - Optional (Paying)
+
 
 ## No coding background, no problem<a name="Coding"></a>
 ### No coding background, no problem
@@ -91,6 +98,7 @@ If you prefer to be more guided and have clear steps to follow, these courses ar
 * [Machine learning - No coding](https://click.linksynergy.com/link?id=8jtkHPNI0iU&offerid=507388.1292838&type=2&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fhands-on-machine-learning-without-writing-code%2F)
 * [fast.ai's Deep Learning Courses](https://www.fast.ai/) - Free
 
+
 ## Practice, practice, and practice!<a name="Practice"></a>
 ### Practice is key
 
@@ -99,6 +107,7 @@ The most important thing in programming is practice. And this applies to machine
 Fortunately, [Kaggle](https://www.kaggle.com/) exists. This website is full of free courses, tutorials and competitions. You can join competitions for free and just download their data, read about their problem and start coding and testing right away! You can even earn money from winning competitions and it is a great thing to have on your resume. This may be the best way to get experience while learning a lot and even earn money!
 
 You can also create teams for kaggle competition and learn with people! I suggest you join a community to find a team and learn with others, it is always better than alone. Check out the next section for that.
+
 
 ## More Resources<a name="MoreResources"></a>
 ### Join communities!
@@ -113,6 +122,7 @@ You can also create teams for kaggle competition and learn with people! I sugges
     * [learnmachinelearning](https://www.reddit.com/r/learnmachinelearning/) - Learn Machine Learning
     * [ArtificialInteligence](https://www.reddit.com/r/ArtificialInteligence/) - AI
     * [LatsestInML](https://www.reddit.com/r/LatestInML/) - Game-changing developments in machine learning you shouldn't miss
+
 
 ### Follow the news in the field!
 
