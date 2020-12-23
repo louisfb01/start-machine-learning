@@ -123,6 +123,11 @@ You can also create teams for kaggle competition and learn with people! I sugges
     * [ArtificialInteligence](https://www.reddit.com/r/ArtificialInteligence/) - AI
     * [LatsestInML](https://www.reddit.com/r/LatestInML/) - Game-changing developments in machine learning you shouldn't miss
 
+* The best Cheat Sheets for Artificial Intelligence, Machine Learning, and Python.
+    * [Cheat Sheets for AI, Neural Networks, Machine Learning, Deep Learning & Big Data](https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463) - Stefan Kojouharov
+    * [Machine Learning cheatsheets for Stanford's CS 229](https://github.com/afshinea/stanford-cs-229-machine-learning) - Afshine Amidi & Shervine Amidi
+    * [Cheat Sheet of Machine Learning and Python (and Math) Cheat Sheets](https://medium.com/machine-learning-in-practice/cheat-sheet-of-machine-learning-and-python-and-math-cheat-sheets-a4afe4e791b6) - Robbie Allen
+
 
 ### Follow the news in the field!
 
