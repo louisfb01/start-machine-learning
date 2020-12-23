@@ -19,7 +19,7 @@ Feel free to message me any great resources to add to this repertory on bouchard
 - [No coding background, no problem](#Coding)
 - [Follow online courses](#OnlineCourses)
 - [Practice, practice, and practice!](#Practice)
-- [More Resources](#MoreResources)
+- [More Resources (Communities, cheat sheets, news, and more!)](#MoreResources)
 
 
 ## Start with short YouTube video introductions<a name="YouTubeVideos"></a>
@@ -122,6 +122,9 @@ You can also create teams for kaggle competition and learn with people! I sugges
     * [learnmachinelearning](https://www.reddit.com/r/learnmachinelearning/) - Learn Machine Learning
     * [ArtificialInteligence](https://www.reddit.com/r/ArtificialInteligence/) - AI
     * [LatsestInML](https://www.reddit.com/r/LatestInML/) - Game-changing developments in machine learning you shouldn't miss
+
+
+### Save Cheat Sheets!
 
 * The best Cheat Sheets for Artificial Intelligence, Machine Learning, and Python.
     * [Cheat Sheets for AI, Neural Networks, Machine Learning, Deep Learning & Big Data](https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463) - Stefan Kojouharov
