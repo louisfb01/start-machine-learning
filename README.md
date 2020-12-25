@@ -9,7 +9,10 @@ All resources listed here are free, except some online courses which are certain
 Don't be afraid to repeat videos or learn from multiple sources. Repetition is the key of success to learning!
 
 Maintainer - [louisfb01](https://github.com/louisfb01)
+
 Feel free to message me any great resources to add to this repertory on bouchard.lf@gmail.com
+
+***Tag me on Twitter [@Whats_AI](https://twitter.com/Whats_AI) or LinkedIn [@Louis (What's AI) Bouchard](https://www.linkedin.com/in/whats-ai/)  if you share the list!***
 
 ## Table of Contents
 - [Start with short YouTube video introductions](#YouTubeVideos)
@@ -149,3 +152,6 @@ You can also create teams for kaggle competition and learn with people! I sugges
     * [OneZero](https://onezero.medium.com/) - "The undercurrents of the future. A Medium publication about tech and science."
     * [What's AI](https://medium.com/@whats_ai) - "Hi, I am Louis (loo·ee, French pronunciation), from Montreal, Canada, also known as "What's AI". I try to share and explain artificial intelligence terms and news the best way I can for everyone. My goal is to demystify the AI “black box” for everyone and sensitize people about the risks of using it."
     
+    
+***Tag me on Twitter [@Whats_AI](https://twitter.com/Whats_AI) or LinkedIn [@Louis (What's AI) Bouchard](https://www.linkedin.com/in/whats-ai/)  if you share the list!***
+
