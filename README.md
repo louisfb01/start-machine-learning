@@ -10,7 +10,7 @@ Don't be afraid to repeat videos or learn from multiple sources. Repetition is t
 
 Maintainer - [louisfb01](https://github.com/louisfb01)
 
-Feel free to message me any great resources to add to this repertory on bouchard.lf@gmail.com
+Feel free to message me any great resources to add to this repository on bouchard.lf@gmail.com
 
 ***Tag me on Twitter [@Whats_AI](https://twitter.com/Whats_AI) or LinkedIn [@Louis (What's AI) Bouchard](https://www.linkedin.com/in/whats-ai/)  if you share the list!***
 
