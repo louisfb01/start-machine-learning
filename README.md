@@ -19,6 +19,7 @@ Feel free to message me any great resources to add to this repository on bouchar
 - [Follow free online courses on YouTube](#YouTubeCourses)
 - [Read articles](#ReadArticles)
 - [Read books](#ReadBooks)
+- [No math background for ML? Check this out!](#Math)
 - [No coding background, no problem](#Coding)
 - [Follow online courses](#OnlineCourses)
 - [Practice, practice, and practice!](#Practice)
@@ -76,6 +77,26 @@ Here are some great books to read for the people preferring the reading path.
 * [Pattern Recognition and Machine Learning](https://amzn.to/32W21VM) - Optional (Paying)
 * [The Elements of Statistical Learning](https://amzn.to/3mQXT0Y) - Optional (Paying)
 * [Deep Learning with Python](https://amzn.to/33ZWc8S) - Optional (Paying)
+
+
+## No math background for ML? Check this out!<a name="Math"></a>
+### No math background for ML? Check this out!
+Don't stress, just like most of the things in life, you can learn maths! Here are some great beginner and advanced resources to get into machine learning maths. I would suggest starting with these three very important concepts in machine learning (here are 3 awesome free courses available on Khan Academy):
+
+* [Linear Algebra](https://www.khanacademy.org/math/linear-algebra) - Khan Academy
+* [Statistics and probability](https://www.khanacademy.org/math/statistics-probability) - Khan Academy
+* [Multivariable Calculus](https://www.khanacademy.org/math/multivariable-calculus) - Khan Academy
+
+Here are some great free books and videos that might help you learn in a more "structured approach":
+
+* [mathematicalmonk](https://www.youtube.com/channel/UCcAtD_VYwcYwVbTdvArsm7w) - YouTube
+* [Understanding Machine Learning: From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/index.html) - Shai Shalev-Shwartz and Shai Ben-David
+* [Mathematics for Machine Learning](https://gwthomas.github.io/docs/math4ml.pdf) - Garrett Thomas
+mathematicalmonk on YouTube
+Mathematics for Machine Learning - Garrett Thomas
+Understanding Machine Learning: From Theory to Algorithms - 
+
+You now have a very good math background for machine learning and you are ready to dive in deeper!
 
 
 ## No coding background, no problem<a name="Coding"></a>
