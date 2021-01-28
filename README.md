@@ -92,9 +92,6 @@ Here are some great free books and videos that might help you learn in a more "s
 * [mathematicalmonk](https://www.youtube.com/channel/UCcAtD_VYwcYwVbTdvArsm7w) - YouTube
 * [Understanding Machine Learning: From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/index.html) - Shai Shalev-Shwartz and Shai Ben-David
 * [Mathematics for Machine Learning](https://gwthomas.github.io/docs/math4ml.pdf) - Garrett Thomas
-mathematicalmonk on YouTube
-Mathematics for Machine Learning - Garrett Thomas
-Understanding Machine Learning: From Theory to Algorithms - 
 
 You now have a very good math background for machine learning and you are ready to dive in deeper!
 
