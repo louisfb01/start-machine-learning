@@ -153,6 +153,7 @@ You can also create teams for kaggle competition and learn with people! I sugges
     * [Cheat Sheets for AI, Neural Networks, Machine Learning, Deep Learning & Big Data](https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463) - Stefan Kojouharov
     * [Machine Learning cheatsheets for Stanford's CS 229](https://github.com/afshinea/stanford-cs-229-machine-learning) - Afshine Amidi & Shervine Amidi
     * [Cheat Sheet of Machine Learning and Python (and Math) Cheat Sheets](https://medium.com/machine-learning-in-practice/cheat-sheet-of-machine-learning-and-python-and-math-cheat-sheets-a4afe4e791b6) - Robbie Allen
+    * [AI Expert Roadmap](https://i.am.ai/roadmap/#fundamentals) - Use it as a skillset checklist!
 
 
 ### Follow the news in the field!
@@ -172,7 +173,7 @@ You can also create teams for kaggle competition and learn with people! I sugges
     * [Deep learning](https://www.facebook.com/groups/DeepLearnng/) - Nowadays society tends to be soft and automated evolving into the 4th industrial revolution, which consequently drives the constituents into the swirl of societal upheaval. To survive or take a lead one is supposed to be equipped with associated tools. Machine is becoming smarter and more intelligent. Machine learning is inescapable skill and it requires people to be familiar with. This group is for these people who are interest in the development of their talents to fit in.
 
 * Newsletters
-   * [Synced AI TECHNOLOGY & INDUSTRY REVIEW](https://syncedreview.com/) - China's leading media & information provider for AI & MachineLearning.
+   * [Synced AI TECHNOLOGY & INDUSTRY REVIEW](https://syncedreview.com/) - China's leading media & information provider for AI & Machine Learning.
    * [Inside AI](https://inside.com/ai) - A daily roundup of stories and commentary on Artificial Intelligence, Robotics, and Neurotechnology.
    * [AI Weekly](http://aiweekly.co/) - A weekly collection of AI News and resources on Artificial Intelligence and Machine Learning.
    * [AI Ethics Weekly](https://lighthouse3.com/newsletter/) - The latest updates in AI Ethics delivered to your inbox every week.
@@ -182,7 +183,7 @@ You can also create teams for kaggle competition and learn with people! I sugges
     * [Towards Data Science](https://towardsdatascience.com/) - "Sharing concepts, ideas, and codes"
     * [Towards AI](https://medium.com/towards-artificial-intelligence) - "The Best of Tech, Science, and Engineering."
     * [OneZero](https://onezero.medium.com/) - "The undercurrents of the future. A Medium publication about tech and science."
-    * [What's AI](https://medium.com/@whats_ai) - "Hi, I am Louis (loo·ee, French pronunciation), from Montreal, Canada, also known as "What's AI". I try to share and explain artificial intelligence terms and news the best way I can for everyone. My goal is to demystify the AI “black box” for everyone and sensitize people about the risks of using it."
+    * [What's AI](https://whats-ai.medium.com/) - "Hi, I am Louis (loo·ee, French pronunciation), from Montreal, Canada, also known as "What's AI". I try to share and explain artificial intelligence terms and news the best way I can for everyone. My goal is to demystify the AI “black box” for everyone and sensitize people about the risks of using it."
     
     
 ***Tag me on Twitter [@Whats_AI](https://twitter.com/Whats_AI) or LinkedIn [@Louis (What's AI) Bouchard](https://www.linkedin.com/in/whats-ai/)  if you share the list!***
