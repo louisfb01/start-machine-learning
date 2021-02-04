@@ -135,7 +135,7 @@ You can also create teams for kaggle competition and learn with people! I sugges
 ## More Resources<a name="MoreResources"></a>
 ### Join communities!
 
-* [A Discord server with many AI enthusiasts](https://discord.gg/SVse4Sr) - Learn together, ask questions, find kaggle teammates, share your projects, and more.
+* [A Discord server with many AI enthusiasts](https://discord.gg/learnaitogether) - Learn together, ask questions, find kaggle teammates, share your projects, and more.
 
 * Follow reddit communities - Ask questions, share your projects, follow news, and more.
     * [artificial](https://www.reddit.com/r/artificial/) - Artificial Intelligence
@@ -157,14 +157,26 @@ You can also create teams for kaggle competition and learn with people! I sugges
 
 ### Follow the news in the field!
 
-* Subscribe to YouTube accounts that share new papers - Stay up to date with the news in the field!
+* Subscribe to YouTube channels that share new papers - Stay up to date with the news in the field!
     * [What's AI](https://www.youtube.com/channel/UCUzGQrN-lyyc0BWTYoJM_Sg) - Weekly videos covering new papers
     * [Two Minutes Papers](https://www.youtube.com/user/keeroyz) - Bi-weekly videos covering new papers
+    * [Bycloud](https://www.youtube.com/channel/UCgfe2ooZD3VJPB6aJAnuQng) - Weekly videos covering new papers
     
 * LinkedIn Groups
     * [Artificial Intelligence, Machine Learning and Deep Learning News](https://www.linkedin.com/groups/8942343/) - News of the field shared by everyone in the group
     * [Artificial Intelligence | Deep Learning  | Machine Learning](https://www.linkedin.com/groups/45655/)
     * [Applied Artificial Intelligence](https://www.linkedin.com/groups/127447/)
+    
+* Facebook Groups
+    * [Artificial Intelligence & Deep Learning](https://www.facebook.com/groups/DeepNetGroup) - The definitive and most active FB Group on A.I., Neural Networks and Deep Learning. All things new and interesting on the frontier of A.I. and Deep Learning. Neural networks will redefine what it means to be a smart machine in the years to come.
+    * [Deep learning](https://www.facebook.com/groups/DeepLearnng/) - Nowadays society tends to be soft and automated evolving into the 4th industrial revolution, which consequently drives the constituents into the swirl of societal upheaval. To survive or take a lead one is supposed to be equipped with associated tools. Machine is becoming smarter and more intelligent. Machine learning is inescapable skill and it requires people to be familiar with. This group is for these people who are interest in the development of their talents to fit in.
+
+* Newsletters
+   * [Synced AI TECHNOLOGY & INDUSTRY REVIEW](https://syncedreview.com/) - China's leading media & information provider for AI & MachineLearning.
+   * [Inside AI](https://inside.com/ai) - A daily roundup of stories and commentary on Artificial Intelligence, Robotics, and Neurotechnology.
+   * [AI Weekly](http://aiweekly.co/) - A weekly collection of AI News and resources on Artificial Intelligence and Machine Learning.
+   * [AI Ethics Weekly](https://lighthouse3.com/newsletter/) - The latest updates in AI Ethics delivered to your inbox every week.
+
     
 * Follow Medium accounts and publications
     * [Towards Data Science](https://towardsdatascience.com/) - "Sharing concepts, ideas, and codes"
