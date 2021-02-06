@@ -14,6 +14,10 @@ Feel free to message me any great resources to add to this repository on bouchar
 
 ***Tag me on Twitter [@Whats_AI](https://twitter.com/Whats_AI) or LinkedIn [@Louis (What's AI) Bouchard](https://www.linkedin.com/in/whats-ai/)  if you share the list!***
 
+### Want to know what is this guide about? Watch this video:
+
+[![Watch the video](https://imgur.com/ruHZuii.png)](https://youtu.be/RirEw-uaS_8)
+
 ## Table of Contents
 - [Start with short YouTube video introductions](#YouTubeVideos)
 - [Follow free online courses on YouTube](#YouTubeCourses)
