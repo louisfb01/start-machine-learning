@@ -108,7 +108,7 @@ Here is a list of some great courses to learn the programming side of machine le
 * [Learn Python](https://www.learnpython.org/) - Free interactive tutorial to learn python
 * [Learn Python Basics for Data Analysis](https://openclassrooms.com/en/courses/2304731-learn-python-basics-for-data-analysis/6009031-get-started-with-python-and-anaconda) - Free course on OpenClassrooms
 * [Machine Learning with Python | Coursera - IBM](https://click.linksynergy.com/deeplink?id=8jtkHPNI0iU&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fmachine-learning-with-python) - Optional (Paying)
-
+* [100 numpy exercises](https://github.com/rougier/numpy-100/blob/master/100_Numpy_exercises.ipynb) - A collection of exercises that have been collected in the numpy mailing list, on stack overflow and in the numpy documentation.
 
 ## Follow online courses<a name="OnlineCourses"></a>
 ### (Optional) Get a better understanding and more guided practice by following some online courses
