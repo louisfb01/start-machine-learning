@@ -108,7 +108,7 @@ Here is a list of some great courses to learn the programming side of machine le
 * [Learn Python](https://www.learnpython.org/) - Free interactive tutorial to learn python
 * [Learn Python Basics for Data Analysis](https://openclassrooms.com/en/courses/2304731-learn-python-basics-for-data-analysis/6009031-get-started-with-python-and-anaconda) - Free course on OpenClassrooms
 * [Machine Learning with Python | Coursera - IBM](https://click.linksynergy.com/deeplink?id=8jtkHPNI0iU&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fmachine-learning-with-python) - Optional (Paying)
-* [Introduction to Python for Data Science](https://datasciencedojo.com/python-for-data-science/) - In this Python for Data Science course, students will be learning core Python concepts and use the language as it relates to data science in a 16-week learning program (paying, optional).
+* [Introduction to Python for Data Science](https://datasciencedojo.com/python-for-data-science/ref/whatsai/) - In this Python for Data Science course, students will be learning core Python concepts and use the language as it relates to data science in a 16-week learning program (paying, optional).
 * [100 numpy exercises](https://github.com/rougier/numpy-100/blob/master/100_Numpy_exercises.ipynb) - A collection of exercises that have been collected in the numpy mailing list, on stack overflow and in the numpy documentation.
 
 ## Follow online courses<a name="OnlineCourses"></a>
@@ -124,8 +124,8 @@ If you prefer to be more guided and have clear steps to follow, these courses ar
 * [AI Engineering - IBM (Professional certificates)](https://click.linksynergy.com/deeplink?id=8jtkHPNI0iU&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Fprofessional-certificates%2Fai-engineer) - Paying, optional
 * [Complete data science bootcamp 2020](https://click.linksynergy.com/deeplink?id=8jtkHPNI0iU&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-data-science-course-complete-data-science-bootcamp%2F) - Paying, optional
 * [Machine learning - No coding](https://click.linksynergy.com/link?id=8jtkHPNI0iU&offerid=507388.1292838&type=2&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fhands-on-machine-learning-without-writing-code%2F) - Paying, optional
-* [Data Science Training + Industry Experience](https://datasciencedojo.com/data-science-training-and-internship/) - A complete instructor-led 16-week learning program (paying, optional).
-* [Instructor-led Online Data Science Bootcamp](https://datasciencedojo.com/data-science-bootcamp/) - A complete instructor-led 16-week learning program.
+* [Data Science Training + Industry Experience](https://datasciencedojo.com/data-science-training-and-internship/ref/whatsai/) - A complete instructor-led 16-week training program with experience (paying, optional).
+* [Instructor-led Online Data Science Bootcamp](https://datasciencedojo.com/data-science-bootcamp/ref/whatsai/) - A complete instructor-led 16-week learning program (paying, optional).
 * [fast.ai's Deep Learning Courses](https://www.fast.ai/) - Free
 
 
