@@ -198,3 +198,6 @@ You can also create teams for kaggle competition and learn with people! I sugges
     
 ***Tag me on Twitter [@Whats_AI](https://twitter.com/Whats_AI) or LinkedIn [@Louis (What's AI) Bouchard](https://www.linkedin.com/in/whats-ai/)  if you share the list!***
 
+If you'd like to support me, I have a [Patreon](https://www.patreon.com/whatsai) where you can do that. Thank you, and let me know if I missed any good resources!
+
+This guide is still regularly updated.
