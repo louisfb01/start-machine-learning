@@ -143,6 +143,7 @@ You can also create teams for kaggle competition and learn with people! I sugges
 ### Join communities!
 
 * [A Discord server with many AI enthusiasts](https://discord.gg/learnaitogether) - Learn together, ask questions, find kaggle teammates, share your projects, and more.
+* [A Discord server where you can stay up-to-date with the latest AI news](https://ws.towardsai.net/discord) - Stay up-to-date with the latest AI news, ask questions, share your projects, and much more.
 
 * Follow reddit communities - Ask questions, share your projects, follow news, and more.
     * [artificial](https://www.reddit.com/r/artificial/) - Artificial Intelligence
