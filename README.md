@@ -75,13 +75,25 @@ Here are some great books to read for the people preferring the reading path.
 
 * [Deep learning book](https://www.deeplearningbook.org/) - Free Online
 * [Dive into Deep Learning](http://d2l.ai/) - Free Online
-* [Mathematics for Machine Learning](https://mml-book.com/) - Free Online
 * [Probabilistic Machine Learning: An Introduction](https://probml.github.io/pml-book/book1.html) - Free Online
-* [Artificial Intelligence: A Modern Approach](https://amzn.to/302jB8M) - Optional (Paying)
-* [Pattern Recognition and Machine Learning](https://amzn.to/32W21VM) - Optional (Paying)
-* [The Elements of Statistical Learning](https://amzn.to/3mQXT0Y) - Optional (Paying)
-* [Deep Learning with Python](https://amzn.to/33ZWc8S) - Optional (Paying)
+* [Artificial Intelligence: A Modern Approach](https://amzn.to/3mSqhk2) - Optional (Paying)
+* [Pattern Recognition and Machine Learning](https://amzn.to/3mPUGPF) - Optional (Paying)
+* [Deep Learning with Python](https://amzn.to/32iR3sm) - Optional (Paying)
+* [Understanding Machine Learning: From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/index.html) - Shai Shalev-Shwartz and Shai Ben-David - Free Online
 
+Great books for building your math background:
+
+* [Mathematics for Machine Learning](https://mml-book.com/) - Free Online
+* [The Elements of Statistical Learning](https://amzn.to/3mMn5Gy) - Optional (Paying)
+* [Statistical Inference](https://amzn.to/3wRqIzD) - Optional (Paying)
+
+A complete Calculus background:
+
+* [Calculus: Concepts and Contexts](https://amzn.to/2OT4NXC) - Optional (Paying)
+* [Single Variable Calculus: Concepts and Contexts](https://amzn.to/3wXtzHf) - Optional (Paying)
+* [Multivariable Calculus: Concepts and Contexts](https://amzn.to/32jIRYC) - Optional (Paying)
+
+These books are completely optional, but they will provide you a better understanding of the theory and even teach you some stuff about coding your neural networks!
 
 ## No math background for ML? Check this out!<a name="Math"></a>
 ### No math background for ML? Check this out!
@@ -94,10 +106,10 @@ Don't stress, just like most of the things in life, you can learn maths! Here ar
 Here are some great free books and videos that might help you learn in a more "structured approach":
 
 * [mathematicalmonk](https://www.youtube.com/channel/UCcAtD_VYwcYwVbTdvArsm7w) - YouTube
-* [Understanding Machine Learning: From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/index.html) - Shai Shalev-Shwartz and Shai Ben-David
 * [Mathematics for Machine Learning](https://gwthomas.github.io/docs/math4ml.pdf) - Garrett Thomas
 * [An Introduction to Statistical Learning: with Applications in R (Springer Texts in Statistics)](http://fs2.american.edu/alberto/www/analytics/ISLRLectures.html) - Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani
 
+If you still lack mathematical confidence, check out the [Read books](#ReadBooks) section above, where I shared many great books to build a strong mathematical background.
 You now have a very good math background for machine learning and you are ready to dive in deeper!
 
 
