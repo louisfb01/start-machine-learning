@@ -140,6 +140,7 @@ If you prefer to be more guided and have clear steps to follow, these courses ar
 * [Data Science Training + Industry Experience](https://datasciencedojo.com/data-science-training-and-internship/ref/whatsai/) - A complete instructor-led 16-week training program with experience (paying, optional).
 * [Instructor-led Online Data Science Bootcamp](https://datasciencedojo.com/data-science-bootcamp/ref/whatsai/) - A complete instructor-led 16-week learning program (paying, optional).
 * [fast.ai's Deep Learning Courses](https://www.fast.ai/) - Free
+* [CS50 - Introduction to Artificial Intelligence with Python (and Machine Learning), Harvard OCW](https://cs50.harvard.edu/ai/2020/) - free
 
 
 ## Practice, practice, and practice!<a name="Practice"></a>
