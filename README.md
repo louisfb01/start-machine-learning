@@ -84,6 +84,7 @@ Here are some great books to read for the people preferring the reading path.
 Great books for building your math background:
 
 * [Mathematics for Machine Learning](https://mml-book.com/) - Free Online
+* [An Introduction to Statistical Learning](https://www.statlearning.com/) - Free Online
 * [The Elements of Statistical Learning](https://amzn.to/3mMn5Gy) - Optional (Paying)
 * [Statistical Inference](https://amzn.to/3wRqIzD) - Optional (Paying)
 
