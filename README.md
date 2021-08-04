@@ -141,6 +141,8 @@ If you prefer to be more guided and have clear steps to follow, these courses ar
 * [Instructor-led Online Data Science Bootcamp](https://datasciencedojo.com/data-science-bootcamp/ref/whatsai/) - A complete instructor-led 16-week learning program (paying, optional).
 * [fast.ai's Deep Learning Courses](https://www.fast.ai/) - Free
 * [CS50 - Introduction to Artificial Intelligence with Python (and Machine Learning), Harvard OCW](https://cs50.harvard.edu/ai/2020/) - Free (and usable for teachers as well!)
+* [Become an NLP pro with Coursera's Natural Language Processing Specialization by deeplearning.ai](https://click.linksynergy.com/deeplink?id=8jtkHPNI0iU&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fnatural-language-processing%3Fedocomorp%3Dq3_2021_affiliate_NLP) - Paid
+ _"Break into the NLP space. Master cutting-edge NLP techniques through four hands-on courses!"_
 
 
 ## Practice, practice, and practice!<a name="Practice"></a>
