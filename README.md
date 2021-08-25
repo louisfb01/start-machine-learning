@@ -52,7 +52,9 @@ Here is a list of awesome courses available on YouTube that you should definitel
     
 * [Deep learning specialization](https://www.youtube.com/channel/UCcIXc5mJsHVYTZR1maL5l9w/playlists) - YouTube Playlist (Deeplearning.ai)
 
-* [Deep Learning (with PyTorch)](https://www.youtube.com/playlist?list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq) - YouTube Playlist (Yann LeCun)
+* [Deep Learning (with PyTorch)](https://atcold.github.io/pytorch-Deep-Learning/) - NYU, Yann LeCun
+
+* [MIT Deep Learning](https://deeplearning.mit.edu/) - Lex Fridman's up-to-date deep learning course
 
 
 ## Read articles<a name="ReadArticles"></a>
