@@ -211,13 +211,16 @@ You can also create teams for kaggle competition and learn with people! I sugges
     * [Towards AI](https://medium.com/towards-artificial-intelligence) - "The Best of Tech, Science, and Engineering."
     * [OneZero](https://onezero.medium.com/) - "The undercurrents of the future. A Medium publication about tech and science."
     * [What's AI](https://whats-ai.medium.com/) - "Hi, I am Louis (loo·ee, French pronunciation), from Montreal, Canada, also known as "What's AI". I try to share and explain artificial intelligence terms and news the best way I can for everyone. My goal is to demystify the AI “black box” for everyone and sensitize people about the risks of using it."
-    
+   
 * Check this complete GitHub guide to keep up with AI News
    * [BAILOOL/DoYouEvenLearn](https://github.com/louisfb01/DoYouEvenLearn) - Essential Guide to keep up with AI/ML/DL/CV
     
 ## Find a machine learning job<a name="FindAJob"></a>
 
 * Read [this section from the article](https://www.louisbouchard.ai/learnai/#how-to-find-a-job) full of interview tips and **how to prepare for them**.
+
+---
+
 
 ***Tag me on Twitter [@Whats_AI](https://twitter.com/Whats_AI) or LinkedIn [@Louis (What's AI) Bouchard](https://www.linkedin.com/in/whats-ai/)  if you share the list!***
 
