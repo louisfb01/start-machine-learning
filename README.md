@@ -28,7 +28,7 @@ Feel free to message me any great resources to add to this repository on bouchar
 - [Follow online courses](#OnlineCourses)
 - [Practice, practice, and practice!](#Practice)
 - [More Resources (Communities, cheat sheets, news, and more!)](#MoreResources)
-
+- [How to find a machine learning job](#FindAJob)
 
 ## Start with short YouTube video introductions<a name="YouTubeVideos"></a>
 ### Start with short YouTube videos introductions
@@ -215,7 +215,10 @@ You can also create teams for kaggle competition and learn with people! I sugges
 * Check this complete GitHub guide to keep up with AI News
    * [BAILOOL/DoYouEvenLearn](https://github.com/louisfb01/DoYouEvenLearn) - Essential Guide to keep up with AI/ML/DL/CV
     
-    
+## Find a machine learning job<a name="FindAJob"></a>
+
+* Read [this section from the article](https://www.louisbouchard.ai/learnai/#how-to-find-a-job) full of interview tips and **how to prepare for them**.
+
 ***Tag me on Twitter [@Whats_AI](https://twitter.com/Whats_AI) or LinkedIn [@Louis (What's AI) Bouchard](https://www.linkedin.com/in/whats-ai/)  if you share the list!***
 
 If you'd like to support me, I have a [Patreon](https://www.patreon.com/whatsai) where you can do that. Thank you, and let me know if I missed any good resources!
