@@ -29,6 +29,7 @@ Feel free to message me any great resources to add to this repository on bouchar
 - [Practice, practice, and practice!](#Practice)
 - [More Resources (Communities, cheat sheets, news, and more!)](#MoreResources)
 - [How to find a machine learning job](#FindAJob)
+- [AI Ethics](#AIEthics)
 
 ## Start with short YouTube video introductions<a name="YouTubeVideos"></a>
 ### Start with short YouTube videos introductions
@@ -218,6 +219,11 @@ You can also create teams for kaggle competition and learn with people! I sugges
 ## Find a machine learning job<a name="FindAJob"></a>
 
 * Read [this section from the article](https://www.louisbouchard.ai/learnai/#how-to-find-a-job) full of interview tips and **how to prepare for them**.
+
+## AI Ethics<a name="AIEthics"></a>
+* [What are Ethics and Why do they Matter? Machine Learning Edition](https://www.youtube.com/watch?v=F0cxzESR7ec&list=PLtmWHNX-gukIU6V33Bc8eP8OD41I4GywR&ab_channel=RachelThomas) - by Rachel Thomas, founder of fast.ai
+* [AI4People—An Ethical Framework for a Good AI Society: Opportunities, Risks, Principles, and Recommendations](https://link.springer.com/content/pdf/10.1007/s11023-018-9482-5.pdf) - Floridi et al., 2018, AI4People AI for a good society
+* [Ethics guidelines for trustworthy AI](https://wayback.archive-it.org/12090/20210728013426/https://digital-strategy.ec.europa.eu/en/library/ethics-guidelines-trustworthy-ai) - European Commission high-level expert group 7 points for a trustworthy AI.
 
 ---
 
