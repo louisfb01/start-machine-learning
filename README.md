@@ -124,6 +124,7 @@ Here is a list of some great courses to learn the programming side of machine le
 * [Practical Machine Learning Tutorial with Python](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v) - Free YouTube python introduction
 * [Learn Python](https://www.learnpython.org/) - Free interactive tutorial to learn python
 * [Learn Python Basics for Data Analysis](https://openclassrooms.com/en/courses/2304731-learn-python-basics-for-data-analysis/6009031-get-started-with-python-and-anaconda) - Free course on OpenClassrooms
+* [Getting started with Python and R for Data Science](https://youtu.be/6LWnvC2_DZI?list=PL8eNk_zTBST8kAYLTxYRnsOfznYMRhgZG) - Free
 * [Machine Learning with Python | Coursera - IBM](https://click.linksynergy.com/deeplink?id=8jtkHPNI0iU&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fmachine-learning-with-python) - Optional (Paying)
 * [Introduction to Python for Data Science](https://datasciencedojo.com/python-for-data-science/ref/whatsai/) - In this Python for Data Science course, students will be learning core Python concepts and use the language as it relates to data science in a 16-week learning program (paying, optional).
 * [100 numpy exercises](https://github.com/rougier/numpy-100/blob/master/100_Numpy_exercises.ipynb) - A collection of exercises that have been collected in the numpy mailing list, on stack overflow and in the numpy documentation.
@@ -205,7 +206,8 @@ You can also create teams for kaggle competition and learn with people! I sugges
    * [Inside AI](https://inside.com/ai) - A daily roundup of stories and commentary on Artificial Intelligence, Robotics, and Neurotechnology.
    * [AI Weekly](http://aiweekly.co/) - A weekly collection of AI News and resources on Artificial Intelligence and Machine Learning.
    * [AI Ethics Weekly](https://lighthouse3.com/newsletter/) - The latest updates in AI Ethics delivered to your inbox every week.
-   * [What's AI Weekly](http://eepurl.com/huGLT5) - The latest updates in AI explained every week.
+   * [What's AI Weekly](http://eepurl.com/huGLT5) - One and only one paper clearly explained weekly with an article, video demo, demo, code, etc.
+   * [Data Science Dojo Newsletter](https://datasciencedojo.com/newsletter/) - Get the latest Data Science content in your inbox
     
 * Follow Medium accounts and publications
     * [Towards Data Science](https://towardsdatascience.com/) - "Sharing concepts, ideas, and codes"
