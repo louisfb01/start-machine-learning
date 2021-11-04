@@ -138,6 +138,7 @@ If you prefer to be more guided and have clear steps to follow, these courses ar
 * [Intro to Machine Learning - Kaggle](https://www.kaggle.com/learn/intro-to-machine-learning) - Learn the core ideas in machine learning, and build your first models. - Free
 * [Get started in AI / AI For everyone - Andrew Ng](https://click.linksynergy.com/deeplink?id=8jtkHPNI0iU&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fai-for-everyone) - Paying, optional
 * [Machine learning - Andrew Ng - Stanford](https://click.linksynergy.com/deeplink?id=8jtkHPNI0iU&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fmachine-learning) - Paying, optional
+* [AI Programming with Python - Complete nanodegree](https://imp.i115008.net/GjGzek) - Paying, optional
 * [Deep learning specialization - Andrew Ng](https://click.linksynergy.com/deeplink?id=8jtkHPNI0iU&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fneural-networks-deep-learning%3Fspecialization%3Ddeep-learning) - Paying, optional
 * [TensorFlow (Professional certificates)](https://click.linksynergy.com/deeplink?id=8jtkHPNI0iU&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Fprofessional-certificates%2Ftensorflow-in-practice) - Paying, optional
 * [AI Engineering - IBM (Professional certificates)](https://click.linksynergy.com/deeplink?id=8jtkHPNI0iU&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Fprofessional-certificates%2Fai-engineer) - Paying, optional
@@ -147,8 +148,18 @@ If you prefer to be more guided and have clear steps to follow, these courses ar
 * [Instructor-led Online Data Science Bootcamp](https://datasciencedojo.com/data-science-bootcamp/ref/whatsai/) - A complete instructor-led 16-week learning program (paying, optional).
 * [fast.ai's Deep Learning Courses](https://www.fast.ai/) - Free
 * [CS50 - Introduction to Artificial Intelligence with Python (and Machine Learning), Harvard OCW](https://cs50.harvard.edu/ai/2020/) - Free (and usable for teachers as well!)
+
+For specific applications:
+* [AI For trading nanodegree from Udacity](https://imp.i115008.net/Rymvkg) - Paid
+* [Learn Deep Reinforcement learning - Udacity nanodegree](https://imp.i115008.net/7moj2y) - Paid
 * [Become an NLP pro with Coursera's Natural Language Processing Specialization by deeplearning.ai](https://click.linksynergy.com/deeplink?id=8jtkHPNI0iU&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fnatural-language-processing%3Fedocomorp%3Dq3_2021_affiliate_NLP) - Paid
  _"Break into the NLP space. Master cutting-edge NLP techniques through four hands-on courses!"_
+
+
+Get your models online and show them to the world:
+* [How to Deploy a Machine Learning Model to Google Cloud - Daniel Bourke](https://youtu.be/fw6NMQrYc6w) - Free
+* [Machine Learning DevOps Engineer - Udacity Nanodegree](https://imp.i115008.net/mgZWAX) - Paid
+* [AWS Machine Learning Engineer - Udacity Nanodegree](https://imp.i115008.net/9WO5Ry) - Paid
 
 
 ## Practice, practice, and practice!<a name="Practice"></a>
@@ -156,7 +167,7 @@ If you prefer to be more guided and have clear steps to follow, these courses ar
 
 The most important thing in programming is practice. And this applies to machine learning too. It can be hard to find a personal project to practice.
 
-Fortunately, [Kaggle](https://www.kaggle.com/) exists. This website is full of free courses, tutorials and competitions. You can join competitions for free and just download their data, read about their problem and start coding and testing right away! You can even earn money from winning competitions and it is a great thing to have on your resume. This may be the best way to get experience while learning a lot and even earn money!
+Fortunately, [Kaggle](https://www.kaggle.com/) exists. This website is full of free courses, tutorials and competitions. You can join competitions for free and just download their data, read about their problem and start coding and testing right away! You can even earn money from winning competitions and it is a great thing to have on your resume. This may be the best way to get experience while learning a lot and even earn money! Another great opportunity for projects is to follow courses that are oriented towards a specific application like the [AI For trading course from Udacity](https://imp.i115008.net/Rymvkg).
 
 You can also create teams for kaggle competition and learn with people! I suggest you join a community to find a team and learn with others, it is always better than alone. Check out the next section for that.
 
