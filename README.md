@@ -16,7 +16,7 @@ Feel free to message me any great resources to add to this repository on bouchar
 
 ### Want to know what is this guide about? Watch this video:
 
-[![Watch the video](https://imgur.com/ruHZuii.png)](https://youtu.be/RirEw-uaS_8)
+[<img src="https://imgur.com/JFRt2Jb.png" width="512"/>](https://youtu.be/RirEw-uaS_8)
 
 ----
 
