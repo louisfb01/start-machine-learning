@@ -169,7 +169,7 @@ For specific applications:
 
 
 Get your models online and show them to the world:
-* [Gradio Course - Create User Interfaces for Machine Learning Models - Free Code Camp](https://youtu.be/RiCQzBluTxU) - Free
+* [Gradio Course - Create User Interfaces for Machine Learning Models - freeCodeCamp](https://youtu.be/RiCQzBluTxU) - Free
 * [How to Deploy a Machine Learning Model to Google Cloud - Daniel Bourke](https://youtu.be/fw6NMQrYc6w) - Free
 * [Machine Learning DevOps Engineer - Udacity Nanodegree](https://imp.i115008.net/mgZWAX) - Paid
 * [AWS Machine Learning Engineer - Udacity Nanodegree](https://imp.i115008.net/9WO5Ry) - Paid
