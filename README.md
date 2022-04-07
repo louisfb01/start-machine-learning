@@ -1,6 +1,6 @@
-# Start Machine Learning in 2021 - Become an expert for free!
+# Start Machine Learning in 2022 - Become an expert for free!
 
-## A complete guide to start and improve in machine learning (ML), artificial intelligence (AI) in 2021 without ANY background in the field and stay up-to-date with the latest news and state-of-the-art techniques!
+## A complete guide to start and improve in machine learning (ML), artificial intelligence (AI) in 2022 without ANY background in the field and stay up-to-date with the latest news and state-of-the-art techniques!
 
 This guide is intended for anyone having zero or a small background in programming, maths, and machine learning. There is no specific order to follow, but a classic path would be from top to bottom. If you don't like reading books, skip it, if you don't want to follow an online course, you can skip it as well. There is not a single way to become a machine learning expert and with motivation, you can absolutely achieve it.
 
@@ -76,7 +76,7 @@ Here is a list of awesome courses available on YouTube that you should definitel
 Here is a list of awesome articles available online that you should definitely read and are 100% free.
 [Medium](https://whats-ai.medium.com/membership) is pretty much the best place to find great explanations, either on [Towards AI](https://pub.towardsai.net/) or [Towards Data Science](https://towardsdatascience.com/) publications. I also share my own articles there and I love using the platform. You can subscribe to Medium using my affiliated link [here](https://whats-ai.medium.com/membership) if this sounds interesting to you and if you'd like to support me at the same time!
 
-* [Start AI in 2021 — Become an expert from nothing, for free!](https://www.louisbouchard.ai/learnai/) - Louis Bouchard
+* [Start AI in 2022 — Become an expert from nothing, for free!](https://www.louisbouchard.ai/learnai/) - Louis Bouchard
 * [5 Beginner Friendly Steps to Learn Machine Learning and Data Science with Python](https://towardsdatascience.com/5-beginner-friendly-steps-to-learn-machine-learning-and-data-science-with-python-bf69e211ade5) - Daniel Bourke
 * [What is Machine Learning?](https://medium.com/towards-artificial-intelligence/what-is-machine-learning-ml-b58162f97ec7) - Roberto Iriondo
 * [Machine Learning for Beginners: An Introduction to Neural Networks](https://towardsdatascience.com/machine-learning-for-beginners-an-introduction-to-neural-networks-d49f22d238f9) - Victor Zhou
