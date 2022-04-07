@@ -138,7 +138,7 @@ Here is a list of some great courses to learn the programming side of machine le
 * [Learn Python](https://www.learnpython.org/) - Free interactive tutorial to learn python
 * [Learn Python Basics for Data Analysis](https://openclassrooms.com/en/courses/2304731-learn-python-basics-for-data-analysis/6009031-get-started-with-python-and-anaconda) - Free course on OpenClassrooms
 * [Getting started with Python and R for Data Science](https://youtu.be/6LWnvC2_DZI?list=PL8eNk_zTBST8kAYLTxYRnsOfznYMRhgZG) - Free
-* [Machine Learning with Python | Coursera - IBM](https://click.linksynergy.com/deeplink?id=8jtkHPNI0iU&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fmachine-learning-with-python) - Optional (Paying)
+* [Machine Learning with Python | Coursera - IBM](https://coursera.pxf.io/P0vOZe) - Optional (Paying)
 * [Introduction to Python for Data Science](https://datasciencedojo.com/python-for-data-science/ref/whatsai/) - In this Python for Data Science course, students will be learning core Python concepts and use the language as it relates to data science in a 16-week learning program (paying, optional).
 * [100 numpy exercises](https://github.com/rougier/numpy-100/blob/master/100_Numpy_exercises.ipynb) - A collection of exercises that have been collected in the numpy mailing list, on stack overflow and in the numpy documentation.
 
@@ -148,13 +148,13 @@ If you prefer to be more guided and have clear steps to follow, these courses ar
 
 * [DEEP LEARNING - Yann LeCun](https://atcold.github.io/pytorch-Deep-Learning/?fbclid=IwAR0HQC0NZannqXaaHEj3sJCgLjRxkyDXC-gAoCTN4077wFA33R_udrJfHw4) - This course concerns the latest techniques in deep learning and representation learning. - Free
 * [Intro to Machine Learning - Kaggle](https://www.kaggle.com/learn/intro-to-machine-learning) - Learn the core ideas in machine learning, and build your first models. - Free
-* [Get started in AI / AI For everyone - Andrew Ng](https://click.linksynergy.com/deeplink?id=8jtkHPNI0iU&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fai-for-everyone) - Paying, optional
-* [Machine learning - Andrew Ng - Stanford](https://click.linksynergy.com/deeplink?id=8jtkHPNI0iU&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fmachine-learning) - Paying, optional
+* [Get started in AI / AI For everyone - Andrew Ng](https://coursera.pxf.io/gbeOKA) - Paying, optional
+* [Machine learning - Andrew Ng - Stanford](https://coursera.pxf.io/oeg43O) - Paying, optional
 * [AI Programming with Python - Complete nanodegree](https://imp.i115008.net/GjGzek) - Paying, optional
-* [Deep learning specialization - Andrew Ng](https://click.linksynergy.com/deeplink?id=8jtkHPNI0iU&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fneural-networks-deep-learning%3Fspecialization%3Ddeep-learning) - Paying, optional
-* [TensorFlow (Professional certificates)](https://click.linksynergy.com/deeplink?id=8jtkHPNI0iU&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Fprofessional-certificates%2Ftensorflow-in-practice) - Paying, optional
-* [AI Engineering - IBM (Professional certificates)](https://click.linksynergy.com/deeplink?id=8jtkHPNI0iU&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Fprofessional-certificates%2Fai-engineer) - Paying, optional
-* [Complete data science bootcamp 2020](https://click.linksynergy.com/deeplink?id=8jtkHPNI0iU&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-data-science-course-complete-data-science-bootcamp%2F) - Paying, optional
+* [Deep learning specialization - Andrew Ng](https://coursera.pxf.io/WDvyaA) - Paying, optional
+* [TensorFlow (Professional certificates)](https://coursera.pxf.io/6bQy9q) - Paying, optional
+* [AI Engineering - IBM (Professional certificates)](https://coursera.pxf.io/RyNGjN) - Paying, optional
+* [Complete data science bootcamp 2022](https://click.linksynergy.com/deeplink?id=8jtkHPNI0iU&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-data-science-course-complete-data-science-bootcamp%2F) - Paying, optional
 * [Machine learning - No coding](https://click.linksynergy.com/link?id=8jtkHPNI0iU&offerid=507388.1292838&type=2&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fhands-on-machine-learning-without-writing-code%2F) - Paying, optional
 * [Data Science Training + Industry Experience](https://datasciencedojo.com/data-science-training-and-internship/ref/whatsai/) - A complete instructor-led 16-week training program with experience (paying, optional).
 * [Instructor-led Online Data Science Bootcamp](https://datasciencedojo.com/data-science-bootcamp/ref/whatsai/) - A complete instructor-led 16-week learning program (paying, optional).
@@ -164,7 +164,7 @@ If you prefer to be more guided and have clear steps to follow, these courses ar
 For specific applications:
 * [AI For trading nanodegree from Udacity](https://imp.i115008.net/Rymvkg) - Paid
 * [Learn Deep Reinforcement learning - Udacity nanodegree](https://imp.i115008.net/7moj2y) - Paid
-* [Become an NLP pro with Coursera's Natural Language Processing Specialization by deeplearning.ai](https://click.linksynergy.com/deeplink?id=8jtkHPNI0iU&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fnatural-language-processing%3Fedocomorp%3Dq3_2021_affiliate_NLP) - Paid
+* [Become an NLP pro with Coursera's Natural Language Processing Specialization by deeplearning.ai](https://coursera.pxf.io/P0vO9e) - Paid
  _"Break into the NLP space. Master cutting-edge NLP techniques through four hands-on courses!"_
 
 
