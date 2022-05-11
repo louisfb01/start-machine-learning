@@ -39,7 +39,8 @@ Feel free to message me any great resources to add to this repository on bouchar
 - [No coding background, no problem](#Coding)
 - [Follow online courses](#OnlineCourses)
 - [Practice, practice, and practice!](#Practice)
-- [More Resources (Communities, cheat sheets, news, and more!)](#MoreResources)
+- [NLP Enthusiast? Check this out!](#nlp)
+- [rces (Communities, cheat sheets, news, and more!)](#MoreResources)
 - [How to find a machine learning job](#FindAJob)
 - [AI Ethics](#AIEthics)
 
@@ -183,6 +184,14 @@ Fortunately, [Kaggle](https://www.kaggle.com/) exists. This website is full of f
 
 You can also create teams for kaggle competition and learn with people! I suggest you join a community to find a team and learn with others, it is always better than alone. Check out the next section for that.
 
+
+## NLP Enthusiast? Check this out!<a name="nlp"></a>
+I had a lot of requests about people wanting to focus on NLP or even learn machine learning strictly for NLP tasks. This is a section dedicated to that need. Happy NLP learning!
+* [A complete roadmap to master NLP in 2022](https://www.analyticsvidhya.com/blog/2022/01/roadmap-to-master-nlp-in-2022/)
+* [Become an NLP pro with Coursera's Natural Language Processing Specialization by deeplearning.ai](https://coursera.pxf.io/P0vO9e) - Paid
+ _"Break into the NLP space. Master cutting-edge NLP techniques through four hands-on courses!"_
+* [An NLP Nano Degree!](https://imp.i115008.net/jW4K60) — Paid
+_"Learn cutting-edge natural language processing techniques to process speech and analyze text. Build probabilistic and deep learning models, such as hidden Markov models and recurrent neural networks, to teach the computer to do tasks such as speech recognition, machine translation, and more!"_
 
 ## More Resources<a name="MoreResources"></a>
 ### Join communities!
