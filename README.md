@@ -192,6 +192,10 @@ I had a lot of requests about people wanting to focus on NLP or even learn machi
  _"Break into the NLP space. Master cutting-edge NLP techniques through four hands-on courses!"_
 * [An NLP Nano Degree!](https://imp.i115008.net/jW4K60) — Paid
 _"Learn cutting-edge natural language processing techniques to process speech and analyze text. Build probabilistic and deep learning models, such as hidden Markov models and recurrent neural networks, to teach the computer to do tasks such as speech recognition, machine translation, and more!"_
+* NLTK Book is the free resource to learn about fundamental theories behind NLP: https://www.nltk.org/book/
+* Looking to build a quick text classification model or word vectorizer, [fasttext](https://fasttext.cc/docs/en/supervised-tutorial.html) is a good library to quickly train up a model.
+* [Huggingface](https://huggingface.co/course/chapter1/1) is THE place to get modern day NLP models, and they also include a whole [course](https://huggingface.co/course/chapter1/1) about it.
+* [SpaCy](https://course.spacy.io/en/) is great for NLP in production, as it does NLU, NER, and one can train classification, etc with it. It's also able to add customized steps or models into the pipeline.
 
 ## More Resources<a name="MoreResources"></a>
 ### Join communities!
