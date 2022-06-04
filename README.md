@@ -245,6 +245,7 @@ _"Learn cutting-edge natural language processing techniques to process speech an
    * [AI Ethics Weekly](https://lighthouse3.com/newsletter/) - The latest updates in AI Ethics delivered to your inbox every week.
    * [What's AI Weekly](http://eepurl.com/huGLT5) - One and only one paper clearly explained weekly with an article, video demo, demo, code, etc.
    * [Data Science Dojo Newsletter](https://datasciencedojo.com/newsletter/) - Get the latest Data Science content in your inbox
+   * [Your Daily AI Research tl;dr](https://www.linkedin.com/newsletters/your-daily-ai-research-tl-dr-6935956459641876480/) - Summarizing the most interesting papers (and news) of the day, every day for ML professionals and enthusiasts.
     
 * Follow Medium accounts and publications
     * [Towards Data Science](https://towardsdatascience.com/) - "Sharing concepts, ideas, and codes"
