@@ -40,7 +40,7 @@ Feel free to message me any great resources to add to this repository on bouchar
 - [Follow online courses](#OnlineCourses)
 - [Practice, practice, and practice!](#Practice)
 - [NLP Enthusiast? Check this out!](#nlp)
-- [rces (Communities, cheat sheets, news, and more!)](#MoreResources)
+- [More resources (Communities, cheat sheets, news, and more!)](#MoreResources)
 - [How to find a machine learning job](#FindAJob)
 - [AI Ethics](#AIEthics)
 
