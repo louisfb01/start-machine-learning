@@ -55,6 +55,8 @@ This is the best way to start from nothing in my opinion. Here, I list a few of 
     * [Neural Networks Demystified - Welch Labs](https://www.youtube.com/playlist?list=PLiaHhY2iBX9hdHaRr6b7XevZtgZRa1PoU) - YouTube Playlist
     * [Learn Neural Networks - 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) - YouTube Playlist
     * [Math for Machine Learning - Weights & Biases](https://www.youtube.com/playlist?list=PLD80i8An1OEGZ2tYimemzwC3xqkU0jKUg) - YouTube Playlist
+    * [The spelled-out intro to neural networks and backpropagation: building micrograd](https://youtu.be/VMj-3S1tku0) - YouTube Video by Andrej Karpathy
+
 
 
 ## Follow free online courses on YouTube<a name="YouTubeCourses"></a>
