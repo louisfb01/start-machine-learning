@@ -10,6 +10,8 @@ Don't be afraid to repeat videos or learn from multiple sources. Repetition is t
 
 Maintainer - [louisfb01](https://github.com/louisfb01)
 
+[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40whats_ai)](https://twitter.com/Whats_AI)
+
 Feel free to message me any great resources to add to this repository on bouchard.lf@gmail.com
 
 ***Tag me on Twitter [@Whats_AI](https://twitter.com/Whats_AI) or LinkedIn [@Louis (What's AI) Bouchard](https://www.linkedin.com/in/whats-ai/)  if you share the list!***
@@ -198,6 +200,9 @@ _"Learn cutting-edge natural language processing techniques to process speech an
 * Looking to build a quick text classification model or word vectorizer, [fasttext](https://fasttext.cc/docs/en/supervised-tutorial.html) is a good library to quickly train up a model.
 * [Huggingface](https://huggingface.co/course/chapter1/1) is THE place to get modern day NLP models, and they also include a whole [course](https://huggingface.co/course/chapter1/1) about it.
 * [SpaCy](https://course.spacy.io/en/) is great for NLP in production, as it does NLU, NER, and one can train classification, etc with it. It's also able to add customized steps or models into the pipeline.
+
+
+[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40whats_ai)](https://twitter.com/Whats_AI)
 
 ## More Resources<a name="MoreResources"></a>
 ### Join communities!
