@@ -22,13 +22,7 @@ Feel free to message me any great resources to add to this repository on bouchar
 
 ----
 
-👀 **If you'd like to support my work** and use W&B (for free) to track your ML experiments and make your work reproducible or collaborate with a team, you can try it out by following [this guide](https://colab.research.google.com/github/louisfb01/examples/blob/master/colabs/pytorch/Simple_PyTorch_Integration.ipynb)! Since most of the code here is PyTorch-based, we thought that a [QuickStart guide](https://colab.research.google.com/github/louisfb01/examples/blob/master/colabs/pytorch/Simple_PyTorch_Integration.ipynb) for using W&B on PyTorch would be most interesting to share.
-
-👉Follow [this quick guide](https://colab.research.google.com/github/louisfb01/examples/blob/master/colabs/pytorch/Simple_PyTorch_Integration.ipynb), use the same W&B lines in your code or any of the repos below, and have all your experiments automatically tracked in your w&b account! It doesn't take more than 5 minutes to set up and will change your life as it did for me! [Here's a more advanced guide](https://colab.research.google.com/github/louisfb01/examples/blob/master/colabs/pytorch/Organizing_Hyperparameter_Sweeps_in_PyTorch_with_W%26B.ipynb) for using Hyperparameter Sweeps if interested :)
-
-🙌 Thank you to [Weights & Biases](https://wandb.ai/) for sponsoring this repository and the work I've been doing, and thanks to any of you using this link and trying W&B!
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/louisfb01/examples/blob/master/colabs/pytorch/Simple_PyTorch_Integration.ipynb)
+👀 **If you'd like to support my work**, you can check to [Sponsor](https://github.com/sponsors/louisfb01) this repository or support me on [Patreon](https://www.patreon.com/whatsai). You can also support me by following my favorite [daily AI newsletter](https://www.syntheticmind.io/subscribe?ref=EFowuebnlZ) to get frequent updates on new papers like those!
 
 ----
 
@@ -253,6 +247,7 @@ _"Learn cutting-edge natural language processing techniques to process speech an
    * [What's AI Weekly](http://eepurl.com/huGLT5) - One and only one paper clearly explained weekly with an article, video demo, demo, code, etc.
    * [Data Science Dojo Newsletter](https://datasciencedojo.com/newsletter/) - Get the latest Data Science content in your inbox
    * [Your Daily AI Research tl;dr](https://www.linkedin.com/newsletters/your-daily-ai-research-tl-dr-6935956459641876480/) - Summarizing the most interesting papers (and news) of the day, every day for ML professionals and enthusiasts.
+   * [Synthetic Mind: Get Smarter on Artificial Intelligence](https://www.syntheticmind.io/subscribe?ref=EFowuebnlZ) to get daily updates on AI news.
     
 * Follow Medium accounts and publications
     * [Towards Data Science](https://towardsdatascience.com/) - "Sharing concepts, ideas, and codes"
@@ -278,6 +273,6 @@ _"Learn cutting-edge natural language processing techniques to process speech an
 
 ***Tag me on Twitter [@Whats_AI](https://twitter.com/Whats_AI) or LinkedIn [@Louis (What's AI) Bouchard](https://www.linkedin.com/in/whats-ai/)  if you share the list!***
 
-If you'd like to support me, I have a [Patreon](https://www.patreon.com/whatsai) where you can do that. Thank you, and let me know if I missed any good resources!
+👀 **If you'd like to support my work**, you can check to [Sponsor](https://github.com/sponsors/louisfb01) this repository or support me on [Patreon](https://www.patreon.com/whatsai). You can also support me by following my favorite [daily AI newsletter](https://www.syntheticmind.io/subscribe?ref=EFowuebnlZ) to get frequent updates on new papers like those!. Thank you, and let me know if I missed any good resources!
 
 This guide is still regularly updated.
