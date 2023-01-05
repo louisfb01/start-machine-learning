@@ -1,6 +1,6 @@
-# Start Machine Learning in 2022 - Become an expert for free!
+# Start Machine Learning in 2023 - Become an expert for free!
 
-## A complete guide to start and improve in machine learning (ML), artificial intelligence (AI) in 2022 without ANY background in the field and stay up-to-date with the latest news and state-of-the-art techniques!
+## A complete guide to start and improve in machine learning (ML), artificial intelligence (AI) in 2023 without ANY background in the field and stay up-to-date with the latest news and state-of-the-art techniques!
 
 This guide is intended for anyone having zero or a small background in programming, maths, and machine learning. There is no specific order to follow, but a classic path would be from top to bottom. If you don't like reading books, skip it, if you don't want to follow an online course, you can skip it as well. There is not a single way to become a machine learning expert and with motivation, you can absolutely achieve it.
 
