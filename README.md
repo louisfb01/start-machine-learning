@@ -140,6 +140,7 @@ Here is a list of some great courses to learn the programming side of machine le
 * [Machine Learning with Python | Coursera - IBM](https://coursera.pxf.io/P0vOZe) - Optional (Paying)
 * [Introduction to Python for Data Science](https://datasciencedojo.com/python-for-data-science/ref/whatsai/) - In this Python for Data Science course, students will be learning core Python concepts and use the language as it relates to data science in a 16-week learning program (paying, optional).
 * [100 numpy exercises](https://github.com/rougier/numpy-100/blob/master/100_Numpy_exercises.ipynb) - A collection of exercises that have been collected in the numpy mailing list, on stack overflow and in the numpy documentation.
+* [Shell tutorial](https://swcarpentry.github.io/shell-novice/) - Learn to use the Unix shell! A must for developers and AI practitioners.
 
 ## Follow online courses<a name="OnlineCourses"></a>
 ### (Optional) Get a better understanding and more guided practice by following some online courses
