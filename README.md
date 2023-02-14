@@ -24,6 +24,8 @@ Feel free to message me any great resources to add to this repository on bouchar
 
 👀 **If you'd like to support my work**, you can check to [Sponsor](https://github.com/sponsors/louisfb01) this repository or support me on [Patreon](https://www.patreon.com/whatsai). You can also support me by following my favorite [daily AI newsletter](https://www.syntheticmind.io/subscribe?ref=EFowuebnlZ) to get frequent updates on new papers like those!
 
+Or support me by wearing cool [merch](https://whatsai.myshopify.com/)!
+
 ----
 
 ## Table of Contents
@@ -223,6 +225,13 @@ _"Learn cutting-edge natural language processing techniques to process speech an
     * [Cheat Sheet of Machine Learning and Python (and Math) Cheat Sheets](https://medium.com/machine-learning-in-practice/cheat-sheet-of-machine-learning-and-python-and-math-cheat-sheets-a4afe4e791b6) - Robbie Allen
     * [AI Expert Roadmap](https://i.am.ai/roadmap/#fundamentals) - Use it as a skillset checklist!
 
+----
+
+👀 **If you'd like to support my work**, you can check to [Sponsor](https://github.com/sponsors/louisfb01) this repository or support me on [Patreon](https://www.patreon.com/whatsai). You can also support me by following my favorite [daily AI newsletter](https://www.syntheticmind.io/subscribe?ref=EFowuebnlZ) to get frequent updates on new papers like those!
+
+Or support me by wearing cool [merch](https://whatsai.myshopify.com/)!
+
+----
 
 ### Follow the news in the field!
 
