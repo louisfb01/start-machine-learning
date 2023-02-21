@@ -29,20 +29,20 @@ Or support me by wearing cool [merch](https://whatsai.myshopify.com/)!
 ----
 
 ## Table of Contents
-- [Start with short YouTube video introductions](#YouTubeVideos)
-- [Follow free online courses on YouTube](#YouTubeCourses)
-- [Read articles](#ReadArticles)
-- [Read books](#ReadBooks)
-- [No math background for ML? Check this out!](#Math)
-- [No coding background, no problem](#Coding)
-- [Follow online courses](#OnlineCourses)
-- [Practice, practice, and practice!](#Practice)
-- [NLP Enthusiast? Check this out!](#nlp)
-- [More resources (Communities, cheat sheets, news, and more!)](#MoreResources)
-- [How to find a machine learning job](#FindAJob)
-- [AI Ethics](#AIEthics)
+- [Start with short YouTube video introductions](#youtubevideos)
+- [Follow free online courses on YouTube](#youtubecourses)
+- [Read articles](#readarticles)
+- [Read books](#readbooks)
+- [No math background for ML? Check this out!](#math)
+- [No coding background, no problem](#coding)
+- [Follow online courses](#onlinecourses)
+- [Practice, practice, and practice!](#practice)
+- [Want to build language models/apps? Check this out!](#nlp)
+- [More resources (Communities, cheat sheets, news, and more!)](#moreresources)
+- [How to find a machine learning job](#findajob)
+- [AI Ethics](#aiethics)
 
-## Start with short YouTube video introductions<a name="YouTubeVideos"></a>
+## Start with short YouTube video introductions<a name="youtubevideos"></a>
 ### Start with short YouTube videos introductions
 This is the best way to start from nothing in my opinion. Here, I list a few of the best videos I found that will give you a great first introduction of the terms you need to know to get started in the field.
 
@@ -57,7 +57,7 @@ This is the best way to start from nothing in my opinion. Here, I list a few of 
 
 
 
-## Follow free online courses on YouTube<a name="YouTubeCourses"></a>
+## Follow free online courses on YouTube<a name="youtubecourses"></a>
 ### Follow free online courses on YouTube
 Here is a list of awesome courses available on YouTube that you should definitely follow and are 100% free.
 
@@ -72,7 +72,7 @@ Here is a list of awesome courses available on YouTube that you should definitel
 * [MIT Deep Learning](https://deeplearning.mit.edu/) - Lex Fridman's up-to-date deep learning course
 
 
-## Read articles<a name="ReadArticles"></a>
+## Read articles<a name="readarticles"></a>
 ### Read many articles
 Here is a list of awesome articles available online that you should definitely read and are 100% free.
 [Medium](https://whats-ai.medium.com/membership) is pretty much the best place to find great explanations, either on [Towards AI](https://pub.towardsai.net/) or [Towards Data Science](https://towardsdatascience.com/) publications. I also share my own articles there and I love using the platform. You can subscribe to Medium using my affiliated link [here](https://whats-ai.medium.com/membership) if this sounds interesting to you and if you'd like to support me at the same time!
@@ -87,7 +87,7 @@ Here is a list of awesome articles available online that you should definitely r
 * [The 80/20 AI Reading List](https://medium.com/machine-learning-for-humans/ai-reading-list-c4753afd97a) - Vishal Maini
 
 
-## Read Books<a name="ReadBooks"></a>
+## Read Books<a name="readbooks"></a>
 ### Read some books
 Here are some great books to read for the people preferring the reading path.
 
@@ -113,7 +113,7 @@ A complete Calculus background:
 
 These books are completely optional, but they will provide you a better understanding of the theory and even teach you some stuff about coding your neural networks!
 
-## No math background for ML? Check this out!<a name="Math"></a>
+## No math background for ML? Check this out!<a name="math"></a>
 ### No math background for ML? Check this out!
 Don't stress, just like most of the things in life, you can learn maths! Here are some great beginner and advanced resources to get into machine learning maths. I would suggest starting with these three very important concepts in machine learning (here are 3 awesome free courses available on Khan Academy):
 
@@ -131,7 +131,7 @@ If you still lack mathematical confidence, check out the [Read books](#ReadBooks
 You now have a very good math background for machine learning and you are ready to dive in deeper!
 
 
-## No coding background, no problem<a name="Coding"></a>
+## No coding background, no problem<a name="coding"></a>
 ### No coding background, no problem
 Here is a list of some great courses to learn the programming side of machine learning.
 
@@ -176,7 +176,7 @@ Get your models online and show them to the world:
 * [AWS Machine Learning Engineer - Udacity Nanodegree](https://imp.i115008.net/9WO5Ry) - Paid
 
 
-## Practice, practice, and practice!<a name="Practice"></a>
+## Practice, practice, and practice!<a name="practice"></a>
 ### Practice is key
 
 The most important thing in programming is practice. And this applies to machine learning too. It can be hard to find a personal project to practice.
@@ -186,8 +186,8 @@ Fortunately, [Kaggle](https://www.kaggle.com/) exists. This website is full of f
 You can also create teams for kaggle competition and learn with people! I suggest you join a community to find a team and learn with others, it is always better than alone. Check out the next section for that.
 
 
-## NLP Enthusiast? Check this out!<a name="nlp"></a>
-I had a lot of requests about people wanting to focus on NLP or even learn machine learning strictly for NLP tasks. This is a section dedicated to that need. Happy NLP learning!
+## Want to build language models/apps? Check this out!<a name="nlp"></a>
+I had a lot of requests from people wanting to focus on natural language processing (NLP) (models dealing with language) or even learn machine learning strictly for NLP tasks. This is a section dedicated to that need. Happy NLP learning!
 * [A complete roadmap to master NLP in 2022](https://www.analyticsvidhya.com/blog/2022/01/roadmap-to-master-nlp-in-2022/)
 * [Become an NLP pro with Coursera's Natural Language Processing Specialization by deeplearning.ai](https://coursera.pxf.io/P0vO9e) - Paid
  _"Break into the NLP space. Master cutting-edge NLP techniques through four hands-on courses!"_
@@ -197,11 +197,12 @@ _"Learn cutting-edge natural language processing techniques to process speech an
 * Looking to build a quick text classification model or word vectorizer, [fasttext](https://fasttext.cc/docs/en/supervised-tutorial.html) is a good library to quickly train up a model.
 * [Huggingface](https://huggingface.co/course/chapter1/1) is THE place to get modern day NLP models, and they also include a whole [course](https://huggingface.co/course/chapter1/1) about it.
 * [SpaCy](https://course.spacy.io/en/) is great for NLP in production, as it does NLU, NER, and one can train classification, etc with it. It's also able to add customized steps or models into the pipeline.
+* [Prompting!](https://learnprompting.org/) Prompting is a new skill that you should master if you want to build NLP-related apps. This is a great course I am contributing to, intending to teach prompting and give tips for specific models.
 
 
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40whats_ai)](https://twitter.com/Whats_AI)
 
-## More Resources<a name="MoreResources"></a>
+## More Resources<a name="moreresources"></a>
 ### Join communities!
 
 * [A Discord server with many AI enthusiasts](https://discord.gg/learnaitogether) - Learn together, ask questions, find kaggle teammates, share your projects, and more.
@@ -250,14 +251,14 @@ Or support me by wearing cool [merch](https://whatsai.myshopify.com/)!
     * [Deep learning](https://www.facebook.com/groups/DeepLearnng/) - Nowadays society tends to be soft and automated evolving into the 4th industrial revolution, which consequently drives the constituents into the swirl of societal upheaval. To survive or take a lead one is supposed to be equipped with associated tools. Machine is becoming smarter and more intelligent. Machine learning is inescapable skill and it requires people to be familiar with. This group is for these people who are interest in the development of their talents to fit in.
 
 * Newsletters
+   * [Synthetic Mind: Get Smarter on Artificial Intelligence](https://www.syntheticmind.io/subscribe?ref=EFowuebnlZ) to get daily updates on AI news.
    * [Synced AI TECHNOLOGY & INDUSTRY REVIEW](https://syncedreview.com/) - China's leading media & information provider for AI & Machine Learning.
    * [Inside AI](https://inside.com/ai) - A daily roundup of stories and commentary on Artificial Intelligence, Robotics, and Neurotechnology.
    * [AI Weekly](http://aiweekly.co/) - A weekly collection of AI News and resources on Artificial Intelligence and Machine Learning.
    * [AI Ethics Weekly](https://lighthouse3.com/newsletter/) - The latest updates in AI Ethics delivered to your inbox every week.
    * [What's AI Weekly](http://eepurl.com/huGLT5) - One and only one paper clearly explained weekly with an article, video demo, demo, code, etc.
    * [Data Science Dojo Newsletter](https://datasciencedojo.com/newsletter/) - Get the latest Data Science content in your inbox
-   * [Your Daily AI Research tl;dr](https://www.linkedin.com/newsletters/your-daily-ai-research-tl-dr-6935956459641876480/) - Summarizing the most interesting papers (and news) of the day, every day for ML professionals and enthusiasts.
-   * [Synthetic Mind: Get Smarter on Artificial Intelligence](https://www.syntheticmind.io/subscribe?ref=EFowuebnlZ) to get daily updates on AI news.
+   * [Toward's AI newsletter](https://towardsai.net/ai/newsletter) - Summarizing the most interesting news and learning resources weekly as well as community updates from the Learn AI Together Discord community. Perfect for ML professionals and enthusiasts.
     
 * Follow Medium accounts and publications
     * [Towards Data Science](https://towardsdatascience.com/) - "Sharing concepts, ideas, and codes"
@@ -268,15 +269,17 @@ Or support me by wearing cool [merch](https://whatsai.myshopify.com/)!
 * Check this complete GitHub guide to keep up with AI News
    * [BAILOOL/DoYouEvenLearn](https://github.com/louisfb01/DoYouEvenLearn) - Essential Guide to keep up with AI/ML/DL/CV
     
-## Find a machine learning job<a name="FindAJob"></a>
+## Find a machine learning job<a name="findajob"></a>
 
 * Read [this section from the article](https://www.louisbouchard.ai/learnai/#how-to-find-a-job) full of interview tips and **how to prepare for them**.
+* Learn how the interview process goes and getting better at preparing for them by watching how others did it, like the [interview series](https://youtube.com/playlist?list=PLO4GrDnQanVfrRIuIT_1rlLLTgQJdfXmS) I ran with experts from NVIDIA, Zoox (Self-driving company), D-ID (Generative AI Startup), etc.
 
-## AI Ethics<a name="AIEthics"></a>
+## AI Ethics<a name="aiethics"></a>
 * [What are Ethics and Why do they Matter? Machine Learning Edition](https://www.youtube.com/watch?v=F0cxzESR7ec&list=PLtmWHNX-gukIU6V33Bc8eP8OD41I4GywR&ab_channel=RachelThomas) - by Rachel Thomas, founder of fast.ai
 * [AI4People—An Ethical Framework for a Good AI Society: Opportunities, Risks, Principles, and Recommendations](https://link.springer.com/content/pdf/10.1007/s11023-018-9482-5.pdf) - Floridi et al., 2018, AI4People AI for a good society
 * [Ethics guidelines for trustworthy AI](https://wayback.archive-it.org/12090/20210728013426/https://digital-strategy.ec.europa.eu/en/library/ethics-guidelines-trustworthy-ai) - European Commission high-level expert group 7 points for a trustworthy AI.
 * [An Introduction to Ethics in Robotics and AI](https://link.springer.com/book/10.1007/978-3-030-51110-4) - a free e-book by Christoph Bartneck, Christoph Lütge, Alan Wagner, and Sean Welsh.
+
 
 ---
 
