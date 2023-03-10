@@ -279,6 +279,7 @@ Or support me by wearing cool [merch](https://whatsai.myshopify.com/)!
 * [AI4People—An Ethical Framework for a Good AI Society: Opportunities, Risks, Principles, and Recommendations](https://link.springer.com/content/pdf/10.1007/s11023-018-9482-5.pdf) - Floridi et al., 2018, AI4People AI for a good society
 * [Ethics guidelines for trustworthy AI](https://wayback.archive-it.org/12090/20210728013426/https://digital-strategy.ec.europa.eu/en/library/ethics-guidelines-trustworthy-ai) - European Commission high-level expert group 7 points for a trustworthy AI.
 * [An Introduction to Ethics in Robotics and AI](https://link.springer.com/book/10.1007/978-3-030-51110-4) - a free e-book by Christoph Bartneck, Christoph Lütge, Alan Wagner, and Sean Welsh.
+* [An In-Depth Guide To Audit AI Models](https://censius.ai/blogs/ai-audit-guide)
 
 
 ---
