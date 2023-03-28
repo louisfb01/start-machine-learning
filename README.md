@@ -63,6 +63,8 @@ Here is a list of awesome courses available on YouTube that you should definitel
 
 * [Introduction to machine learning](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU) - YouTube Playlist (Stanford)
 
+* [Machine learning for everybody](https://www.youtube.com/watch?v=i_LwzRVP7bg&t=525s) - FreeCodeCamp (Kylie Ying)
+
 * [Introduction to deep learning](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI) - YouTube Playlist (MIT)
     
 * [Deep learning specialization](https://www.youtube.com/channel/UCcIXc5mJsHVYTZR1maL5l9w/playlists) - YouTube Playlist (Deeplearning.ai)
@@ -70,6 +72,7 @@ Here is a list of awesome courses available on YouTube that you should definitel
 * [Deep Learning (with PyTorch)](https://atcold.github.io/pytorch-Deep-Learning/) - NYU, Yann LeCun
 
 * [MIT Deep Learning](https://deeplearning.mit.edu/) - Lex Fridman's up-to-date deep learning course
+
 
 
 ## Read articles<a name="readarticles"></a>
