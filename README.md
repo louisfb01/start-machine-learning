@@ -8,7 +8,7 @@ All resources listed here are free, except some online courses and books, which 
 
 Don't be afraid to repeat videos or learn from multiple sources. Repetition is the key of success to learning!
 
-Maintainer - [louisfb01](https://github.com/louisfb01)
+Maintainer: [louisfb01](https://github.com/louisfb01), also active on [YouTube](https://www.youtube.com/@whatsai) and as a [Podcaster](https://open.spotify.com/show/4rKRJXaXlClkDyInjHkxq3) if you want to see/hear more about AI!
 
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40whats_ai)](https://twitter.com/Whats_AI)
 
