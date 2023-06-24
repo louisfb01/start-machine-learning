@@ -144,6 +144,10 @@ Here is a list of some great courses to learn the programming side of machine le
 * [100 numpy exercises](https://github.com/rougier/numpy-100/blob/master/100_Numpy_exercises.ipynb) - A collection of exercises that have been collected in the numpy mailing list, on stack overflow and in the numpy documentation.
 * [Shell tutorial](https://swcarpentry.github.io/shell-novice/) - Learn to use the Unix shell! A must for developers and AI practitioners.
 
+
+> Check out [the What's AI podcast](https://open.spotify.com/show/4rKRJXaXlClkDyInjHkxq3) for more AI content in the form of interviews with experts in the field! An invited AI expert and I will cover specific topics, sub-fields, and roles related to AI to teach and share knowledge from the people who worked hard to gather it.
+
+
 ## Follow online courses<a name="OnlineCourses"></a>
 ### (Optional) Get a better understanding and more guided practice by following some online courses
 If you prefer to be more guided and have clear steps to follow, these courses are the best ones to do.
