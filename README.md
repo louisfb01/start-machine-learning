@@ -166,6 +166,7 @@ If you prefer to be more guided and have clear steps to follow, these courses ar
 * [Instructor-led Online Data Science Bootcamp](https://datasciencedojo.com/data-science-bootcamp/ref/whatsai/) - A complete instructor-led 16-week learning program (paying, optional).
 * [fast.ai's Deep Learning Courses](https://www.fast.ai/) - Free
 * [CS50 - Introduction to Artificial Intelligence with Python (and Machine Learning), Harvard OCW](https://cs50.harvard.edu/ai/2020/) - Free (and usable for teachers as well!)
+* [DEEP LEARNING COURSE - François Fleuret](https://fleuret.org/dlc/) - This course is a thorough introduction to deep-learning, with examples in the PyTorch framework. There are some [prerequisites](https://fleuret.org/dlc/#information).
 
 For specific applications:
 * [AI For trading nanodegree from Udacity](https://imp.i115008.net/Rymvkg) - Paid
