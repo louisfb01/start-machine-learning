@@ -37,7 +37,7 @@ Or support me by wearing cool [merch](https://whatsai.myshopify.com/)!
 - [No coding background, no problem](#coding)
 - [Follow online courses](#onlinecourses)
 - [Practice, practice, and practice!](#practice)
-- [Want to build language models/apps? Check this out!](#nlp)
+- [Want to build language models/apps? Check this out! (now with LLMs!)](#nlp)
 - [More resources (Communities, cheat sheets, news, and more!)](#moreresources)
 - [How to find a machine learning job](#findajob)
 - [AI Ethics](#aiethics)
@@ -148,7 +148,7 @@ Here is a list of some great courses to learn the programming side of machine le
 > Check out [the What's AI podcast](https://open.spotify.com/show/4rKRJXaXlClkDyInjHkxq3) for more AI content in the form of interviews with experts in the field! An invited AI expert and I will cover specific topics, sub-fields, and roles related to AI to teach and share knowledge from the people who worked hard to gather it.
 
 
-## Follow online courses<a name="OnlineCourses"></a>
+## Follow online courses<a name="onlinecourses"></a>
 ### (Optional) Get a better understanding and more guided practice by following some online courses
 If you prefer to be more guided and have clear steps to follow, these courses are the best ones to do.
 
@@ -191,7 +191,7 @@ Fortunately, [Kaggle](https://www.kaggle.com/) exists. This website is full of f
 You can also create teams for kaggle competition and learn with people! I suggest you join a community to find a team and learn with others, it is always better than alone. Check out the next section for that.
 
 
-## Want to build language models/apps? Check this out!<a name="nlp"></a>
+## Want to build language models/apps? Check this out (Now with LLMs!)!<a name="nlp"></a>
 I had a lot of requests from people wanting to focus on natural language processing (NLP) (models dealing with language) or even learn machine learning strictly for NLP tasks. This is a section dedicated to that need. Happy NLP learning!
 * [A complete roadmap to master NLP in 2022](https://www.analyticsvidhya.com/blog/2022/01/roadmap-to-master-nlp-in-2022/)
 * [Become an NLP pro with Coursera's Natural Language Processing Specialization by deeplearning.ai](https://coursera.pxf.io/P0vO9e) - Paid
@@ -204,6 +204,9 @@ _"Learn cutting-edge natural language processing techniques to process speech an
 * [SpaCy](https://course.spacy.io/en/) is great for NLP in production, as it does NLU, NER, and one can train classification, etc with it. It's also able to add customized steps or models into the pipeline.
 * [Prompting!](https://learnprompting.org/) Prompting is a new skill that you should master if you want to build NLP-related apps. This is a great course I am contributing to, intending to teach prompting and give tips for specific models.
 
+### Train, fine-tune, and use Large Language Models!
+* [LangChain & Vector Databases in Production](https://learn.activeloop.ai/courses/langchain/) - An amazing free resource we built at Towards AI in partnership with Activeloop and the Intel Disruptor Initiative to learn about LangChain & Vector Databases in Production. "Whether you are an experienced developer who's a newcomer to the AI realm or an experienced machine learning enthusiast, this course is designed for you. Our goal is to make AI accessible and practical, transforming how you approach your daily tasks and the overall impact of your work."
+* [Training & Fine-Tuning LLMs for Production](https://learn.activeloop.ai/courses/llms/) - An amazing free resource we built at Towards AI in partnership with Activeloop and the Intel Disruptor Initiative to learn about Training & Fine-Tuning LLMs for Production. "If you want to learn how to train and fine-tune LLMs from scratch, and have intermediate Python knowledge as well as access to moderate compute resources (for some cases, just a Google Colab will suffice!), you should be all set to take and complete the course. This course is designed with a wide audience in mind, including beginners in AI, current machine learning engineers, students, and professionals considering a career transition to AI. We aim to provide you with the necessary tools to apply and tailor Large Language Models across a wide range of industries to make AI more accessible and practical."
 
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40whats_ai)](https://twitter.com/Whats_AI)
 
