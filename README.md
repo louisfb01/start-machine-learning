@@ -22,9 +22,7 @@ Feel free to message me any great resources to add to this repository on bouchar
 
 ----
 
-👀 **If you'd like to support my work**, you can check to [Sponsor](https://github.com/sponsors/louisfb01) this repository or support me on [Patreon](https://www.patreon.com/whatsai). You can also support me by following my favorite (free) [daily AI newsletter](https://www.syntheticmind.io/subscribe?ref=EFowuebnlZ) to get frequent updates on new research and applications in AI!
-
-Or support me by wearing cool [merch](https://whatsai.myshopify.com/)!
+👀 **If you'd like to support my work**, you can check to [Sponsor](https://github.com/sponsors/louisfb01) this repository or support me on [Patreon](https://www.patreon.com/whatsai).
 
 ----
 
@@ -236,7 +234,7 @@ _"Learn cutting-edge natural language processing techniques to process speech an
 
 ----
 
-👀 **If you'd like to support my work**, you can check to [Sponsor](https://github.com/sponsors/louisfb01) this repository or support me on [Patreon](https://www.patreon.com/whatsai). You can also support me by following my favorite (free) [daily AI newsletter](https://www.syntheticmind.io/subscribe?ref=EFowuebnlZ) to get frequent updates on new research and applications in AI!
+👀 **If you'd like to support my work**, you can check to [Sponsor](https://github.com/sponsors/louisfb01) this repository or support me on [Patreon](https://www.patreon.com/whatsai).
 
 Or support me by wearing cool [merch](https://whatsai.myshopify.com/)!
 
@@ -294,6 +292,6 @@ Or support me by wearing cool [merch](https://whatsai.myshopify.com/)!
 
 ***Tag me on Twitter [@Whats_AI](https://twitter.com/Whats_AI) or LinkedIn [@Louis (What's AI) Bouchard](https://www.linkedin.com/in/whats-ai/)  if you share the list!***
 
-👀 **If you'd like to support my work**, you can check to [Sponsor](https://github.com/sponsors/louisfb01) this repository or support me on [Patreon](https://www.patreon.com/whatsai). You can also support me by following my favorite [daily AI newsletter](https://www.syntheticmind.io/subscribe?ref=EFowuebnlZ) to get frequent updates on new papers like those!. Thank you, and let me know if I missed any good resources!
+👀 **If you'd like to support my work**, you can check to [Sponsor](https://github.com/sponsors/louisfb01) this repository or support me on [Patreon](https://www.patreon.com/whatsai).
 
 This guide is still regularly updated.
