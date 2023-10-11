@@ -53,6 +53,10 @@ This is the best way to start from nothing in my opinion. Here, I list a few of 
     * [Math for Machine Learning - Weights & Biases](https://www.youtube.com/playlist?list=PLD80i8An1OEGZ2tYimemzwC3xqkU0jKUg) - YouTube Playlist
     * [The spelled-out intro to neural networks and backpropagation: building micrograd](https://youtu.be/VMj-3S1tku0) - YouTube Video by Andrej Karpathy
 
+* Understanding Transformers and LLMs (i.e. models behind ChatGPT)!
+   * Luis Serrano, "[Natural Language Processing and Large Language Models](https://www.youtube.com/playlist?list=PLs8w1Cdi-zvYskDS2icIItfZgxclApVLv)" - amazing video introductions to the attention mechanism, tokens, embeddings and more to better understand everything behind large language models like GPT!
+   * What's AI's LLM free course videos "[Train & Fine-Tune LLMs for Production Course by Activeloop, Towards AI & Intel Disruptor](https://youtube.com/playlist?list=PLO4GrDnQanVcPlQUBuMd_pwRkILfc463G&si=QbXeHeDs5RSKH3nY)". "A playlist for our LLM course: Gen AI 360: Foundational Model Certification!"
+
 Another easy **way to get started and keep learning is by listening to podcasts** in your spare time. Driving to work, on the bus, or having trouble falling asleep? Listen to some AI podcasts to get used to the terms and patterns, and learn about the field through inspiring stories! I invite you to follow a few of the best I personally prefer, like [Lex Fridman](https://open.spotify.com/show/2MAi0BvDc6GTFvKFPXnkCL), [Machine Learning Street Talk](https://open.spotify.com/show/02e6PZeIOdpmBGT9THuzwR), and obviously, my podcast: [What's AI by Louis Bouchard](https://open.spotify.com/show/4rKRJXaXlClkDyInjHkxq3), where you will learn about incredibly talented people in the field with inspiring stories sharing the knowledge they worked so hard to gather.
 
 ## Follow free online courses on YouTube<a name="youtubecourses"></a>
