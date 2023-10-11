@@ -257,7 +257,6 @@ Or support me by wearing cool [merch](https://whatsai.myshopify.com/)!
     * [Deep learning](https://www.facebook.com/groups/DeepLearnng/) - Nowadays society tends to be soft and automated evolving into the 4th industrial revolution, which consequently drives the constituents into the swirl of societal upheaval. To survive or take a lead one is supposed to be equipped with associated tools. Machine is becoming smarter and more intelligent. Machine learning is inescapable skill and it requires people to be familiar with. This group is for these people who are interest in the development of their talents to fit in.
 
 * Newsletters
-   * [Synthetic Mind: Get Smarter on Artificial Intelligence](https://www.syntheticmind.io/subscribe?ref=EFowuebnlZ) to get daily updates on AI news.
    * [Synced AI TECHNOLOGY & INDUSTRY REVIEW](https://syncedreview.com/) - China's leading media & information provider for AI & Machine Learning.
    * [Inside AI](https://inside.com/ai) - A daily roundup of stories and commentary on Artificial Intelligence, Robotics, and Neurotechnology.
    * [AI Weekly](http://aiweekly.co/) - A weekly collection of AI News and resources on Artificial Intelligence and Machine Learning.
