@@ -8,11 +8,11 @@ All resources listed here are free, except some online courses and books, which 
 
 Don't be afraid to repeat videos or learn from multiple sources. Repetition is the key of success to learning!
 
-Maintainer: [louisfb01](https://github.com/louisfb01), also active on [YouTube](https://www.youtube.com/@whatsai) and as a [Podcaster](https://open.spotify.com/show/4rKRJXaXlClkDyInjHkxq3) if you want to see/hear more about AI!
+Maintainer: [louisfb01](https://github.com/louisfb01), also active on [YouTube](https://www.youtube.com/@whatsai) and as a [Podcaster](https://open.spotify.com/show/4rKRJXaXlClkDyInjHkxq3) if you want to see/hear more about AI! You can also learn more twice a week in [my personal newsletter](https://louisbouchard.substack.com/)! [Subscribe](https://louisbouchard.substack.com/) and get AI news and updates explained clearly!
 
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40whats_ai)](https://twitter.com/Whats_AI)
 
-Feel free to message me any great resources to add to this repository on bouchard.lf@gmail.com
+Feel free to message me any great resources to add to this repository at bouchard.lf@gmail.com
 
 ***Tag me on Twitter [@Whats_AI](https://twitter.com/Whats_AI) or LinkedIn [@Louis (What's AI) Bouchard](https://www.linkedin.com/in/whats-ai/)  if you share the list!***
 
