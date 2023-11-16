@@ -14,7 +14,7 @@ Maintainer: [louisfb01](https://github.com/louisfb01), also active on [YouTube](
 
 Feel free to message me any great resources to add to this repository at bouchard.lf@gmail.com
 
-***Tag me on Twitter [@Whats_AI](https://twitter.com/Whats_AI) or LinkedIn [@Louis (What's AI) Bouchard](https://www.linkedin.com/in/whats-ai/)  if you share the list!***
+***Tag me on Twitter [@Whats_AI](https://twitter.com/Whats_AI) or LinkedIn [@Louis Bouchard](https://www.linkedin.com/in/whats-ai/)  if you share the list!***
 
 ### Want to know what is this guide about? Watch this video:
 
@@ -45,7 +45,7 @@ Feel free to message me any great resources to add to this repository at bouchar
 This is the best way to start from nothing in my opinion. Here, I list a few of the best videos I found that will give you a great first introduction of the terms you need to know to get started in the field.
 
 * Introduction to the most used terms
-    * [Learn the basics in a minute - What's AI](https://www.youtube.com/playlist?list=PLO4GrDnQanVe6F6MRJg_KO7JEoH-ukFzY) - YouTube Playlist
+    * [Learn the basics in a minute - Louis Bouchard](https://www.youtube.com/playlist?list=PLO4GrDnQanVe6F6MRJg_KO7JEoH-ukFzY) - YouTube Playlist
     
 * Understand the neural networks
     * [Neural Networks Demystified - Welch Labs](https://www.youtube.com/playlist?list=PLiaHhY2iBX9hdHaRr6b7XevZtgZRa1PoU) - YouTube Playlist
@@ -55,9 +55,9 @@ This is the best way to start from nothing in my opinion. Here, I list a few of 
 
 * Understanding Transformers and LLMs (i.e. models behind ChatGPT)!
    * Luis Serrano, "[Natural Language Processing and Large Language Models](https://www.youtube.com/playlist?list=PLs8w1Cdi-zvYskDS2icIItfZgxclApVLv)" - amazing video introductions to the attention mechanism, tokens, embeddings and more to better understand everything behind large language models like GPT!
-   * What's AI's LLM free course videos "[Train & Fine-Tune LLMs for Production Course by Activeloop, Towards AI & Intel Disruptor](https://youtube.com/playlist?list=PLO4GrDnQanVcPlQUBuMd_pwRkILfc463G&si=QbXeHeDs5RSKH3nY)". "A playlist for our LLM course: Gen AI 360: Foundational Model Certification!"
+   * Louis Bouchard's LLM free course videos "[Train & Fine-Tune LLMs for Production Course by Activeloop, Towards AI & Intel Disruptor](https://youtube.com/playlist?list=PLO4GrDnQanVcPlQUBuMd_pwRkILfc463G&si=QbXeHeDs5RSKH3nY)". "A playlist for our LLM course: Gen AI 360: Foundational Model Certification!"
 
-Another easy **way to get started and keep learning is by listening to podcasts** in your spare time. Driving to work, on the bus, or having trouble falling asleep? Listen to some AI podcasts to get used to the terms and patterns, and learn about the field through inspiring stories! I invite you to follow a few of the best I personally prefer, like [Lex Fridman](https://open.spotify.com/show/2MAi0BvDc6GTFvKFPXnkCL), [Machine Learning Street Talk](https://open.spotify.com/show/02e6PZeIOdpmBGT9THuzwR), and obviously, my podcast: [What's AI by Louis Bouchard](https://open.spotify.com/show/4rKRJXaXlClkDyInjHkxq3), where you will learn about incredibly talented people in the field with inspiring stories sharing the knowledge they worked so hard to gather.
+Another easy **way to get started and keep learning is by listening to podcasts** in your spare time. Driving to work, on the bus, or having trouble falling asleep? Listen to some AI podcasts to get used to the terms and patterns, and learn about the field through inspiring stories! I invite you to follow a few of the best I personally prefer, like [Lex Fridman](https://open.spotify.com/show/2MAi0BvDc6GTFvKFPXnkCL), [Machine Learning Street Talk](https://open.spotify.com/show/02e6PZeIOdpmBGT9THuzwR), and obviously, my podcast: [Louis Bouchard Podcast](https://open.spotify.com/show/4rKRJXaXlClkDyInjHkxq3), where you will learn about incredibly talented people in the field with inspiring stories sharing the knowledge they worked so hard to gather.
 
 ## Follow free online courses on YouTube<a name="youtubecourses"></a>
 ### Follow free online courses on YouTube
@@ -147,7 +147,7 @@ Here is a list of some great courses to learn the programming side of machine le
 * [Shell tutorial](https://swcarpentry.github.io/shell-novice/) - Learn to use the Unix shell! A must for developers and AI practitioners.
 
 
-> Check out [the What's AI podcast](https://open.spotify.com/show/4rKRJXaXlClkDyInjHkxq3) for more AI content in the form of interviews with experts in the field! An invited AI expert and I will cover specific topics, sub-fields, and roles related to AI to teach and share knowledge from the people who worked hard to gather it.
+> Check out [the Louis Bouchard podcast](https://open.spotify.com/show/4rKRJXaXlClkDyInjHkxq3) for more AI content in the form of interviews with experts in the field! An invited AI expert and I will cover specific topics, sub-fields, and roles related to AI to teach and share knowledge from the people who worked hard to gather it.
 
 
 ## Follow online courses<a name="onlinecourses"></a>
@@ -248,7 +248,7 @@ Or support me by wearing cool [merch](https://whatsai.myshopify.com/)!
 ### Follow the news in the field!
 
 * Subscribe to YouTube channels that share new papers - Stay up to date with the news in the field!
-    * [What's AI](https://www.youtube.com/channel/UCUzGQrN-lyyc0BWTYoJM_Sg) - Weekly videos covering new papers
+    * [Louis Bouchard](https://www.youtube.com/channel/UCUzGQrN-lyyc0BWTYoJM_Sg) - Weekly videos covering new papers
     * [Two Minutes Papers](https://www.youtube.com/user/keeroyz) - Bi-weekly videos covering new papers
     * [Bycloud](https://www.youtube.com/channel/UCgfe2ooZD3VJPB6aJAnuQng) - Weekly videos covering new papers
     
@@ -266,7 +266,7 @@ Or support me by wearing cool [merch](https://whatsai.myshopify.com/)!
    * [Inside AI](https://inside.com/ai) - A daily roundup of stories and commentary on Artificial Intelligence, Robotics, and Neurotechnology.
    * [AI Weekly](http://aiweekly.co/) - A weekly collection of AI News and resources on Artificial Intelligence and Machine Learning.
    * [AI Ethics Weekly](https://lighthouse3.com/newsletter/) - The latest updates in AI Ethics delivered to your inbox every week.
-   * [What's AI Weekly](https://louisbouchard.substack.com/) - One and only one paper clearly explained weekly with an article, video demo, demo, code, etc.
+   * [Louis Bouchard Weekly](https://louisbouchard.substack.com/) - One and only one paper clearly explained weekly with an article, video demo, demo, code, etc.
    * [Data Science Dojo Newsletter](https://datasciencedojo.com/newsletter/) - Get the latest Data Science content in your inbox
    * [Toward's AI newsletter](https://towardsai.net/ai/newsletter) - Summarizing the most interesting news and learning resources weekly as well as community updates from the Learn AI Together Discord community. Perfect for ML professionals and enthusiasts.
     
@@ -274,7 +274,7 @@ Or support me by wearing cool [merch](https://whatsai.myshopify.com/)!
     * [Towards Data Science](https://towardsdatascience.com/) - "Sharing concepts, ideas, and codes"
     * [Towards AI](https://medium.com/towards-artificial-intelligence) - "The Best of Tech, Science, and Engineering."
     * [OneZero](https://onezero.medium.com/) - "The undercurrents of the future. A Medium publication about tech and science."
-    * [What's AI](https://whats-ai.medium.com/) - "Hi, I am Louis (loo·ee, French pronunciation), from Montreal, Canada, also known as "What's AI". I try to share and explain artificial intelligence terms and news the best way I can for everyone. My goal is to demystify the AI “black box” for everyone and sensitize people about the risks of using it."
+    * [Louis Bouchard](https://whats-ai.medium.com/) - "Hi, I am Louis (loo·ee, French pronunciation), from Montreal, Canada. I try to share and explain artificial intelligence terms and news the best way I can for everyone. My goal is to demystify the AI “black box” for everyone and sensitize people about the risks of using it."
    
 * Check this complete GitHub guide to keep up with AI News
    * [BAILOOL/DoYouEvenLearn](https://github.com/louisfb01/DoYouEvenLearn) - Essential Guide to keep up with AI/ML/DL/CV
@@ -294,7 +294,7 @@ Or support me by wearing cool [merch](https://whatsai.myshopify.com/)!
 ---
 
 
-***Tag me on Twitter [@Whats_AI](https://twitter.com/Whats_AI) or LinkedIn [@Louis (What's AI) Bouchard](https://www.linkedin.com/in/whats-ai/)  if you share the list!***
+***Tag me on Twitter [@Whats_AI](https://twitter.com/Whats_AI) or LinkedIn [@Louis Bouchard](https://www.linkedin.com/in/whats-ai/)  if you share the list!***
 
 👀 **If you'd like to support my work**, you can check to [Sponsor](https://github.com/sponsors/louisfb01) this repository or support me on [Patreon](https://www.patreon.com/whatsai).
 
