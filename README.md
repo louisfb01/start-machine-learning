@@ -93,6 +93,7 @@ Here is a list of awesome articles available online that you should definitely r
 ### Read some books
 Here are some great books to read for the people preferring the reading path.
 
+* [Building AI for Production: Enhancing LLM Abilities and Reliability with Fine-Tuning and RAG](https://amzn.to/3vvRCkG) - by Towards AI. "Discover the key tech stacks for adapting Large Language Models to real-world applications, including Prompt Engineering, Fine-tuning, and Retrieval Augment Generation."
 * [Deep learning book](https://www.deeplearningbook.org/) - Free Online
 * [Dive into Deep Learning](http://d2l.ai/) - Free Online
 * [Probabilistic Machine Learning: An Introduction](https://probml.github.io/pml-book/book1.html) - Free Online
