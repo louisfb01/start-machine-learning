@@ -263,14 +263,13 @@ Or support me by wearing cool [merch](https://whatsai.myshopify.com/)!
     * [Deep learning](https://www.facebook.com/groups/DeepLearnng/) - Nowadays society tends to be soft and automated evolving into the 4th industrial revolution, which consequently drives the constituents into the swirl of societal upheaval. To survive or take a lead one is supposed to be equipped with associated tools. Machine is becoming smarter and more intelligent. Machine learning is inescapable skill and it requires people to be familiar with. This group is for these people who are interest in the development of their talents to fit in.
 
 * Newsletters
-   * [Synced AI TECHNOLOGY & INDUSTRY REVIEW](https://syncedreview.com/) - China's leading media & information provider for AI & Machine Learning.
+   * [AlphaSignal](https://alphasignal.ai/) — The Most Read Technical Newsletter in AI
+   * [AI News](https://buttondown.email/ainews/archive/) - by Swyx & friends - a lot of LLM aid going on indexing ~356 Twitters, ~21 Discords, etc. (I personally mostly read the main recap)
    * [Inside AI](https://inside.com/ai) - A daily roundup of stories and commentary on Artificial Intelligence, Robotics, and Neurotechnology.
    * [AI Weekly](http://aiweekly.co/) - A weekly collection of AI News and resources on Artificial Intelligence and Machine Learning.
    * [AI Ethics Weekly](https://lighthouse3.com/newsletter/) - The latest updates in AI Ethics delivered to your inbox every week.
    * [Louis Bouchard Weekly](https://louisbouchard.substack.com/) - One and only one paper clearly explained weekly with an article, video demo, demo, code, etc.
-   * [Data Science Dojo Newsletter](https://datasciencedojo.com/newsletter/) - Get the latest Data Science content in your inbox
    * [Toward's AI newsletter](https://towardsai.net/ai/newsletter) - Summarizing the most interesting news and learning resources weekly as well as community updates from the Learn AI Together Discord community. Perfect for ML professionals and enthusiasts.
-   * [AI News](https://buttondown.email/ainews/archive/) - by Swyx & friends - a lot of LLM aid going on indexing ~356 Twitters, ~21 Discords, etc. (I personally mostly read the main recap)
     
 * Follow Medium accounts and publications
     * [Towards Data Science](https://towardsdatascience.com/) - "Sharing concepts, ideas, and codes"
