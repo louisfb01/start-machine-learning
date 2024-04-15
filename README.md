@@ -57,7 +57,7 @@ This is the best way to start from nothing in my opinion. Here, I list a few of 
    * Luis Serrano, "[Natural Language Processing and Large Language Models](https://www.youtube.com/playlist?list=PLs8w1Cdi-zvYskDS2icIItfZgxclApVLv)" - amazing video introductions to the attention mechanism, tokens, embeddings and more to better understand everything behind large language models like GPT!
    * Louis Bouchard's LLM free course videos "[Train & Fine-Tune LLMs for Production Course by Activeloop, Towards AI & Intel Disruptor](https://youtube.com/playlist?list=PLO4GrDnQanVcPlQUBuMd_pwRkILfc463G&si=QbXeHeDs5RSKH3nY)". "A playlist for our LLM course: Gen AI 360: Foundational Model Certification!"
 
-Another easy **way to get started and keep learning is by listening to podcasts** in your spare time. Driving to work, on the bus, or having trouble falling asleep? Listen to some AI podcasts to get used to the terms and patterns, and learn about the field through inspiring stories! I invite you to follow a few of the best I personally prefer, like [Lex Fridman](https://open.spotify.com/show/2MAi0BvDc6GTFvKFPXnkCL), [Machine Learning Street Talk](https://open.spotify.com/show/02e6PZeIOdpmBGT9THuzwR), and obviously, my podcast: [Louis Bouchard Podcast](https://open.spotify.com/show/4rKRJXaXlClkDyInjHkxq3), where you will learn about incredibly talented people in the field with inspiring stories sharing the knowledge they worked so hard to gather.
+Another easy **way to get started and keep learning is by listening to podcasts** in your spare time. Driving to work, on the bus, or having trouble falling asleep? Listen to some AI podcasts to get used to the terms and patterns, and learn about the field through inspiring stories! I invite you to follow a few of the best I personally prefer, like [Lex Fridman](https://open.spotify.com/show/2MAi0BvDc6GTFvKFPXnkCL), [Machine Learning Street Talk](https://open.spotify.com/show/02e6PZeIOdpmBGT9THuzwR), [Latent Space Podcast](https://www.latent.space/podcast), and obviously, my podcast: [Louis Bouchard Podcast](https://open.spotify.com/show/4rKRJXaXlClkDyInjHkxq3), where you will learn about incredibly talented people in the field with inspiring stories sharing the knowledge they worked so hard to gather.
 
 ## Follow free online courses on YouTube<a name="youtubecourses"></a>
 ### Follow free online courses on YouTube
@@ -270,6 +270,7 @@ Or support me by wearing cool [merch](https://whatsai.myshopify.com/)!
    * [Louis Bouchard Weekly](https://louisbouchard.substack.com/) - One and only one paper clearly explained weekly with an article, video demo, demo, code, etc.
    * [Data Science Dojo Newsletter](https://datasciencedojo.com/newsletter/) - Get the latest Data Science content in your inbox
    * [Toward's AI newsletter](https://towardsai.net/ai/newsletter) - Summarizing the most interesting news and learning resources weekly as well as community updates from the Learn AI Together Discord community. Perfect for ML professionals and enthusiasts.
+   * [AI News](https://buttondown.email/ainews/archive/) - by Swyx & friends - a lot of LLM aid going on indexing ~356 Twitters, ~21 Discords, etc. (I personally mostly read the main recap)
     
 * Follow Medium accounts and publications
     * [Towards Data Science](https://towardsdatascience.com/) - "Sharing concepts, ideas, and codes"
