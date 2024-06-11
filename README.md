@@ -87,6 +87,8 @@ Here is a list of awesome articles available online that you should definitely r
 * [Understanding Neural Networks](https://towardsdatascience.com/understanding-neural-networks-22b29755abd9) - Prince Canuma
 * [Reading lists for new MILA students](https://docs.google.com/document/d/1IXF3h0RU5zz4ukmTrVKVotPQypChscNGf5k6E25HGvA/edit#) - Anonymous
 * [The 80/20 AI Reading List](https://medium.com/machine-learning-for-humans/ai-reading-list-c4753afd97a) - Vishal Maini
+* [Machine Learning Roadmap and Skills for Machine Learning](https://www.scaler.com/blog/machine-learning-roadmap/) - Anshuman Singh
+
 
 
 ## Read Books<a name="readbooks"></a>
