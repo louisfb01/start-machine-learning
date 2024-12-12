@@ -22,7 +22,9 @@ Feel free to message me any great resources to add to this repository at bouchar
 
 ----
 
-👀 **If you'd like to support my work**, you can check to [Sponsor](https://github.com/sponsors/louisfb01) this repository or support me on [Patreon](https://www.patreon.com/whatsai).
+👀 **If you'd like to support my work**, you can check to [Sponsor](https://github.com/sponsors/louisfb01) this repository.
+
+[<img src="https://imgur.com/hLr2aQF.png" width="512"/>](https://academy.towardsai.net/courses/beginner-to-advanced-llm-dev?ref=1f9b29)
 
 ----
 
@@ -240,13 +242,7 @@ _"Learn cutting-edge natural language processing techniques to process speech an
     * [Cheat Sheet of Machine Learning and Python (and Math) Cheat Sheets](https://medium.com/machine-learning-in-practice/cheat-sheet-of-machine-learning-and-python-and-math-cheat-sheets-a4afe4e791b6) - Robbie Allen
     * [AI Expert Roadmap](https://i.am.ai/roadmap/#fundamentals) - Use it as a skillset checklist!
 
-----
-
-👀 **If you'd like to support my work**, you can check to [Sponsor](https://github.com/sponsors/louisfb01) this repository or support me on [Patreon](https://www.patreon.com/whatsai).
-
-Or support me by wearing cool [merch](https://whatsai.myshopify.com/)!
-
-----
+[<img src="https://imgur.com/hLr2aQF.png" width="512"/>](https://academy.towardsai.net/courses/beginner-to-advanced-llm-dev?ref=1f9b29)
 
 ### Follow the news in the field!
 
@@ -299,6 +295,6 @@ Or support me by wearing cool [merch](https://whatsai.myshopify.com/)!
 
 ***Tag me on Twitter [@Whats_AI](https://twitter.com/Whats_AI) or LinkedIn [@Louis Bouchard](https://www.linkedin.com/in/whats-ai/)  if you share the list!***
 
-👀 **If you'd like to support my work**, you can check to [Sponsor](https://github.com/sponsors/louisfb01) this repository or support me on [Patreon](https://www.patreon.com/whatsai).
+👀 **If you'd like to support my work**, you can check to [Sponsor](https://github.com/sponsors/louisfb01) this repository.
 
 This guide is still regularly updated.
