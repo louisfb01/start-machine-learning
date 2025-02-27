@@ -140,6 +140,8 @@ You now have a very good math background for machine learning and you are ready 
 ### No coding background, no problem
 Here is a list of some great courses to learn the programming side of machine learning.
 
+Here, I want to quickly mention that we recently released our new course, "Python for Generative AI" where we focus on teaching Python programming "as a tool" for working with AI systems. If your goal is to do that and not learn programming for the sake of programming, check it out [on the Towards AI Academy](https://academy.towardsai.net/courses/python-for-genai/?ref=1f9b29).
+
 * [Practical Machine Learning Tutorial with Python](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v) - Free YouTube python introduction
 * [Learn Python](https://www.learnpython.org/) - Free interactive tutorial to learn python
 * [Learn Python Basics for Data Analysis](https://openclassrooms.com/en/courses/2304731-learn-python-basics-for-data-analysis/6009031-get-started-with-python-and-anaconda) - Free course on OpenClassrooms
