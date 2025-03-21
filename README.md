@@ -176,8 +176,6 @@ If you prefer to be more guided and have clear steps to follow, these courses ar
 * [DEEP LEARNING COURSE - François Fleuret](https://fleuret.org/dlc/) - This course is a thorough introduction to deep-learning, with examples in the PyTorch framework. There are some [prerequisites](https://fleuret.org/dlc/#information).
 
 For specific applications:
-* [AI For trading nanodegree from Udacity](https://imp.i115008.net/Rymvkg) - Paid
-* [Learn Deep Reinforcement learning - Udacity nanodegree](https://imp.i115008.net/7moj2y) - Paid
 * [Become an NLP pro with Coursera's Natural Language Processing Specialization by deeplearning.ai](https://coursera.pxf.io/P0vO9e) - Paid
  _"Break into the NLP space. Master cutting-edge NLP techniques through four hands-on courses!"_
 
@@ -185,8 +183,6 @@ For specific applications:
 Get your models online and show them to the world:
 * [Gradio Course - Create User Interfaces for Machine Learning Models - freeCodeCamp](https://youtu.be/RiCQzBluTxU) - Free
 * [How to Deploy a Machine Learning Model to Google Cloud - Daniel Bourke](https://youtu.be/fw6NMQrYc6w) - Free
-* [Machine Learning DevOps Engineer - Udacity Nanodegree](https://imp.i115008.net/mgZWAX) - Paid
-* [AWS Machine Learning Engineer - Udacity Nanodegree](https://imp.i115008.net/9WO5Ry) - Paid
 
 
 ## Practice, practice, and practice!<a name="practice"></a>
