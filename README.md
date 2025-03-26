@@ -102,6 +102,7 @@ Here are some great books to read for the people preferring the reading path.
 * [Artificial Intelligence: A Modern Approach](https://amzn.to/3mSqhk2) - Optional (Paying)
 * [Pattern Recognition and Machine Learning](https://amzn.to/3mPUGPF) - Optional (Paying)
 * [Deep Learning with Python](https://amzn.to/32iR3sm) - Optional (Paying)
+* [The LLM Engineer's Handbook](https://www.packtpub.com/en-us/product/llm-engineers-handbook-9781836200079?utm_medium=affiliate&utm_campaign=51b66f4e-29b2-68d8-f16e-67e2f9dfe6d0&utm_term=c35fe2b3-a89c-3ed8-1def-67c6a827b8eb&utm_content=B31105)—Build and refine LLMs step by step, covering data preparation, RAG, and fine-tuning.
 * [Understanding Machine Learning: From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/index.html) - Shai Shalev-Shwartz and Shai Ben-David - Free Online
 
 Great books for building your math background:
