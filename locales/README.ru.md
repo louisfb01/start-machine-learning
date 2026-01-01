@@ -1,0 +1,316 @@
+<!--START_SECTION:navbar-->
+<div align="center">
+  <a href="../README.md">🇺🇸 English</a> | <a href="README.de.md">🇩🇪 Deutsch</a> | <a href="README.es.md">🇪🇸 Español</a> | <a href="README.fr.md">🇫🇷 Français</a> | <a href="README.hi.md">🇮🇳 हिंदी</a> | <a href="README.ja.md">🇯🇵 日本語</a> | <a href="README.ko.md">🇰🇷 한국어</a> | <a href="README.pt.md">🇵🇹 Português</a> | <a href="README.ru.md">🇷🇺 Русский</a> | <a href="README.zh.md">🇨🇳 中文</a>
+</div>
+<!--END_SECTION:navbar-->
+
+# Начните изучение машинного обучения в 2025 - Станьте экспертом бесплатно!
+
+## Полное руководство по началу и улучшению навыков в области машинного обучения (ML), искусственного интеллекта (AI) в 2025 году без ЛЮБОГО опыта в этой области и оставайтесь в курсе последних новостей и передовых технологий!
+
+Этот гид предназначен для всех, у кого нет или есть минимальный опыт в программировании, математике и машинном обучении. Нет конкретного порядка, который нужно следовать, но классический путь — с верху вниз. Если вам не нравится читать книги, пропустите этот раздел, если вы не хотите проходить онлайн-курсы, вы также можете пропустить их. Существует множество способов стать экспертом в области машинного обучения, и с мотивацией вы можете достичь этого абсолютно.
+
+Все ресурсы, перечисленные здесь, бесплатны, за исключением некоторых онлайн-курсов и книг, которые настоятельно рекомендуются для лучшего понимания, но, безусловно, возможно стать экспертом и без них, потратив немного больше времени на онлайн-чтение, видео и практику. Что касается платных курсов, ссылки в этом руководстве являются аффилиат-ссылками. Пожалуйста, используйте их, если вы хотите пройти курс, это поможет мне. Спасибо, и приятного обучения! Помните, это полностью зависит от вас и не обязательно. Я посчитал, что это было полезно для меня и, возможно, полезно и для других.
+
+Не бойтесь повторять видео или учиться у нескольких источников. Повторение — ключ к успеху в обучении!
+
+Maintainer: [louisfb01](https://github.com/louisfb01), также активен на [YouTube](https://www.youtube.com/@whatsai) и как [Podcaster](https://open.spotify.com/show/4rKRJXaXlClkDyInjHkxq3), если вы хотите увидеть/услышать больше о ИИ! Вы также можете учиться дважды в неделю в [моем личном информационном бюллетене](https://louisbouchard.substack.com/)! [Подписаться](https://louisbouchard.substack.com/) и получать новости и обновления по ИИ, объясненные ясно!
+
+[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40whats_ai)](https://twitter.com/Whats_AI)
+
+Не стесняйтесь сообщить мне о любых отличных ресурсах, которые можно добавить в этот репозиторий, на bouchard.lf@gmail.com
+
+***Упомяните меня в Твиттере [@Whats_AI](https://twitter.com/Whats_AI) или в LinkedIn [@Louis Bouchard](https://www.linkedin.com/in/whats-ai/) , если вы поделитесь этим списком!***
+
+### Хотите узнать, о чем эта справка? Посмотрите это видео:
+
+[<img src="https://imgur.com/JFRt2Jb.png" width="512"/>](https://youtu.be/RirEw-uaS_8)
+
+----
+
+👀 **If you'd like to support my work**, you can check to [Sponsor](https://github.com/sponsors/louisfb01) this repository.
+
+[<img src="https://imgur.com/hLr2aQF.png" width="512"/>](https://academy.towardsai.net/courses/beginner-to-advanced-llm-dev?ref=1f9b29)
+
+----
+
+## Содержание
+
+- [Начните с коротких видео-вступлений на YouTube](#youtubevideos)
+- [Следуйте бесплатным онлайн-курсам на YouTube](#youtubecourses)
+- [Читайте статьи](#readarticles)
+- [Читайте книги](#readbooks)
+- [Нет математического опыта для ML? Посмотрите это!](#math)
+- [Нет опыта программирования? Нет проблем](#coding)
+- [Следуйте онлайн-курсам](#onlinecourses)
+- [Практикуйтесь, практикуйтесь и практикуйтесь!](#practice)
+- [Хотите создавать языковые модели/приложения? Посмотрите это! (теперь с LLMs!)](#nlp)
+- [Больше ресурсов (сообщества, шпаргалки, новости и многое другое!)](#moreresources)
+- [Как найти работу в области машинного обучения](#findajob)
+- [Этика ИИ](#aiethics)
+
+## Начните с коротких вступительных видео на YouTube<a name="youtubevideos"></a>
+
+### Начните с коротких вступительных видео на YouTube
+
+Это лучший способ начать с нуля, на мой взгляд. Здесь я перечисляю несколько лучших видео, которые я нашёл, и которые дадут вам отличное первое введение в термины, которые нужно знать, чтобы начать работать в этой области.
+
+* Введение в наиболее часто используемые термины
+    * [Learn the basics in a minute - Louis Bouchard](https://www.youtube.com/playlist?list=PLO4GrDnQanVe6F6MRJg_KO7JEoH-ukFzY) - YouTube Playlist
+    
+* Понимание нейронных сетей
+    * [Foundational Knowledge for LLMs and building on top of LLMs](https://youtu.be/R5_udqy1L4s) - 2 бесплатных сеанса по 2 часа каждый, охватывающих всё, что вам нужно знать о LLMs.
+    * [Neural Networks Demystified - Welch Labs](https://www.youtube.com/playlist?list=PLiaHhY2iBX9hdHaRr6b7XevZtgZRa1PoU) - YouTube Playlist
+    * [Learn Neural Networks - 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) - YouTube Playlist
+    * [Math for Machine Learning - Weights & Biases](https://www.youtube.com/playlist?list=PLD80i8An1OEGZ2tYimemzwC3xqkU0jKUg) - YouTube Playlist
+    * [The spelled-out intro to neural networks and backpropagation: building micrograd](https://youtu.be/VMj-3S1tku0) - YouTube Video by Andrej Karpathy
+
+* Понимание трансформеров и LLMs (т.е. моделей, лежащих в основе ChatGPT)!
+   * Luis Serrano, "[Natural Language Processing and Large Language Models](https://www.youtube.com/playlist?list=PLs8w1Cdi-zvYskDS2icIItfZgxclApVLv)" - потрясающие видео-введения в механизм внимания, токены, эмбеддинги и многое другое, чтобы лучше понять всё, что находится за крупными языковыми моделями, такими как GPT!
+   * Видео Louis Bouchard's LLM free course "[Train & Fine-Tune LLMs for Production Course by Activeloop, Towards AI & Intel Disruptor](https://youtube.com/playlist?list=PLO4GrDnQanVcPlQUBuMd_pwRkILfc463G&si=QbXeHeDs5RSKH3nY)". "Плейлист для нашего курса LLM: Gen AI 360: Foundational Model Certification!"
+
+Ещё один простой **способ начать и продолжать обучение — это прослушивание подкастов** в ваше свободное время. Едете на работу, на автобусе, или испытываете трудности с засыпанием? Послушайте подкасты по искусственному интеллекту, чтобы привыкнуть к терминам и паттернам, и узнайте о данной области через вдохновляющие истории! Я приглашаю вас следить за несколькими из лучших, которые лично я предпочитаю, например, [Lex Fridman](https://open.spotify.com/show/2MAi0BvDc6GTFvKFPXnkCL), [Machine Learning Street Talk](https://open.spotify.com/show/02e6PZeIOdpmBGT9THuzwR), [Latent Space Podcast](https://www.latent.space/podcast), и, конечно же, мой подкаст: [Louis Bouchard Podcast](https://open.spotify.com/show/4rKRJXaXlClkDyInjHkxq3), где вы узнаете о невероятно талантливых людях в этой области, делящихся вдохновляющими историями и знаниями, которые они так усердно собирали.
+
+## Следуйте бесплатным онлайн-курсам на YouTube<a name="youtubecourses"></a>
+
+### Следуйте бесплатным онлайн-курсам на YouTube
+
+Вот список потрясающих курсов, доступных на YouTube, которые вы обязательно должны пройти, и они 100% бесплатны.
+
+* [Введение в машинное обучение](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU) - Плейлист YouTube (Stanford)
+
+* [Введение в глубокое обучение](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI) - Плейлист YouTube (MIT)
+    
+* [Специализация по глубокому обучению](https://www.youtube.com/channel/UCcIXc5mJsHVYTZR1maL5l9w/playlists) - Плейлист YouTube (Deeplearning.ai)
+
+* [Глубокое обучение (с использованием PyTorch)](https://atcold.github.io/NYU-DLSP21/) - NYU, Yann LeCun
+
+* [Глубокое обучение MIT](https://deeplearning.mit.edu/) - актуальный курс по глубокому обучению от Lex Fridman
+
+## Прочитайте статьи<a name="readarticles"></a>
+
+### Прочитайте много статей
+
+Здесь находится список потрясающих статей, доступных в интернете, которые вы обязательно должны прочитать, и они 100% бесплатны.
+[Medium](https://whats-ai.medium.com/membership) — это, по сути, лучшее место для поиска отличных объяснений, либо на [Towards AI](https://pub.towardsai.net/), либо на публикациях [Towards Data Science](https://towardsdatascience.com/). Я также публикую свои собственные статьи там, и мне нравится использовать эту платформу. Вы можете подписаться на Medium, используя мой аффилиат-ссылка [здесь](https://whats-ai.medium.com/membership), если это звучит интересно для вас и если вы хотите поддержать меня одновременно!
+
+* [Начните AI в 2022 — станьте экспертом с нуля, бесплатно!](https://www.louisbouchard.ai/learnai/) - Louis Bouchard
+* [5 простых шагов для начинающих, чтобы изучить машинное обучение и науку о данных с помощью Python](https://towardsdatascience.com/5-beginner-friendly-steps-to-learn-machine-learning-and-data-science-with-python-bf69e211ade5) - Daniel Bourke
+* [Что такое машинное обучение?](https://medium.com/towards-artificial-intelligence/what-is-machine-learning-ml-b58162f97ec7) - Roberto Iriondo
+* [Машинное обучение для новичков: Введение в нейронные сети](https://towardsdatascience.com/machine-learning-for-beginners-an-introduction-to-neural-networks-d49f22d238f9) - Victor Zhou
+* [Руководство для новичков по нейронным сетям](https://towardsdatascience.com/a-beginners-guide-to-neural-networks-d5cf7e369a13#:~:text=Neural%20networks%20are%20powered%20by,then%20recognize%2C%20interpret%20and%20classify.) - Thomas Davis
+* [Понимание нейронных сетей](https://towardsdatascience.com/understanding-neural-networks-22b29755abd9) - Prince Canuma
+* [Списки чтения для новых студентов MILA](https://docs.google.com/document/d/1IXF3h0RU5zz4ukmTrVKVotPQypChscNGf5k6E25HGvA/edit#) - Аноним
+* [Список чтения AI 80/20](https://medium.com/machine-learning-for-humans/ai-reading-list-c4753afd97a) - Vishal Maini
+
+## Прочитайте книги<a name="readbooks"></a>
+
+### Прочитайте несколько книг
+
+Здесь представлены некоторые отличные книги для чтения для тех, кто предпочитает путь чтения.
+
+* [Building LLMs for Production: Enhancing LLM Abilities and Reliability with Prompting, Fine-Tuning, and RAG](https://amzn.to/4bqYU9b) - автор Towards AI. "Откройте для себя ключевые стеки технологий для адаптации крупных языковых моделей в реальных приложениях, включая инженерию промптов, тонкую настройку и генерацию с улучшением поиска." (Или получите электронную книгу [здесь](https://academy.towardsai.net/courses/buildingllmsforproduction?ref=1f9b29). Вы можете отправить мне прямое сообщение для получения приятной скидки!)
+* [Deep learning book](https://www.deeplearningbook.org/) - Бесплатно в интернете
+* [Dive into Deep Learning](http://d2l.ai/) - Бесплатно в интернете
+* [Probabilistic Machine Learning: An Introduction](https://probml.github.io/pml-book/book1.html) - Бесплатно в интернете
+* [Artificial Intelligence: A Modern Approach](https://amzn.to/3mSqhk2) - Необязательно (Платно)
+* [Pattern Recognition and Machine Learning](https://amzn.to/3mPUGPF) - Необязательно (Платно)
+* [Deep Learning with Python](https://amzn.to/32iR3sm) - Необязательно (Платно)
+* [The LLM Engineer's Handbook](https://www.packtpub.com/en-us/product/llm-engineers-handbook-9781836200079?utm_medium=affiliate&utm_campaign=51b66f4e-29b2-68d8-f16e-67e2f9dfe6d0&utm_term=c35fe2b3-a89c-3ed8-1def-67c6a827b8eb&utm_content=B31105)—Постройте и улучшайте LLM пошагово, охватывая подготовку данных, RAG и тонкую настройку.
+* [Understanding Machine Learning: From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/index.html) - Шай Шалев-Швартц и Шай Бен-Давид - Бесплатно в интернете
+
+Отличные книги для построения вашего математического фундамента:
+
+* [Mathematics for Machine Learning](https://mml-book.com/) - Бесплатно в интернете
+* [The Elements of Statistical Learning](https://amzn.to/3mMn5Gy) - Необязательно (Платно)
+* [Statistical Inference](https://amzn.to/3wRqIzD) - Необязательно (Платно)
+
+Полный фундамент по математическому анализу:
+
+* [Calculus: Concepts and Contexts](https://amzn.to/2OT4NXC) - Необязательно (Платно)
+* [Single Variable Calculus: Concepts and Contexts](https://amzn.to/3wXtzHf) - Необязательно (Платно)
+* [Multivariable Calculus: Concepts and Contexts](https://amzn.to/32jIRYC) - Необязательно (Платно)
+
+Эти книги полностью необязательны, но они предоставят вам лучшее понимание теории и даже научат вас некоторым вещам о кодировании ваших нейронных сетей!
+
+## Нет математического образования для ML? Посмотрите это! <a name="math"></a>
+
+### Нет математического образования для ML? Посмотрите это!
+
+Не волнуйтесь, как большинство вещей в жизни, вы можете научиться математике! Вот некоторые отличные ресурсы для начинающих и продвинутых, чтобы погрузиться в математику машинного обучения. Я бы посоветовал начать с этих трёх очень важных концепций в машинном обучении (здесь доступны 3 потрясающих бесплатных курса на Khan Academy):
+
+* [Линейная алгебра](https://www.khanacademy.org/math/linear-algebra) - Khan Academy
+* [Статистика и вероятность](https://www.khanacademy.org/math/statistics-probability) - Khan Academy
+* [Многомерный исчисление](https://www.khanacademy.org/math/multivariable-calculus) - Khan Academy
+
+Вот некоторые отличные бесплатные книги и видео, которые могут помочь вам изучать материал более "структурированным образом":
+
+* [mathematicalmonk](https://www.youtube.com/channel/UCcAtD_VYwcYwVbTdvArsm7w) - YouTube
+* [Математика для машинного обучения](https://gwthomas.github.io/docs/math4ml.pdf) - Garrett Thomas
+* [Введение в статистическое обучение: с приложениями в R (Springer Texts in Statistics)](http://fs2.american.edu/alberto/www/analytics/ISLRLectures.html) - Gareth James, Daniela Witten, Trevor Hastie и Robert Tibshirani
+
+Если вы всё ещё испытываете неуверенность в математике, проверьте раздел [Читать книги](#ReadBooks) выше, где я поделился многими отличными книгами, чтобы построить прочный математический фундамент.
+Теперь у вас есть очень хороший математический фундамент для машинного обучения, и вы готовы погрузиться глубже!
+
+## Нет опыта в программировании, не проблема<a name="coding"></a>
+
+### Нет опыта в программировании, не проблема
+
+Вот список некоторых отличных курсов для изучения программной стороны машинного обучения.
+
+Здесь я хочу быстро упомянуть, что недавно мы выпустили наш новый курс, "Python для генеративного AI", где мы фокусируемся на обучении Python программированию "как на инструменте" для работы с системами искусственного интеллекта. Если ваша цель — это и не изучать программирование ради самого программирования, посмотрите его [на академии Towards AI](https://academy.towardsai.net/courses/python-for-genai/?ref=1f9b29).
+
+* [Практический учебный курс по машинному обучению на Python](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v) - Бесплатное введение в Python на YouTube
+* [Изучить Python](https://www.learnpython.org/) - Бесплатный интерактивный учебник для изучения Python
+* [Изучение основ Python для анализа данных](https://openclassrooms.com/en/courses/2304731-learn-python-basics-for-data-analysis/6009031-get-started-with-python-and-anaconda) - Бесплатный курс на OpenClassrooms
+* [Начало работы с Python и R для науки о данных](https://youtu.be/6LWnvC2_DZI?list=PL8eNk_zTBST8kAYLTxYRnsOfznYMRhgZG) - Бесплатный
+* [Машинное обучение с Python | Coursera - IBM](https://coursera.pxf.io/P0vOZe) - Необязательный (платный)
+* [Введение в Python для науки о данных](https://datasciencedojo.com/python-for-data-science/ref/whatsai/) - В этом курсе Python для науки о данных студенты будут изучать основные концепции Python и использовать язык в контексте науки о данных в 16-недельной программе обучения (платный, необязательный).
+* [100 упражнений с numpy](https://github.com/rougier/numpy-100/blob/master/100_Numpy_exercises.ipynb) - Сборник упражнений, собранных в рассылке numpy, на stack overflow и в документации numpy.
+* [Учебник по оболочке](https://swcarpentry.github.io/shell-novice/) - Научитесь использовать Unix оболочку! Обязательно для разработчиков и специалистов по AI.
+
+> Посмотрите [подкаст Louis Bouchard](https://open.spotify.com/show/4rKRJXaXlClkDyInjHkxq3) для получения больше контента по AI в виде интервью с экспертами в этой области! Приглашенный эксперт по AI и я будем обсуждать конкретные темы, подполя и роли, связанные с AI, чтобы научить и поделиться знаниями от людей, которые трудились над их сбором.
+
+## Следуйте онлайн-курсам<a name="onlinecourses"></a>
+
+### (Необязательно) Получите более глубокое понимание и больше пошаговой практики, следуя некоторым онлайн-курсам
+
+Если вы предпочитаете более подробные инструкции и четкие шаги, эти курсы лучшие для изучения.
+
+* [DEEP LEARNING - Yann LeCun](https://atcold.github.io/pytorch-Deep-Learning/?fbclid=IwAR0HQC0NZannqXaaHEj3sJCgLjRxkyDXC-gAoCTN4077wFA33R_udrJfHw4) - Этот курс охватывает последние техники глубокого обучения и обучения представлений. - Бесплатно
+* [Intro to Machine Learning - Kaggle](https://www.kaggle.com/learn/intro-to-machine-learning) - Изучите основные идеи машинного обучения и создайте свои первые модели. - Бесплатно
+* [Get started in AI / AI For everyone - Andrew Ng](https://coursera.pxf.io/gbeOKA) - Платно, необязательно
+* [Machine learning - Andrew Ng - Stanford](https://coursera.pxf.io/oeg43O) - Платно, необязательно
+* [AI Programming with Python - Complete nanodegree](https://imp.i115008.net/GjGzek) - Платно, необязательно
+* [Deep learning specialization - Andrew Ng](https://coursera.pxf.io/WDvyaA) - Платно, необязательно
+* [TensorFlow (Professional certificates)](https://coursera.pxf.io/6bQy9q) - Платно, необязательно
+* [AI Engineering - IBM (Professional certificates)](https://coursera.pxf.io/RyNGjN) - Платно, необязательно
+* [Complete data science bootcamp 2022](https://click.linksynergy.com/deeplink?id=8jtkHPNI0iU&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-data-science-course-complete-data-science-bootcamp%2F) - Платно, необязательно
+* [Machine learning - No coding](https://click.linksynergy.com/link?id=8jtkHPNI0iU&offerid=507388.1292838&type=2&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fhands-on-machine-learning-without-writing-code%2F) - Платно, необязательно
+* [Data Science Training + Industry Experience](https://datasciencedojo.com/data-science-training-and-internship/ref/whatsai/) - Полный инструкторский 16-недельный тренинг с опытом (платно, необязательно).
+* [Instructor-led Online Data Science Bootcamp](https://datasciencedojo.com/data-science-bootcamp/ref/whatsai/) - Полный инструкторский 16-недельный учебный программ (платно, необязательно).
+* [fast.ai's Deep Learning Courses](https://www.fast.ai/) - Бесплатно
+* [CS50 - Introduction to Artificial Intelligence with Python (and Machine Learning), Harvard OCW](https://cs50.harvard.edu/ai/2020/) - Бесплатно (и может использоваться преподавателями тоже!)
+* [DEEP LEARNING COURSE - François Fleuret](https://fleuret.org/dlc/) - Этот курс является подробным введением в глубокое обучение, с примерами в фреймворке PyTorch. Есть некоторые [предварительные требования](https://fleuret.org/dlc/#information).
+
+Для конкретных применений:
+* [Become an NLP pro with Coursera's Natural Language Processing Specialization by deeplearning.ai](https://coursera.pxf.io/P0vO9e) - Платно
+ _"Войдите в сферу NLP. Освойте передовые техники NLP через четыре практических курса!"_
+
+Публикуйте свои модели онлайн и демонстрируйте их миру:
+* [Gradio Course - Create User Interfaces for Machine Learning Models - freeCodeCamp](https://youtu.be/RiCQzBluTxU) - Бесплатно
+* [How to Deploy a Machine Learning Model to Google Cloud - Daniel Bourke](https://youtu.be/fw6NMQrYc6w) - Бесплатно
+
+## Практикуйтесь, практикуйтесь и практикуйтесь!<a name="practice"></a>
+
+### Практика — ключевой фактор
+
+Самое важное в программировании — это практика. И это относится и к машинному обучению. Иногда бывает сложно найти личный проект, чтобы потренироваться.
+
+К счастью, существует [Kaggle](https://www.kaggle.com/). Этот сайт полон бесплатных курсов, руководств и соревнований. Вы можете присоединиться к соревнованиям бесплатно и сразу же загрузить их данные, прочитать о проблеме и приступить к написанию и тестированию кода! Вы даже можете зарабатывать деньги, выигрывая соревнования, и это отличное достижение для вашего резюме. Это может быть лучший способ получить опыт, изучая многое и даже зарабатывая деньги! Другая отличная возможность для проектов — следовать курсам, ориентированным на конкретное применение, например, [From Beginner to Advanced LLM Developer](https://academy.towardsai.net/courses/beginner-to-advanced-llm-dev?ref=1f9b29), который учит копировать AI-ассистента, который мы создали в Towards AI, и в итоге вы запустите его в реальном онлайн-приложении!
+
+Вы также можете создавать команды для соревнований Kaggle и учиться вместе с другими людьми! Я рекомендую присоединиться к сообществу, чтобы найти команду и учиться вместе с другими, это всегда лучше, чем работать один. Изучите следующий раздел для этого.
+
+## Хотите создавать языковые модели/приложения? Посмотрите это (Теперь с LLMs!)!<a name="nlp"></a>
+
+У меня было много запросов от людей, желающих сосредоточиться на обработке естественного языка (NLP) (модели, работающие с языком) или даже изучить машинное обучение строго для задач NLP. Это раздел, посвящённый этой потребности. Удачи в изучении NLP!
+* [Полный план пути для освоения NLP в 2022 году](https://www.analyticsvidhya.com/blog/2022/01/roadmap-to-master-nlp-in-2022/)
+* [Станьте профессионалом NLP с помощью специализации Coursera по обработке естественного языка от deeplearning.ai](https://coursera.pxf.io/P0vO9e) - Платно
+ _"Войдите в мир NLP. Освойте современные техники NLP через четыре практические курсы!"_
+* [Нано-степень NLP!](https://imp.i115008.net/jW4K60) — Платно
+_"Изучите современные техники обработки естественного языка для обработки речи и анализа текста. Создавайте вероятностные и глубокие модели обучения, такие как скрытые марковские модели и рекуррентные нейронные сети, чтобы научить компьютер выполнять задачи, такие как распознавание речи, машинный перевод и многое другое!"_
+* Книга NLTK — бесплатный ресурс для изучения основных теорий, лежащих в основе NLP: https://www.nltk.org/book/
+* Хотите быстро создать модель классификации текста или векторизатор слов, [fasttext](https://fasttext.cc/docs/en/supervised-tutorial.html) — хорошая библиотека для быстрого обучения модели.
+* [Huggingface](https://huggingface.co/course/chapter1/1) — это место, где можно получить современные модели NLP, и они также включают в себя целый [курс](https://huggingface.co/course/chapter1/1) по этой теме.
+* [SpaCy](https://course.spacy.io/en/) отлично подходит для NLP в промышленной среде, так как он выполняет NLU, NER, и с его помощью можно обучать классификацию и т.д. Он также позволяет добавлять пользовательские шаги или модели в пайплайн.
+* [Prompting!](https://learnprompting.org/) Prompting — это новое навык, который вы должны освоить, если хотите создавать приложения, связанные с NLP. Это отличный курс, в котором я участвую, с намерением научить prompting и дать советы по конкретным моделям.
+
+### Обучение, тонкая настройка и использование крупных языковых моделей!
+
+* [LangChain и векторные базы данных в производстве](https://learn.activeloop.ai/courses/langchain/) - потрясающий бесплатный ресурс, созданный нами в Towards AI в партнерстве с Activeloop и Intel Disruptor Initiative, чтобы узнать о LangChain и векторных базах данных в производстве. "Независимо от того, являетесь ли вы опытным разработчиком, только начинающим путь в мире ИИ, или опытным энтузиастом машинного обучения, этот курс создан для вас. Наша цель - сделать ИИ доступным и практичным, изменяя способ, которым вы подходите к своим повседневным задачам и общему влиянию вашей работы."
+* [Обучение и тонкая настройка LLM для производства](https://learn.activeloop.ai/courses/llms/) - потрясающий бесплатный ресурс, созданный нами в Towards AI в партнерстве с Activeloop и Intel Disruptor Initiative, чтобы узнать об обучении и тонкой настройке LLM для производства. "Если вы хотите узнать, как обучать и тонко настраивать LLM с нуля, и обладаете промежуточными знаниями Python, а также имеете доступ к умеренным вычислительным ресурсам (для некоторых случаев достаточно Google Colab!), вы должны быть полностью готовы пройти и завершить курс. Этот курс разработан с учетом широкой аудитории, включая новичков в области ИИ, текущих инженеров по машинному обучению, студентов и профессионалов, рассматривающих переход на карьеру в ИИ. Мы стремимся предоставить вам необходимые инструменты для применения и адаптации крупных языковых моделей в широком диапазоне отраслей, чтобы сделать ИИ более доступным и практичным."
+* [От новичков до продвинутых разработчиков LLM](https://academy.towardsai.net/courses/beginner-to-advanced-llm-dev?ref=1f9b29) - от Towards AI. "Создайте свой первый масштабируемый продукт с использованием LLM, prompting, RAG, тонкой настройки и агентов! Освойте навыки, которые требуют ведущие компании, и создайте свой продвинутый MVP LLM с реальными приложениями."
+* [Создание LLM для производства: улучшение возможностей и надежности LLM с помощью prompting, тонкой настройки и RAG](https://amzn.to/4bqYU9b) - от Towards AI. "Откройте ключевые стеки технологий для адаптации крупных языковых моделей к реальным приложениям, включая инженерию prompting, тонкую настройку и генерацию с улучшением поиска." (Или получите электронную книгу [здесь](https://academy.towardsai.net/courses/buildingllmsforproduction?ref=1f9b29). Вы можете отправить мне прямое сообщение для получения приятной скидки!)
+
+[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40whats_ai)](https://twitter.com/Whats_AI)
+
+## Более подробные сведения<a name="moreresources"></a>
+
+### Присоединяйтесь к сообществам!
+
+* [Сервер Discord с множеством энтузиастов ИИ](https://discord.gg/learnaitogether) - Учитесь вместе, задавайте вопросы, находите команду для Kaggle, делитесь своими проектами и многое другое.
+* [Сервер Discord, где вы можете быть в курсе последних новостей ИИ](https://ws.towardsai.net/discord) - Оставайтесь в курсе последних новостей ИИ, задавайте вопросы, делитесь своими проектами и многим другим.
+
+* Следите за сообществами Reddit - Задавайте вопросы, делитесь своими проектами, следите за новостями и многим другим.
+    * [artificial](https://www.reddit.com/r/artificial/) - Искусственный интеллект
+    * [MachineLearning](https://www.reddit.com/r/MachineLearning/) - Машинное обучение (самое большое сообщество в этой области)
+    * [DeepLearningPapers](https://www.reddit.com/r/DeepLearningPapers/) - Статьи по глубокому обучению
+    * [ComputerVision](https://www.reddit.com/r/computervision/) - Извлечение полезной информации из изображений и видео
+    * [learnmachinelearning](https://www.reddit.com/r/learnmachinelearning/) - Изучение машинного обучения
+    * [ArtificialInteligence](https://www.reddit.com/r/ArtificialInteligence/) - ИИ
+    * [LatsestInML](https://www.reddit.com/r/LatestInML/) - Прорывные разработки в машинном обучении, которые нельзя упустить
+
+### Сохраните справочные листы!
+
+* Лучшие справочные листы для искусственного интеллекта, машинного обучения и Python.
+    * [Справочные листы для AI, нейронных сетей, машинного обучения, глубокого обучения и Big Data](https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463) - Stefan Kojouharov
+    * [Справочные листы по машинному обучению для курса Stanford CS 229](https://github.com/afshinea/stanford-cs-229-machine-learning) - Afshine Amidi & Shervine Amidi
+    * [Справочный лист по машинному обучению и Python (и математике) Справочные листы](https://medium.com/machine-learning-in-practice/cheat-sheet-of-machine-learning-and-python-and-math-cheat-sheets-a4afe4e791b6) - Robbie Allen
+    * [Дорожная карта эксперта по AI](https://i.am.ai/roadmap/#fundamentals) - Используйте её как список навыков!
+
+[<img src="https://imgur.com/hLr2aQF.png" width="512"/>](https://academy.towardsai.net/courses/beginner-to-advanced-llm-dev?ref=1f9b29)
+
+### Следите за новостями в области!
+
+* Подписывайтесь на YouTube-каналы, которые делятся новыми статьями - оставайтесь в курсе новостей в области!
+    * [Louis Bouchard](https://www.youtube.com/channel/UCUzGQrN-lyyc0BWTYoJM_Sg) - еженедельные видео, охватывающие новые статьи
+    * [Two Minutes Papers](https://www.youtube.com/user/keeroyz) - видео раз в две недели, охватывающие новые статьи
+    * [Bycloud](https://www.youtube.com/channel/UCgfe2ooZD3VJPB6aJAnuQng) - еженедельные видео, охватывающие новые статьи
+    
+* Группы в LinkedIn
+    * [Artificial Intelligence, Machine Learning and Deep Learning News](https://www.linkedin.com/groups/8942343/) - новости в области, разделяемые всеми в группе
+    * [Artificial Intelligence | Deep Learning  | Machine Learning](https://www.linkedin.com/groups/45655/)
+    * [Applied Artificial Intelligence](https://www.linkedin.com/groups/127447/)
+    
+* Группы в Facebook
+    * [Artificial Intelligence & Deep Learning](https://www.facebook.com/groups/DeepNetGroup) - самый авторитетный и активный FB-группа по A.I., нейронным сетям и глубокому обучению. Все новое и интересное на передовой A.I. и глубокого обучения. Нейронные сети перепишут то, что означает быть умной машиной в ближайшие годы.
+    * [Deep learning](https://www.facebook.com/groups/DeepLearnng/) - сегодняшнее общество склоняется к мягкому и автоматизированному, эволюционируя в четвертую промышленную революцию, что соответственно ведет составляющие в вихрь социальных потрясений. Чтобы выжить или взять лидерство, необходимо быть оснащенным соответствующими инструментами. Машина становится умнее и интеллектуальнее. Машинное обучение - непреодолимый навык, и это требует, чтобы люди были знакомы с ним. Эта группа предназначена для тех, кто интересуется развитием своих талантов, чтобы соответствовать требованиям.
+    
+* Рассылки
+   * [AlphaSignal](https://alphasignal.ai/) — Самая популярная техническая рассылка в области ИИ
+   * [AI News](https://buttondown.email/ainews/archive/) - от Swyx и друзей - много помощи от LLM, индексирующих ~356 Твиттеров, ~21 Discord и т.д. (я лично в основном читаю основной обзор)
+   * [Inside AI](https://inside.com/ai) - ежедневный обзор историй и комментариев по искусственному интеллекту, робототехнике и нейротехнологиям.
+   * [AI Weekly](http://aiweekly.co/) - еженедельный сборник новостей и ресурсов по искусственному интеллекту и машинному обучению.
+   * [AI Ethics Weekly](https://lighthouse3.com/newsletter/) - самые последние обновления в области этики ИИ, доставляемые вам каждую неделю.
+   * [Louis Bouchard Weekly](https://louisbouchard.substack.com/) - одна и только одна статья, четко объясняемая еженедельно с помощью статьи, видео-демонстрации, демонстрации, кода и т.д.
+   * [Toward's AI newsletter](https://towardsai.net/ai/newsletter) - еженедельное резюме самых интересных новостей и учебных ресурсов, а также обновления сообщества из Discord-сообщества Learn AI Together. Идеально подходит для профессионалов и энтузиастов машинного обучения.
+    
+* Следите за аккаунтами и публикациями в Medium
+    * [Towards Data Science](https://towardsdatascience.com/) - "Обмен идеями, концепциями и кодами"
+    * [Towards AI](https://medium.com/towards-artificial-intelligence) - "Лучшее в технологиях, науке и инженерии."
+    * [OneZero](https://onezero.medium.com/) - "Подводные течения будущего. Публикация в Medium о технологиях и науке."
+    * [Louis Bouchard](https://whats-ai.medium.com/) - "Привет, я Луи (loo·ee, французское произношение), из Монреаля, Канада. Я пытаюсь делиться и объяснять термины и новости искусственного интеллекта наилучшим образом для всех. Моя цель - развеять мифы о «черном ящике» ИИ для всех и повысить осведомленность о рисках его использования."
+   
+* Проверьте этот полный руководство на GitHub, чтобы быть в курсе новостей ИИ
+   * [BAILOOL/DoYouEvenLearn](https://github.com/louisfb01/DoYouEvenLearn) - необходимое руководство, чтобы быть в курсе новостей ИИ/МЛ/ГЛ/КВ
+
+## Найти работу в области машинного обучения<a name="findajob"></a>
+
+* Прочитайте [этот раздел статьи](https://www.louisbouchard.ai/learnai/#how-to-find-a-job), полный советов по собеседованиям и **как к ним готовиться**.
+* Изучите, как проходит процесс собеседования и как лучше к нему готовиться, наблюдая за тем, как это делали другие, например, [серию собеседований](https://youtube.com/playlist?list=PLO4GrDnQanVfrRIuIT_1rlLLTgQJdfXmS), которую я провёл вместе со специалистами из NVIDIA, Zoox (компания по самоуправляемым автомобилям), D-ID (стартап в области генеративного ИИ) и др.
+
+## AI Ethics<a name="aiethics"></a>
+
+* [Что такое этика и почему она важна? Версия для машинного обучения](https://www.youtube.com/watch?v=F0cxzESR7ec&list=PLtmWHNX-gukIU6V33Bc8eP8OD41I4GywR&ab_channel=RachelThomas) - Рэчел Томас, основатель fast.ai
+* [AI4People—Этический фреймворк для хорошего общества с искусственным интеллектом: Возможности, риски, принципы и рекомендации](https://link.springer.com/content/pdf/10.1007/s11023-018-9482-5.pdf) - Флориди и др., 2018, AI4People Искусственный интеллект для хорошего общества
+* [Руководящие принципы этики для надежного искусственного интеллекта](https://wayback.archive-it.org/12090/20210728013426/https://digital-strategy.ec.europa.eu/en/library/ethics-guidelines-trustworthy-ai) - Высшая экспертная группа Европейской комиссии, 7 пунктов для надежного искусственного интеллекта.
+* [Введение в этику робототехники и искусственного интеллекта](https://link.springer.com/book/10.1007/978-3-030-51110-4) - бесплатная электронная книга от Christoph Bartneck, Christoph Lütge, Alan Wagner и Sean Welsh.
+
+---
+
+***Пингуйте меня в Твиттере [@Whats_AI](https://twitter.com/Whats_AI) или LinkedIn [@Louis Bouchard](https://www.linkedin.com/in/whats-ai/) если поделитесь списком!***
+
+👀 **Если бы вы хотели поддержать мою работу**, вы можете [Посмотреть спонсоров](https://github.com/sponsors/louisfb01) этого репозитория.
+
+Это руководство все еще регулярно обновляется.
+

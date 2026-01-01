@@ -1,0 +1,315 @@
+<!--START_SECTION:navbar-->
+<div align="center">
+  <a href="../README.md">🇺🇸 English</a> | <a href="README.de.md">🇩🇪 Deutsch</a> | <a href="README.es.md">🇪🇸 Español</a> | <a href="README.fr.md">🇫🇷 Français</a> | <a href="README.hi.md">🇮🇳 हिंदी</a> | <a href="README.ja.md">🇯🇵 日本語</a> | <a href="README.ko.md">🇰🇷 한국어</a> | <a href="README.pt.md">🇵🇹 Português</a> | <a href="README.ru.md">🇷🇺 Русский</a> | <a href="README.zh.md">🇨🇳 中文</a>
+</div>
+<!--END_SECTION:navbar-->
+
+# 2025 में मशीन लर्निंग शुरू करें - मुफ्त में एक विशेषज्ञ बनें!
+
+## 2025 में मशीन लर्निंग (ML), कृत्रिम बुद्धिमत्ता (AI) में शुरुआत और सुधार के लिए एक पूर्ण मार्गदर्शिका, क्षेत्र में किसी भी पृष्ठभूमि के बिना और नवीनतम समाचार और अत्याधुनिक तकनीकों के साथ अप-टू-डेट रहें!
+
+इस गाइड के लिए कोई भी उपयोग कर सकता है जिसके पास कोई या थोड़ा अनुभव कम्प्यूटिंग, गणित और मशीन लर्निंग में हो। कोई विशेष क्रम अनुसरण करने की आवश्यकता नहीं है, लेकिन एक क्लासिक पथ शीर्ष से नीचे के अनुसार होगा। यदि आप किताबों को पढ़ना नहीं पसंद करते हैं, तो इसे छोड़ दें, यदि आप ऑनलाइन कोर्स के अनुसरण करना नहीं चाहते हैं, तो इसे भी छोड़ दें। मशीन लर्निंग विशेषज्ञ बनने के लिए केवल एक तरीका नहीं है और आपके उत्साह के साथ, आप इसे निश्चित रूप से प्राप्त कर सकते हैं।
+
+यहां सूचीबद्ध सभी संसाधन मुफ्त हैं, छोड़े गए कुछ ऑनलाइन कोर्स और किताबें जो बेहतर समझ के लिए निश्चित रूप से अनुशंसित हैं, लेकिन उनके बिना भी एक विशेषज्ञ बनना निश्चित रूप से संभव है, ऑनलाइन पढ़ाई, वीडियो और अभ्यास पर थोड़ा अधिक समय खर्च करके। जब भी भुगतान कोर्स के बारे में बात आती है, इस गाइड में लिंक एफिलिएटेड लिंक हैं। कृपया उनका उपयोग करें यदि आप कोर्स के अनुसरण करना चाहते हैं क्योंकि यह मुझे समर्थन देगा। धन्यवाद, और सीखने में मज़ा लीजिए! याद रखें, यह पूरी तरह से आप पर निर्भर है और आवश्यक नहीं है। मुझे लगा कि यह मुझे उपयोगी रहा है और शायद अन्य के लिए भी उपयोगी है।
+
+वीडियो को दोहराने या कई स्रोतों से सीखने में डर नहीं। दोहराव सीखने के सफलता के लिए कुंजी है!
+
+मेंटेनर: [louisfb01](https://github.com/louisfb01), यह भी सक्रिय है [YouTube](https://www.youtube.com/@whatsai) और एक [Podcaster](https://open.spotify.com/show/4rKRJXaXlClkDyInjHkxq3) यदि आप AI के बारे में अधिक देखना/सुनना चाहते हैं! आप दो बार प्रति सप्ताह [मेरे व्यक्तिगत न्यूज़लेटर](https://louisbouchard.substack.com/) में अधिक जानकारी भी प्राप्त कर सकते हैं! [सब्सक्राइब करें](https://louisbouchard.substack.com/) और AI समाचार और अपडेट स्पष्ट रूप से समझें!
+
+[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40whats_ai)](https://twitter.com/Whats_AI)
+
+मुझे कोई भी अच्छे संसाधन भेजें जिन्हें इस रिपॉजिटरी में जोड़ा जा सकता है bouchard.lf@gmail.com पर
+
+***मुझे ट्विटर पर टैग करें [@Whats_AI](https://twitter.com/Whats_AI) या LinkedIn पर [@Louis Bouchard](https://www.linkedin.com/in/whats-ai/) यदि आप सूची साझा करते हैं!***
+
+### जानें कि यह गाइड क्या है? इस वीडियो को देखें:
+
+[<img src="https://imgur.com/JFRt2Jb.png" width="512"/>](https://youtu.be/RirEw-uaS_8)
+
+----
+
+👀 **If you'd like to support my work**, you can check to [Sponsor](https://github.com/sponsors/louisfb01) this repository.
+
+[<img src="https://imgur.com/hLr2aQF.png" width="512"/>](https://academy.towardsai.net/courses/beginner-to-advanced-llm-dev?ref=1f9b29)
+
+----
+
+## सामग्री सूची
+
+- [छोटे यूट्यूब वीडियो परिचय से शुरू करें](#youtubevideos)
+- [यूट्यूब पर मुफ्त ऑनलाइन कोर्स का पालन करें](#youtubecourses)
+- [लेख पढ़ें](#readarticles)
+- [पुस्तकें पढ़ें](#readbooks)
+- [एमएल के लिए गणित की पृष्ठभूमि नहीं? इसे देखें!](#math)
+- [कोडिंग की पृष्ठभूमि नहीं, कोई समस्या नहीं](#coding)
+- [ऑनलाइन कोर्स का पालन करें](#onlinecourses)
+- [अभ्यास, अभ्यास और अभ्यास करें!](#practice)
+- [भाषा मॉडल/एप्लिकेशन बनाना चाहते हैं? इसे देखें! (अब LLMs के साथ!)](#nlp)
+- [अधिक संसाधन (समुदाय, ट्रिकी शीट, समाचार आदि!)](#moreresources)
+- [मशीन लर्निंग के लिए नौकरी कैसे पाएं](#findajob)
+- [AI नैतिकता](#aiethics)
+
+## शुरू करें छोटे यूट्यूब वीडियो परिचय से<a name="youtubevideos"></a>
+
+### शुरू करें छोटे यूट्यूब वीडियो परिचय से
+
+यह मेरी राय में शून्य से शुरू करने का सबसे अच्छा तरीका है। यहां, मैं उन कुछ सर्वोत्तम वीडियो की सूची देता हूं जो मैं ढूंढा है जो आपको इस क्षेत्र में शुरू करने के लिए आवश्यक शब्दों के बारे में एक अच्छा पहला परिचय देगा।
+
+* सबसे अधिक उपयोग किए गए शब्दों का परिचय
+    * [एक मिनट में बेसिक्स सीखें - लुईस बौचार्ड](https://www.youtube.com/playlist?list=PLO4GrDnQanVe6F6MRJg_KO7JEoH-ukFzY) - यूट्यूब प्लेलिस्ट
+    
+* न्यूरल नेटवर्क के बारे में समझें
+    * [LLMs और LLMs पर निर्माण के लिए आधारभूत ज्ञान](https://youtu.be/R5_udqy1L4s) - 2 घंटे के प्रत्येक 2 मुफ्त सत्र, जो LLMs के बारे में आपको जानने के लिए आवश्यक सब कुछ कवर करते हैं।
+    * [न्यूरल नेटवर्क डिमिस्टिफाइड - वेल्च लैब्स](https://www.youtube.com/playlist?list=PLiaHhY2iBX9hdHaRr6b7XevZtgZRa1PoU) - यूट्यूब प्लेलिस्ट
+    * [न्यूरल नेटवर्क सीखें - 3ब्लू1ब्राउन](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) - यूट्यूब प्लेलिस्ट
+    * [मशीन लर्निंग के लिए गणित - वेट्स एंड बाइज़](https://www.youtube.com/playlist?list=PLD80i8An1OEGZ2tYimemzwC3xqkU0jKUg) - यूट्यूब प्लेलिस्ट
+    * [न्यूरल नेटवर्क और बैकप्रोपैगेशन के लिए लिखित परिचय: माइक्रोग्रेड बनाना](https://youtu.be/VMj-3S1tku0) - एंड्रेज कर्पाथी द्वारा यूट्यूब वीडियो
+
+* ट्रांसफॉर्मर्स और LLMs (अर्थात, चैटजीपीटी के पीछे के मॉडल्स)! 
+   * लुइस सेरानो, "[नैचुरल लैंग्वेज प्रोसेसिंग एंड लार्ज लैंग्वेज मॉडल्स](https://www.youtube.com/playlist?list=PLs8w1Cdi-zvYskDS2icIItfZgxclApVLv)" - अत्यधिक वीडियो परिचय ध्यान यंत्र, टोकन, एम्बेडिंग्स आदि के बारे में जो आपको बड़े भाषा मॉडल्स जैसे GPT के पीछे के सब कुछ के बारे में बेहतर तरीके से समझने में मदद करते हैं!
+   * लुईस बौचार्ड के LLM मुफ्त कोर्स वीडियो "[प्रोडक्शन के लिए LLMs के ट्रेन एंड फाइन-ट्यून कोर्स एक्टिवेलूप, टॉवर्ड्स एआई एंड इंटेल डिसरुप्टर द्वारा](https://youtube.com/playlist?list=PLO4GrDnQanVcPlQUBuMd_pwRkILfc463G&si=QbXeHeDs5RSKH3nY)". "हमारे LLM कोर्स के लिए एक प्लेलिस्ट: जेन एआई 360: फाउंडेशनल मॉडल सर्टिफिकेशन!"
+
+शुरू करने और सीखने का एक आसान **तरीका अपने अतिरिक्त समय में पॉडकास्ट सुनकर है**। काम के लिए ड्राइव करते समय, बस पर या नींद में दिक्कत हो रही है? एआई पॉडकास्ट सुनकर शब्दों और पैटर्न के साथ अभ्यस्त हो जाएं और उत्प्रेरक कहानियों के माध्यम से क्षेत्र के बारे में सीखें! मैं आपको अपने द्वारा अपने व्यक्तिगत रूप से पसंद किए गए कुछ सर्वोत्तम के अनुसरण करने के लिए आमंत्रित करता हूं, जैसे [लेक्स फ्रिडमैन](https://open.spotify.com/show/2MAi0BvDc6GTFvKFPXnkCL), [मशीन लर्निंग स्ट्रीट टॉक](https://open.spotify.com/show/02e6PZeIOdpmBGT9THuzwR), [लेटेंट स्पेस पॉडकास्ट](https://www.latent.space/podcast), और बेशक, मेरा पॉडकास्ट: [लुईस बौचार्ड पॉडकास्ट](https://open.spotify.com/show/4rKRJXaXlClkDyInjHkxq3), जहां आप उत्प्रेरक कहानियों के साथ क्षेत्र में अत्यंत उत्कृष्ट व्यक्तियों के बारे में सीखेंगे जो वे जान एकत्र करने में कड़ी मेहनत करते हैं।
+
+## यूट्यूब पर मुफ्त ऑनलाइन कोर्स का पालन करें<a name="youtubecourses"></a>
+
+### यूट्यूब पर मुफ्त ऑनलाइन कोर्स का पालन करें
+
+यहां एक सूची है जिसमें YouTube पर उपलब्ध अद्भुत कोर्स शामिल हैं जिन्हें आपको निश्चित रूप से फॉलो करना चाहिए और ये 100% अनुमोदित हैं।
+
+* [मशीन लर्निंग के परिचय](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU) - YouTube प्लेलिस्ट (स्टैनफोर्ड)
+
+* [डीप लर्निंग के परिचय](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI) - YouTube प्लेलिस्ट (MIT)
+
+* [डीप लर्निंग स्पेशलाइजेशन](https://www.youtube.com/channel/UCcIXc5mJsHVYTZR1maL5l9w/playlists) - YouTube प्लेलिस्ट (Deeplearning.ai)
+
+* [डीप लर्निंग (PyTorch के साथ)](https://atcold.github.io/NYU-DLSP21/) - NYU, Yann LeCun
+
+* [MIT डीप लर्निंग](https://deeplearning.mit.edu/) - Lex Fridman के अप-टू-डेट डीप लर्निंग कोर्स
+
+## प्रकाशन पढ़ें<a name="readarticles"></a>
+
+### कई प्रकाशन पढ़ें
+
+यहां ऑनलाइन उपलब्ध एक लिस्ट है अद्भुत लेखों की जिन्हें आपको निश्चित रूप से पढ़ना चाहिए और ये 100% अनुमोदित हैं।
+[मीडियम](https://whats-ai.medium.com/membership) लगभग सबसे अच्छा स्थान है बेहतर स्पष्टीकरण ढूंढने के लिए, या तो [टॉवर्ड्स एआई](https://pub.towardsai.net/) या [टॉवर्ड्स डेटा साइंस](https://towardsdatascience.com/) प्रकाशनों पर। मैं वहां अपने अपने लेख भी साझा करता हूं और मैं उस प्लेटफॉर्म का उपयोग करना पसंद करता हूं। आप [यहां](https://whats-ai.medium.com/membership) मेरे संबद्ध लिंक के माध्यम से मीडियम के सदस्य बन सकते हैं अगर यह आपके लिए रुचिकर लगे और अगर आप मुझे एक साथ समर्थन देना चाहते हैं!
+
+* [2022 में AI शुरू करें — कुछ भी नहीं से एक विशेषज्ञ बनें, बिल्कुल मुफ्त!](https://www.louisbouchard.ai/learnai/) - लुईस बौचार्ड
+* [मशीन लर्निंग और डेटा साइंस सीखने के लिए 5 शुरुआत के अनुकूल चरण] (https://towardsdatascience.com/5-beginner-friendly-steps-to-learn-machine-learning-and-data-science-with-python-bf69e211ade5) - डैनियल बर्क
+* [मशीन लर्निंग क्या है?](https://medium.com/towards-artificial-intelligence/what-is-machine-learning-ml-b58162f97ec7) - रोबर्टो इरियोंडो
+* [शुरुआत के लिए मशीन लर्निंग: न्यूरल नेटवर्क के परिचय](https://towardsdatascience.com/machine-learning-for-beginners-an-introduction-to-neural-networks-d49f22d238f9) - विक्टर जू
+* [न्यूरल नेटवर्क के लिए शुरुआत के मार्गदर्शक](https://towardsdatascience.com/a-beginners-guide-to-neural-networks-d5cf7e369a13#:~:text=Neural%20networks%20are%20powered%20by,then%20recognize%2C%20interpret%20and%20classify.) - थॉमस डेविस
+* [न्यूरल नेटवर्क के समझना](https://towardsdatascience.com/understanding-neural-networks-22b29755abd9) - प्रिंस कैनुमा
+* [नए MILA छात्रों के लिए पढ़ने की सूची](https://docs.google.com/document/d/1IXF3h0RU5zz4ukmTrVKVotPQypChscNGf5k6E25HGvA/edit#) - अनामिक
+* [एआई पढ़ने की सूची 80/20](https://medium.com/machine-learning-for-humans/ai-reading-list-c4753afd97a) - विशाल मैनी
+
+## पुस्तकें पढ़ें<a name="readbooks"></a>
+
+### कुछ पुस्तकें पढ़ें
+
+यहां कुछ उत्कृष्ट पुस्तकें हैं जो पढ़ने के पथ पसंद करने वाले लोगों के लिए हैं।
+
+* [Building LLMs for Production: Enhancing LLM Abilities and Reliability with Prompting, Fine-Tuning, and RAG](https://amzn.to/4bqYU9b) - Towards AI द्वारा। "बड़े भाषा मॉडलों के वास्तविक दुनिया के अनुप्रयोगों के लिए कुंजी तकनीकी स्टैक की खोज करें, जिसमें प्रॉम्प्ट इंजीनियरिंग, फाइन-ट्यूनिंग और रिट्रीवल ऑगमेंट जेनरेशन शामिल हैं।" (या ई-बुक [यहां](https://academy.towardsai.net/courses/buildingllmsforproduction?ref=1f9b29) से प्राप्त करें। आप मुझे एक अच्छा छूट प्राप्त करने के लिए डीएम कर सकते हैं!)
+* [Deep learning book](https://www.deeplearningbook.org/) - मुफ्त ऑनलाइन
+* [Dive into Deep Learning](http://d2l.ai/) - मुफ्त ऑनलाइन
+* [Probabilistic Machine Learning: An Introduction](https://probml.github.io/pml-book/book1.html) - मुफ्त ऑनलाइन
+* [Artificial Intelligence: A Modern Approach](https://amzn.to/3mSqhk2) - वैकल्पिक (भुगतान के लिए)
+* [Pattern Recognition and Machine Learning](https://amzn.to/3mPUGPF) - वैकल्पिक (भुगतान के लिए)
+* [Deep Learning with Python](https://amzn.to/32iR3sm) - वैकल्पिक (भुगतान के लिए)
+* [The LLM Engineer's Handbook](https://www.packtpub.com/en-us/product/llm-engineers-handbook-9781836200079?utm_medium=affiliate&utm_campaign=51b66f4e-29b2-68d8-f16e-67e2f9dfe6d0&utm_term=c35fe2b3-a89c-3ed8-1def-67c6a827b8eb&utm_content=B31105)—एलईएमएम के निर्माण और सुधार के चरण-दर-चरण तैयार करें, डेटा तैयारी, आरएजी और फाइन-ट्यूनिंग के साथ।
+* [Understanding Machine Learning: From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/index.html) - शाई शालेव-शवर्ट्ज़ और शाई बेन-दवीद - मुफ्त ऑनलाइन
+
+अपने गणितीय पृष्ठभूमि के निर्माण के लिए उत्कृष्ट पुस्तकें:
+
+* [Mathematics for Machine Learning](https://mml-book.com/) - मुफ्त ऑनलाइन
+* [The Elements of Statistical Learning](https://amzn.to/3mMn5Gy) - वैकल्पिक (भुगतान के लिए)
+* [Statistical Inference](https://amzn.to/3wRqIzD) - वैकल्पिक (भुगतान के लिए)
+
+एक पूर्ण कैलकुलस पृष्ठभूमि:
+
+* [Calculus: Concepts and Contexts](https://amzn.to/2OT4NXC) - वैकल्पिक (भुगतान के लिए)
+* [Single Variable Calculus: Concepts and Contexts](https://amzn.to/3wXtzHf) - वैकल्पिक (भुगतान के लिए)
+* [Multivariable Calculus: Concepts and Contexts](https://amzn.to/32jIRYC) - वैकल्पिक (भुगतान के लिए)
+
+ये पुस्तकें पूरी तरह से वैकल्पिक हैं, लेकिन ये आपको सिद्धांत के बारे में एक बेहतर समझ देंगी और आपके न्यूरल नेटवर्क को कोडिंग करने के बारे में कुछ भी सिखाएंगी!
+
+## ML के लिए गणित की पृष्ठभूमि नहीं? इसे देखें! <a name="math"></a>
+
+### ML के लिए गणित की पृष्ठभूमि नहीं? इसे देखें!
+
+चिंता मत करो, जीवन के अधिकांश चीजों की तरह, आप गणित सीख सकते हैं! यहां मशीन लर्निंग के गणित में शुरुआत करने और आगे बढ़ने के लिए कुछ अच्छे शुरुआती और उन्नत संसाधन हैं। मैं आपको इन तीन महत्वपूर्ण अवधारणाओं से शुरुआत करने की सलाह देता हूं (यहां केन अकादमी पर उपलब्ध तीन अद्भुत मुफ्त कोर्स हैं):
+
+* [लिनियर एलजेब्रा](https://www.khanacademy.org/math/linear-algebra) - केन अकादमी
+* [सांख्यिकी और प्रोबेबिलिटी](https://www.khanacademy.org/math/statistics-probability) - केन अकादमी
+* [मल्टीवेरिएबल कैलकुलस](https://www.khanacademy.org/math/multivariable-calculus) - केन अकादमी
+
+यहां कुछ अच्छे मुफ्त पुस्तकें और वीडियो हैं जो आपको एक अधिक "संरचित दृष्टिकोण" में सीखने में मदद कर सकते हैं:
+
+* [mathematicalmonk](https://www.youtube.com/channel/UCcAtD_VYwcYwVbTdvArsm7w) - यूट्यूब
+* [मशीन लर्निंग के लिए गणित](https://gwthomas.github.io/docs/math4ml.pdf) - गैरेट थॉमस
+* [सांख्यिकी लर्निंग का परिचय: R में अनुप्रयोग के साथ (स्प्रिंगर टेक्स्ट्स इन स्टैटिस्टिक्स)](http://fs2.american.edu/alberto/www/analytics/ISLRLectures.html) - गैरेथ जेम्स, डेनिएला विटेन, ट्रेवर हैस्टी और रॉबर्ट टिब्शिरानी
+
+अगर आपके पास अभी भी गणित के आत्मविश्वास की कमी है, तो ऊपर दिए गए [पुस्तकें पढ़ें](#ReadBooks) अनुभाग की जांच करें, जहां मैंने गणित के मजबूत आधार के लिए कई अच्छी पुस्तकों के बारे में साझा किया है।
+अब आपके पास मशीन लर्निंग के लिए बहुत अच्छा गणित का आधार है और आप गहराई से डूब सकते हैं!
+
+## कोई कोडिंग की पृष्ठभूमि नहीं, कोई समस्या नहीं<a name="coding"></a>
+
+### कोई कोडिंग की पृष्ठभूमि नहीं, कोई समस्या नहीं
+
+यहां कुछ उत्कृष्ट कोर्सों की सूची है जिनसे मशीन लर्निंग के प्रोग्रामिंग पक्ष को सीखा जा सकता है।
+
+यहां, मैं तेजी से बताना चाहूंगा कि हमने हाल ही में अपना नया कोर्स "Python for Generative AI" जारी किया है, जहां हम Python प्रोग्रामिंग को "एक उपकरण" के रूप में AI सिस्टम के साथ काम करने के लिए सिखाते हैं। यदि आपका लक्ष्य इसे करना है और प्रोग्रामिंग के लिए प्रोग्रामिंग सीखने के बजाय, इसे देखें [Towards AI Academy पर](https://academy.towardsai.net/courses/python-for-genai/?ref=1f9b29).
+
+* [Practical Machine Learning Tutorial with Python](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v) - निःशुल्क यूट्यूब पायथन परिचय
+* [Learn Python](https://www.learnpython.org/) - निःशुल्क इंटरैक्टिव ट्यूटोरियल पायथन सीखने के लिए
+* [Learn Python Basics for Data Analysis](https://openclassrooms.com/en/courses/2304731-learn-python-basics-for-data-analysis/6009031-get-started-with-python-and-anaconda) - ओपनक्लासरूम्स पर निःशुल्क कोर्स
+* [Getting started with Python and R for Data Science](https://youtu.be/6LWnvC2_DZI?list=PL8eNk_zTBST8kAYLTxYRnsOfznYMRhgZG) - निःशुल्क
+* [Machine Learning with Python | Coursera - IBM](https://coursera.pxf.io/P0vOZe) - वैकल्पिक (भुगतान करना)
+* [Introduction to Python for Data Science](https://datasciencedojo.com/python-for-data-science/ref/whatsai/) - इस पायथन के लिए डेटा साइंस कोर्स में, छात्रों को 16 सप्ताह के सीखने के कार्यक्रम में डेटा साइंस के संबंध में पायथन के मूल अवधारणाओं के बारे में सीखना होगा (भुगतान करना, वैकल्पिक)।
+* [100 numpy exercises](https://github.com/rougier/numpy-100/blob/master/100_Numpy_exercises.ipynb) - एक संग्रह जो numpy मेलिंग सूची, stack overflow और numpy दस्तावेजों में एकत्रित किया गया है।
+* [Shell tutorial](https://swcarpentry.github.io/shell-novice/) - यूनिक्स शेल का उपयोग सीखें! विकासकर्ताओं और AI विशेषज्ञों के लिए आवश्यक है।
+
+> [Louis Bouchard पॉडकास्ट](https://open.spotify.com/show/4rKRJXaXlClkDyInjHkxq3) की जांच करें अधिक AI सामग्री के रूप में विषय के विशेषज्ञों के साथ साक्षात्कार के रूप में! एक आमंत्रित AI विशेषज्ञ और मैं AI के संबंधित विशिष्ट विषयों, उप-क्षेत्रों और भूमिकाओं को कवर करेंगे और उन लोगों से ज्ञान के बारे में शिक्षा और साझा करेंगे जिन्होंने इसे एकत्र करने में कड़ी मेहनत की है।
+
+## ऑनलाइन कोर्स का पालन करें<a name="onlinecourses"></a>
+
+### (वैकल्पिक) कुछ ऑनलाइन कोर्स का पालन करके अधिक अच्छा समझ और अधिक निर्देशित अभ्यास प्राप्त करें
+
+यदि आप अधिक निर्देशित होना अधिक पसंद करते हैं और अपने अगले कदमों के लिए स्पष्ट चरण होना चाहते हैं, तो ये कोर्स सबसे अच्छे हैं।
+
+* [DEEP LEARNING - Yann LeCun](https://atcold.github.io/pytorch-Deep-Learning/?fbclid=IwAR0HQC0NZannqXaaHEj3sJCgLjRxkyDXC-gAoCTN4077wFA33R_udrJfHw4) - यह कोर्स डीप लर्निंग और प्रतिनिधित्व लर्निंग में नवीनतम तकनीकों के बारे में है। - मुफ्त
+* [Intro to Machine Learning - Kaggle](https://www.kaggle.com/learn/intro-to-machine-learning) - मशीन लर्निंग में मूल विचारों को सीखें, और अपने पहले मॉडल बनाएं। - मुफ्त
+* [Get started in AI / AI For everyone - Andrew Ng](https://coursera.pxf.io/gbeOKA) - भुगतान करना, वैकल्पिक
+* [Machine learning - Andrew Ng - Stanford](https://coursera.pxf.io/oeg43O) - भुगतान करना, वैकल्पिक
+* [AI Programming with Python - Complete nanodegree](https://imp.i115008.net/GjGzek) - भुगतान करना, वैकल्पिक
+* [Deep learning specialization - Andrew Ng](https://coursera.pxf.io/WDvyaA) - भुगतान करना, वैकल्पिक
+* [TensorFlow (Professional certificates)](https://coursera.pxf.io/6bQy9q) - भुगतान करना, वैकल्पिक
+* [AI Engineering - IBM (Professional certificates)](https://coursera.pxf.io/RyNGjN) - भुगतान करना, वैकल्पिक
+* [Complete data science bootcamp 2022](https://click.linksynergy.com/deeplink?id=8jtkHPNI0iU&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-data-science-course-complete-data-science-bootcamp%2F) - भुगतान करना, वैकल्पिक
+* [Machine learning - No coding](https://click.linksynergy.com/link?id=8jtkHPNI0iU&offerid=507388.1292838&type=2&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fhands-on-machine-learning-without-writing-code%2F) - भुगतान करना, वैकल्पिक
+* [Data Science Training + Industry Experience](https://datasciencedojo.com/data-science-training-and-internship/ref/whatsai/) - एक पूर्ण इंस्ट्रक्टर-लेड 16-सप्ताह कार्यक्रम है जिसमें अनुभव शामिल है (भुगतान करना, वैकल्पिक)।
+* [Instructor-led Online Data Science Bootcamp](https://datasciencedojo.com/data-science-bootcamp/ref/whatsai/) - एक पूर्ण इंस्ट्रक्टर-लेड 16-सप्ताह कार्यक्रम है (भुगतान करना, वैकल्पिक)।
+* [fast.ai's Deep Learning Courses](https://www.fast.ai/) - मुफ्त
+* [CS50 - Introduction to Artificial Intelligence with Python (and Machine Learning), Harvard OCW](https://cs50.harvard.edu/ai/2020/) - मुफ्त (और शिक्षकों के लिए भी उपयोगी है!)
+* [DEEP LEARNING COURSE - François Fleuret](https://fleuret.org/dlc/) - यह कोर्स डीप-लर्निंग के एक विस्तृत परिचय है, जिसमें पायथन के फ्रेमवर्क में उदाहरण शामिल हैं। कुछ [पूर्व आवश्यकताएं](https://fleuret.org/dlc/#information) हैं।
+
+विशिष्ट अनुप्रयोगों के लिए:
+* [Become an NLP pro with Coursera's Natural Language Processing Specialization by deeplearning.ai](https://coursera.pxf.io/P0vO9e) - भुगतान करना
+ _"NLP के क्षेत्र में प्रवेश करें। चार हाथों से अनुभव के माध्यम से अग्रणी NLP तकनीकों को मास्टर करें!"_
+
+अपने मॉडल को ऑनलाइन पर ले जाएं और दुनिया के सामने उन्हें दिखाएं:
+* [Gradio Course - Create User Interfaces for Machine Learning Models - freeCodeCamp](https://youtu.be/RiCQzBluTxU) - मुफ्त
+* [How to Deploy a Machine Learning Model to Google Cloud - Daniel Bourke](https://youtu.be/fw6NMQrYc6w) - मुफ्त
+
+## प्रशिक्षण, प्रशिक्षण, और प्रशिक्षण!<a name="practice"></a>
+
+### प्रशिक्षण महत्वपूर्ण है
+
+प्रोग्रामिंग में सबसे महत्वपूर्ण बात अभ्यास है। और यह मशीन लर्निंग में भी लागू होता है। अपने व्यक्तिगत प्रोजेक्ट ढूंढना कठिन हो सकता है जिस पर अभ्यास कर सकें।
+
+खुशनुमा बात यह है कि [Kaggle](https://www.kaggle.com/) मौजूद है। यह वेबसाइट मुफ्त कोर्स, ट्यूटोरियल और प्रतियोगिताओं से भरी पड़ी है। आप अपने बिना कोई शुल्क देकर प्रतियोगिताओं में शामिल हो सकते हैं और तुरंत उनके डेटा डाउनलोड कर सकते हैं, उनकी समस्या के बारे में पढ़ सकते हैं और कोडिंग और परीक्षण शुरू कर सकते हैं! आप प्रतियोगिताओं में जीत कर धन भी कमा सकते हैं और यह आपके रिज्यूमे पर एक अच्छी बात है। यह अधिकतम अनुभव प्राप्त करते हुए बहुत कुछ सीखने और धन कमाने का सबसे अच्छा तरीका हो सकता है! प्रोजेक्ट के लिए एक अन्य अच्छा अवसर उन कोर्स के पालन करना है जो एक विशिष्ट अनुप्रयोग के ओरिएंटेड होते हैं जैसे [From Beginner to Advanced LLM Developer](https://academy.towardsai.net/courses/beginner-to-advanced-llm-dev?ref=1f9b29), जो हमने Towards AI पर बनाए एआई ट्यूटर को दोहराने के लिए सिखाता है और आपको इसे एक वास्तविक ऑनलाइन चीज में लाइव डालने के साथ समाप्त करता है!
+
+आप Kaggle प्रतियोगिताओं के लिए टीम भी बना सकते हैं और लोगों के साथ सीख सकते हैं! मैं आपको एक समुदाय में शामिल होने की सलाह देता हूं ताकि आप एक टीम ढूंढ सकें और अन्य लोगों के साथ सीख सकें, यह अकेले सीखने के मुकाबले हमेशा बेहतर होता है। इसके लिए अगले खंड की जांच करें।
+
+## भाषा मॉडल/एप्लिकेशन बनाना चाहते हैं? इसे देखें (अब LLMs के साथ!)!<a name="nlp"></a>
+
+मुझे लोगों से कई अनुरोध मिले हैं जो प्राकृतिक भाषा प्रसंस्करण (NLP) (भाषा से संबंधित मॉडल) पर ध्यान केंद्रित करना चाहते हैं या यहां तक कि एनएलपी कार्यों के लिए मशीन लर्निंग के बारे में सीखना चाहते हैं। यह एक अनुभाग है जो इस आवश्यकता के लिए समर्पित है। खुश एनएलपी सीखना!
+* [2022 में एनएलपी मास्टर करने के लिए एक पूर्ण रोडमैप](https://www.analyticsvidhya.com/blog/2022/01/roadmap-to-master-nlp-in-2022/)
+* [कौर्सेरा के द्वारा डीपलर्निंग.एआई के एनएलपी स्पेशलाइजेशन के साथ एनएलपी प्रो बनें](https://coursera.pxf.io/P0vO9e) - भुगतान करें
+ _"एनएलपी के क्षेत्र में प्रवेश करें। चार हाथों के साथ कोर्स के माध्यम से आधुनिक एनएलपी तकनीकों को मास्टर करें!"_
+* [एक एनएलपी नैनो डिग्री!](https://imp.i115008.net/jW4K60) — भुगतान करें
+_"आवाज के प्रसंस्करण और पाठ के विश्लेषण के लिए आधुनिक प्राकृतिक भाषा प्रसंस्करण तकनीकों के बारे में सीखें। ऐसे अनुभवजन्य मॉडल बनाएं जैसे कि छिपे हुए मार्कोव मॉडल और पुनर्गठन न्यूरल नेटवर्क ताकि कंप्यूटर को आवाज की पहचान, मशीन अनुवाद आदि जैसे कार्य करने के लिए सिखाया जा सके!"_
+* एनएलपी के पीछे मूल सिद्धांतों के बारे में सीखने के लिए एक मुफ्त संसाधन, [एनएलटीके बुक](https://www.nltk.org/book/)
+* एक त्वरित पाठ वर्गीकरण मॉडल या शब्द वेक्टराइजर बनाने के लिए, [फास्टटेक्स्ट](https://fasttext.cc/docs/en/supervised-tutorial.html) एक अच्छी लाइब्रेरी है जो त्वरित रूप से मॉडल के ट्रेनिंग के लिए उपयोग की जा सकती है।
+* [हुगिंगफेस](https://huggingface.co/course/chapter1/1) आधुनिक एनएलपी मॉडल प्राप्त करने के लिए एक बेहतरीन स्थान है, और वे इसके बारे में एक पूरा [कोर्स](https://huggingface.co/course/chapter1/1) भी शामिल करते हैं।
+* [स्पा-सी](https://course.spacy.io/en/) उत्पादन में एनएलपी के लिए अच्छा है, क्योंकि यह एनएलयू, एनईआर करता है और एक वर्गीकरण आदि के साथ ट्रेनिंग कर सकता है। यह नल के पाइपलाइन में अनुकूलित चरणों या मॉडलों को भी जोड़ने में सक्षम है।
+* [प्रॉम्प्टिंग!](https://learnprompting.org/) प्रॉम्प्टिंग एक नई कौशल है जिसे आप एनएलपी संबंधी एप्लिकेशन बनाना चाहते हैं उसके लिए मास्टर करना चाहिए। यह एक अच्छा कोर्स है जिसमें मैं योगदान दे रहा हूं, जिसके उद्देश्य से प्रॉम्प्टिंग के बारे में सिखाना और विशिष्ट मॉडलों के लिए सुझाव देना है।
+
+### ट्रेन, फाइन-ट्यून और बड़े भाषा मॉडल का उपयोग करें!
+
+* [लैंगचेन और वेक्टर डेटाबेस प्रोडक्शन में](https://learn.activeloop.ai/courses/langchain/) - एक अद्भुत मुफ्त संसाधन जो हमने टॉवर्ड्स एआई के साथ एक्टिवलूप और इंटेल डिसरुप्टर इनिशिएटिव के साथ बनाया है प्रोडक्शन में लैंगचेन और वेक्टर डेटाबेस के बारे में सीखने के लिए। "क्या आप एआई के क्षेत्र में नए हैं या एक अनुभवी मशीन लर्निंग उत्साही हैं, इस कोर्स के लिए आपके लिए डिज़ाइन किया गया है। हमारा लक्ष्य एआई को उपलब्ध और व्यावहारिक बनाना है, जो आपके दैनिक कार्यों के तरीके और आपके काम के सामान्य प्रभाव को बदल देगा।"
+* [प्रोडक्शन के लिए एलएलएम के प्रशिक्षण और फाइन-ट्यूनिंग](https://learn.activeloop.ai/courses/llms/) - एक अद्भुत मुफ्त संसाधन जो हमने टॉवर्ड्स एआई के साथ एक्टिवलूप और इंटेल डिसरुप्टर इनिशिएटिव के साथ बनाया है प्रोडक्शन के लिए एलएलएम के प्रशिक्षण और फाइन-ट्यूनिंग के बारे में सीखने के लिए। "यदि आप सीखना चाहते हैं कि कैसे एलएलएम को शून्य से प्रशिक्षित और फाइन-ट्यून करें, और आपके पास अंतर्मुखी पायथन ज्ञान और मध्यम कंप्यूटेशन संसाधनों के उपलब्धता है (कुछ मामलों में, केवल गूगल कोलैब भी पर्याप्त हो सकता है!), तो आप कोर्स लेने और पूरा करने के लिए तैयार हैं। इस कोर्स को एक व्यापक विश्वास के साथ डिज़ाइन किया गया है, जिसमें एआई के शुरुआती, वर्तमान मशीन लर्निंग इंजीनियर, छात्र और एआई में करियर स्थानांतरण के लिए विचार कर रहे व्यावसायिक शामिल हैं। हम आपको उत्पन्न और एलएलएम के विस्तृत उद्योगों में लागू करने और अनुकूलित करने के आवश्यक उपकरण प्रदान करने के लिए चाहते हैं ताकि एआई अधिक उपलब्ध और व्यावहारिक हो सके।"
+* [शुरुआत से एलएलएम विकासकर्ता तक](https://academy.towardsai.net/courses/beginner-to-advanced-llm-dev?ref=1f9b29) - टॉवर्ड्स एआई द्वारा। "एलएलएम, प्रॉम्प्टिंग, आरएजी, फाइन-ट्यूनिंग और एजेंट्स के साथ अपना पहला पैम्पर के उत्पाद बनाएं! शीर्ष कंपनियों की आवश्यकता वाले कौशल मास्टर करें और वास्तविक दुनिया के अनुप्रयोगों के साथ अपना एडवांस्ड एलएलएम एमवीपी बनाएं।"
+* [प्रोडक्शन के लिए एलएलएम बनाना: प्रॉम्प्टिंग, फाइन-ट्यूनिंग और आरएजी के साथ एलएलएम की क्षमता और विश्वसनीयता के बढ़ाना](https://amzn.to/4bqYU9b) - टॉवर्ड्स एआई द्वारा। "वास्तविक दुनिया के अनुप्रयोगों में बड़े भाषा मॉडल के अनुकूलन के लिए मुख्य टेक स्टैक की खोज करें, जिसमें प्रॉम्प्ट इंजीनियरिंग, फाइन-ट्यूनिंग और रिट्रीवल अग्मेंट जेनरेशन शामिल है।" (या ई-बुक के लिए [यहां](https://academy.towardsai.net/courses/buildingllmsforproduction?ref=1f9b29) प्राप्त करें। आप मुझे एक अच्छा छूट प्राप्त करने के लिए डीएम कर सकते हैं!)
+
+[![ट्विटर](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40whats_ai)](https://twitter.com/Whats_AI)
+
+## अधिक संसाधन< a name="moreresources"></a>
+
+### समुदाय में शामिल हों!
+
+* [एक डिस्कॉर्ड सर्वर जहां कई एआई उत्साही हैं](https://discord.gg/learnaitogether) - एक साथ सीखें, प्रश्न पूछें, कैगल टीम मैंबर ढूंढें, अपने प्रोजेक्ट साझा करें आदि।
+* [एक डिस्कॉर्ड सर्वर जहां आप नवीनतम एआई समाचारों के साथ अप-टू-डेट रह सकते हैं](https://ws.towardsai.net/discord) - नवीनतम एआई समाचारों के साथ अप-टू-डेट रहें, प्रश्न पूछें, अपने प्रोजेक्ट साझा करें आदि।
+
+* रेडिट समुदाय के अनुसरण करें - प्रश्न पूछें, अपने प्रोजेक्ट साझा करें, समाचारों के अनुसरण करें आदि।
+    * [artificial](https://www.reddit.com/r/artificial/) - कृत्रिम बुद्धिमत्ता
+    * [MachineLearning](https://www.reddit.com/r/MachineLearning/) - मशीन लर्निंग (क्षेत्र का सबसे बड़ा सबरेडिट)
+    * [DeepLearningPapers](https://www.reddit.com/r/DeepLearningPapers/) - गहरा लर्निंग पेपर
+    * [ComputerVision](https://www.reddit.com/r/computervision/) - छवियों और वीडियो से उपयोगी जानकारी निकालना
+    * [learnmachinelearning](https://www.reddit.com/r/learnmachinelearning/) - मशीन लर्निंग सीखें
+    * [ArtificialInteligence](https://www.reddit.com/r/ArtificialInteligence/) - एआई
+    * [LatsestInML](https://www.reddit.com/r/LatestInML/) - मशीन लर्निंग में खेल बदलने वाले विकास जो आपको नहीं छोड़ने चाहिए
+
+### सेव करें ट्रिक्स शीट!
+
+* कृत्रिम बुद्धिमत्ता, मशीन बुद्धिमत्ता और पायथन के लिए सर्वोत्तम ट्रिक्स शीट।
+    * [AI, न्यूरल नेटवर्क, मशीन बुद्धिमत्ता, डीप लर्निंग और बिग डेटा के लिए ट्रिक्स शीट](https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463) - स्टेफन कोजुहारोव
+    * [स्टैनफोर्ड के CS 229 के लिए मशीन बुद्धिमत्ता ट्रिक्स शीट](https://github.com/afshinea/stanford-cs-229-machine-learning) - अफशीन अमिडी और शर्वीन अमिडी
+    * [मशीन बुद्धिमत्ता और पायथन (और गणित) के ट्रिक्स शीट](https://medium.com/machine-learning-in-practice/cheat-sheet-of-machine-learning-and-python-and-math-cheat-sheets-a4afe4e791b6) - रॉबी एलन
+    * [AI विशेषज्ञ रोडमैप](https://i.am.ai/roadmap/#fundamentals) - इसका उपयोग कौशल सूची के रूप में करें!
+
+[<img src="https://imgur.com/hLr2aQF.png" width="512"/>](https://academy.towardsai.net/courses/beginner-to-advanced-llm-dev?ref=1f9b29)
+
+### अपने क्षेत्र में खबरों का पता रखें!
+
+* YouTube चैनलों के सब्सक्रिप्शन करें जो नए पेपर साझा करते हैं - अपने क्षेत्र में खबरों के साथ अपडेट रहें!
+    * [Louis Bouchard](https://www.youtube.com/channel/UCUzGQrN-lyyc0BWTYoJM_Sg) - हफ्तेवार वीडियो जो नए पेपर को कवर करते हैं
+    * [Two Minutes Papers](https://www.youtube.com/user/keeroyz) - दो हफ्ते में एक वीडियो जो नए पेपर को कवर करते हैं
+    * [Bycloud](https://www.youtube.com/channel/UCgfe2ooZD3VJPB6aJAnuQng) - हफ्तेवार वीडियो जो नए पेपर को कवर करते हैं
+
+* लिंक्डइन समूह
+    * [Artificial Intelligence, Machine Learning and Deep Learning News](https://www.linkedin.com/groups/8942343/) - समूह के सभी सदस्यों द्वारा क्षेत्र की खबरों का साझा किया जाता है
+    * [Artificial Intelligence | Deep Learning  | Machine Learning](https://www.linkedin.com/groups/45655/)
+    * [Applied Artificial Intelligence](https://www.linkedin.com/groups/127447/)
+
+* फेसबुक समूह
+    * [Artificial Intelligence & Deep Learning](https://www.facebook.com/groups/DeepNetGroup) - एआई, न्यूरल नेटवर्क और डीप लर्निंग पर सबसे अधिक सक्रिय एफबी समूह। एआई और डीप लर्निंग के अगले सीमा पर नए और रोचक सब कुछ। आगामी वर्षों में न्यूरल नेटवर्क एक बुद्धिमान मशीन होने का अर्थ बदल देंगे।
+    * [Deep learning](https://www.facebook.com/groups/DeepLearnng/) - आजकल समाज कठोर और स्वचालित हो रहा है और चौथी औद्योगिक क्रांति में बदल रहा है, जिसके परिणामस्वरूप समाज के घटकों को सामाजिक अस्थिरता के घूमने में धकेल दिया जा रहा है। जीवित रहने या एक नेता बनने के लिए एक को संबंधित उपकरणों के साथ लैस होना चाहिए। मशीन अब बुद्धिमान और अधिक बुद्धिमान हो रही है। मशीन लर्निंग अपरिहार्य कौशल है और इसकी आवश्यकता है कि लोग इसके साथ परिचित हों। यह समूह उन लोगों के लिए है जो अपनी क्षमताओं के विकास में रुचि रखते हैं।
+
+* समाचार पत्र
+   * [AlphaSignal](https://alphasignal.ai/) — एआई में सबसे अधिक पढ़े जाने वाले तकनीकी समाचार पत्र
+   * [AI News](https://buttondown.email/ainews/archive/) - स्वाइक्स और दोस्तों द्वारा - एलईएम एड बहुत सारे ट्विटर्स, डिस्कॉर्ड्स आदि के सूचकांक के साथ। (मैं अक्सर मुख्य सारांश पढ़ता हूं)
+   * [Inside AI](https://inside.com/ai) - कृत्रिम बुद्धिमत्ता, रोबोटिक्स और न्यूरोटेक्नोलॉजी पर कहानियों और टिप्पणियों का एक दैनिक समाहरण।
+   * [AI Weekly](http://aiweekly.co/) - एआई खबरों और कृत्रिम बुद्धिमत्ता और मशीन लर्निंग पर संसाधनों का एक साप्ताहिक संग्रह।
+   * [AI Ethics Weekly](https://lighthouse3.com/newsletter/) - हर सप्ताह एआई नैतिकता में अपडेट आपके ईमेल तक पहुंचता है।
+   * [Louis Bouchard Weekly](https://louisbouchard.substack.com/) - हफ्तेवार एक और केवल एक पेपर को एक लेख, वीडियो डेमो, डेमो, कोड आदि के साथ स्पष्ट रूप से समझाया जाता है।
+   * [Toward's AI newsletter](https://towardsai.net/ai/newsletter) - सबसे रोचक खबरों और सीखने के संसाधनों का साप्ताहिक सारांश और लर्न एआई टूगेदर डिस्कॉर्ड समुदाय से समुदाय अपडेट। एमएल विशेषज्ञों और प्रेमियों के लिए आदर्श है।
+    
+* मीडियम खातों और प्रकाशनों के पीछा करें
+    * [Towards Data Science](https://towardsdatascience.com/) - "अवधारणाओं, विचारों और कोड के साझा करना"
+    * [Towards AI](https://medium.com/towards-artificial-intelligence) - "तकनीक, विज्ञान और इंजीनियरिंग के सर्वोत्तम।"
+    * [OneZero](https://onezero.medium.com/) - "भविष्य के धारा। एक मीडियम प्रकाशन जो तकनीक और विज्ञान के बारे में है।"
+    * [Louis Bouchard](https://whats-ai.medium.com/) - "हैलो, मैं लुई (लूई, फ्रांसीसी उच्चारण), मॉन्ट्रियल, कनाडा से हूं। मैं अपने तरीके से एआई शब्दों और खबरों को साझा और समझाने की कोशिश करता हूं। मेरा लक्ष्य हर किसी के लिए एआई 'काला बॉक्स' को अज्ञात करना और इसके उपयोग के जोखिमों के बारे में लोगों को सचेत करना है।"
+   
+* एआई समाचार के साथ अपडेट रहने के लिए इस पूर्ण गिटहब गाइड की जांच करें
+   * [BAILOOL/DoYouEvenLearn](https://github.com/louisfb01/DoYouEvenLearn) - एआई/एमएल/डीएल/सीवी के साथ अपडेट रहने के लिए आवश्यक मार्गदर्शिका
+
+## मशीन लर्निंग नौकरी ढूंढें<a name="findajob"></a>
+
+* [इस अनुच्छेद](https://www.louisbouchard.ai/learnai/#how-to-find-a-job) से पढ़ें जो प्रतियोगिता के टिप्स और **उनके लिए तैयारी कैसे करें** से भरा है।
+* अन्य लोगों द्वारा कैसे किया गया था, जैसे [इंटरव्यू सीरीज़](https://youtube.com/playlist?list=PLO4GrDnQanVfrRIuIT_1rlLLTgQJdfXmS) जिसे मैं NVIDIA, Zoox (स्व-चालित कंपनी), D-ID (जेनरेटिव AI स्टार्टअप) आदि से विशेषज्ञों के साथ चलाया गया था, देखकर प्रतियोगिता प्रक्रिया के बारे में सीखें और उनके लिए तैयारी में बेहतर होने के तरीके सीखें।
+
+## AI नैतिकता<a name="aiethics"></a>
+
+* [नैतिकता क्या है और क्यों महत्वपूर्ण है? मशीन लर्निंग संस्करण](https://www.youtube.com/watch?v=F0cxzESR7ec&list=PLtmWHNX-gukIU6V33Bc8eP8OD41I4GywR&ab_channel=RachelThomas) - रैचल थॉमस द्वारा, फास्ट.एआई के संस्थापक
+* [AI4People—एक अच्छे AI समाज के लिए नैतिक फ्रेमवर्क: अवसर, जोखिम, सिद्धांत और सिफारिशें](https://link.springer.com/content/pdf/10.1007/s11023-018-9482-5.pdf) - फ्लोरिडी आदि, 2018, AI4People AI एक अच्छे समाज के लिए
+* [विश्वासयोग्य AI के लिए नैतिक प्रायोगिक निर्देश](https://wayback.archive-it.org/12090/20210728013426/https://digital-strategy.ec.europa.eu/en/library/ethics-guidelines-trustworthy-ai) - यूरोपीय संघ के उच्च स्तर के विशेषज्ञ समूह 7 बिंदु एक विश्वासयोग्य AI के लिए।
+* [रोबोटिक्स और AI में नैतिकता का परिचय](https://link.springer.com/book/10.1007/978-3-030-51110-4) - च्रिस्टोफ बार्टनेक, च्रिस्टोफ लूट्जे, एलन वॉगनर और शॉन वेल्श द्वारा एक मुफ्त ई-बुक।
+
+---
+***मुझे ट्विटर पर [@Whats_AI](https://twitter.com/Whats_AI) या लिंक्डइन पर [@Louis Bouchard](https://www.linkedin.com/in/whats-ai/) पर टैग करें अगर आप सूची साझा करते हैं!***
+
+👀 **अगर आप मेरे काम का समर्थन करना चाहते हैं**, तो आप [स्पॉन्सर](https://github.com/sponsors/louisfb01) इस रिपॉजिटरी को देख सकते हैं।
+
+यह गाइड अभी भी नियमित रूप से अपडेट किया जा रहा है।
+

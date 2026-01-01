@@ -1,3 +1,9 @@
+<!--START_SECTION:navbar-->
+<div align="center">
+  <a href="README.md">🇺🇸 English</a> | <a href="locales/README.de.md">🇩🇪 Deutsch</a> | <a href="locales/README.es.md">🇪🇸 Español</a> | <a href="locales/README.fr.md">🇫🇷 Français</a> | <a href="locales/README.hi.md">🇮🇳 हिंदी</a> | <a href="locales/README.ja.md">🇯🇵 日本語</a> | <a href="locales/README.ko.md">🇰🇷 한국어</a> | <a href="locales/README.pt.md">🇵🇹 Português</a> | <a href="locales/README.ru.md">🇷🇺 Русский</a> | <a href="locales/README.zh.md">🇨🇳 中文</a>
+</div>
+<!--END_SECTION:navbar-->
+
 # Start Machine Learning in 2025 - Become an expert for free!
 
 ## A complete guide to start and improve in machine learning (ML), artificial intelligence (AI) in 2025 without ANY background in the field and stay up-to-date with the latest news and state-of-the-art techniques!
