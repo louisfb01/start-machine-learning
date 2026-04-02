@@ -230,8 +230,8 @@ _"Learn cutting-edge natural language processing techniques to process speech an
     * [DeepLearningPapers](https://www.reddit.com/r/DeepLearningPapers/) - Deep Learning Papers
     * [ComputerVision](https://www.reddit.com/r/computervision/) - Extracting useful information from images and videos
     * [learnmachinelearning](https://www.reddit.com/r/learnmachinelearning/) - Learn Machine Learning
-    * [ArtificialInteligence](https://www.reddit.com/r/ArtificialInteligence/) - AI
-    * [LatsestInML](https://www.reddit.com/r/LatestInML/) - Game-changing developments in machine learning you shouldn't miss
+    * [ArtificialIntelligence](https://www.reddit.com/r/ArtificialInteligence/) - AI
+    * [LatestInML](https://www.reddit.com/r/LatestInML/) - Game-changing developments in machine learning you shouldn't miss
 
 
 ### Save Cheat Sheets!
@@ -267,7 +267,7 @@ _"Learn cutting-edge natural language processing techniques to process speech an
    * [AI Weekly](http://aiweekly.co/) - A weekly collection of AI News and resources on Artificial Intelligence and Machine Learning.
    * [AI Ethics Weekly](https://lighthouse3.com/newsletter/) - The latest updates in AI Ethics delivered to your inbox every week.
    * [Louis Bouchard Weekly](https://louisbouchard.substack.com/) - One and only one paper clearly explained weekly with an article, video demo, demo, code, etc.
-   * [Toward's AI newsletter](https://towardsai.net/ai/newsletter) - Summarizing the most interesting news and learning resources weekly as well as community updates from the Learn AI Together Discord community. Perfect for ML professionals and enthusiasts.
+   * [Towards AI newsletter](https://towardsai.net/ai/newsletter) - Summarizing the most interesting news and learning resources weekly as well as community updates from the Learn AI Together Discord community. Perfect for ML professionals and enthusiasts.
     
 * Follow Medium accounts and publications
     * [Towards Data Science](https://towardsdatascience.com/) - "Sharing concepts, ideas, and codes"
