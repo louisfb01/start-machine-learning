@@ -264,7 +264,7 @@ _"Learn cutting-edge natural language processing techniques to process speech an
    * [AlphaSignal](https://alphasignal.ai/) — The Most Read Technical Newsletter in AI
    * [AI News](https://buttondown.email/ainews/archive/) - by Swyx & friends - a lot of LLM aid going on indexing ~356 Twitters, ~21 Discords, etc. (I personally mostly read the main recap)
    * [Inside AI](https://inside.com/ai) - A daily roundup of stories and commentary on Artificial Intelligence, Robotics, and Neurotechnology.
-   * [AI Weekly](http://aiweekly.co/) - A weekly collection of AI News and resources on Artificial Intelligence and Machine Learning.
+   * [AI Weekly](https://aiweekly.co/) - Discover what AI experts are reading and sharing right now, ranked and explained three times a week.
    * [AI Ethics Weekly](https://lighthouse3.com/newsletter/) - The latest updates in AI Ethics delivered to your inbox every week.
    * [Louis Bouchard Weekly](https://louisbouchard.substack.com/) - One and only one paper clearly explained weekly with an article, video demo, demo, code, etc.
    * [Toward's AI newsletter](https://towardsai.net/ai/newsletter) - Summarizing the most interesting news and learning resources weekly as well as community updates from the Learn AI Together Discord community. Perfect for ML professionals and enthusiasts.
