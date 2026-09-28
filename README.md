@@ -176,6 +176,7 @@ If you prefer to be more guided and have clear steps to follow, these courses ar
 * [fast.ai's Deep Learning Courses](https://www.fast.ai/) - Free
 * [CS50 - Introduction to Artificial Intelligence with Python (and Machine Learning), Harvard OCW](https://cs50.harvard.edu/ai/2020/) - Free (and usable for teachers as well!)
 * [DEEP LEARNING COURSE - François Fleuret](https://fleuret.org/dlc/) - This course is a thorough introduction to deep-learning, with examples in the PyTorch framework. There are some [prerequisites](https://fleuret.org/dlc/#information).
+* [QuiddityML](https://quiddityml.com/?utm_source=github&utm_medium=awesome&utm_campaign=start-machine-learning) - Short lessons, 11 types of hands-on exercises, and spaced repetition, following a beginner-to-advanced path through Python, PyTorch, math for ML, ML foundations, NLP, and computer vision.
 
 For specific applications:
 * [Become an NLP pro with Coursera's Natural Language Processing Specialization by deeplearning.ai](https://coursera.pxf.io/P0vO9e) - Paid
